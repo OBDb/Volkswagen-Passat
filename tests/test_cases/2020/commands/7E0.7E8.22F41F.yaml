@@ -1,0 +1,142 @@
+command_id: 7E0.7E8.22F41F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F41F0000
+  expected_values:
+    VOLKSWAGEN_RUNTM: 0
+- response: 7E80562F41F001A
+  expected_values:
+    VOLKSWAGEN_RUNTM: 26
+- response: 7E80562F41F001C
+  expected_values:
+    VOLKSWAGEN_RUNTM: 28
+- response: 7E80562F41F0020
+  expected_values:
+    VOLKSWAGEN_RUNTM: 32
+- response: 7E80562F41F0028
+  expected_values:
+    VOLKSWAGEN_RUNTM: 40
+- response: 7E80562F41F0037
+  expected_values:
+    VOLKSWAGEN_RUNTM: 55
+- response: 7E80562F41F003B
+  expected_values:
+    VOLKSWAGEN_RUNTM: 59
+- response: 7E80562F41F0046
+  expected_values:
+    VOLKSWAGEN_RUNTM: 70
+- response: 7E80562F41F0057
+  expected_values:
+    VOLKSWAGEN_RUNTM: 87
+- response: 7E80562F41F005A
+  expected_values:
+    VOLKSWAGEN_RUNTM: 90
+- response: 7E80562F41F005B
+  expected_values:
+    VOLKSWAGEN_RUNTM: 91
+- response: 7E80562F41F0065
+  expected_values:
+    VOLKSWAGEN_RUNTM: 101
+- response: 7E80562F41F0074
+  expected_values:
+    VOLKSWAGEN_RUNTM: 116
+- response: 7E80562F41F0078
+  expected_values:
+    VOLKSWAGEN_RUNTM: 120
+- response: 7E80562F41F0082
+  expected_values:
+    VOLKSWAGEN_RUNTM: 130
+- response: 7E80562F41F0093
+  expected_values:
+    VOLKSWAGEN_RUNTM: 147
+- response: 7E80562F41F0096
+  expected_values:
+    VOLKSWAGEN_RUNTM: 150
+- response: 7E80562F41F0098
+  expected_values:
+    VOLKSWAGEN_RUNTM: 152
+- response: 7E80562F41F00AD
+  expected_values:
+    VOLKSWAGEN_RUNTM: 173
+- response: 7E80562F41F00B1
+  expected_values:
+    VOLKSWAGEN_RUNTM: 177
+- response: 7E80562F41F00B3
+  expected_values:
+    VOLKSWAGEN_RUNTM: 179
+- response: 7E80562F41F00B5
+  expected_values:
+    VOLKSWAGEN_RUNTM: 181
+- response: 7E80562F41F00CA
+  expected_values:
+    VOLKSWAGEN_RUNTM: 202
+- response: 7E80562F41F00D1
+  expected_values:
+    VOLKSWAGEN_RUNTM: 209
+- response: 7E80562F41F00D3
+  expected_values:
+    VOLKSWAGEN_RUNTM: 211
+- response: 7E80562F41F00D5
+  expected_values:
+    VOLKSWAGEN_RUNTM: 213
+- response: 7E80562F41F00DF
+  expected_values:
+    VOLKSWAGEN_RUNTM: 223
+- response: 7E80562F41F00E8
+  expected_values:
+    VOLKSWAGEN_RUNTM: 232
+- response: 7E80562F41F00EF
+  expected_values:
+    VOLKSWAGEN_RUNTM: 239
+- response: 7E80562F41F00F1
+  expected_values:
+    VOLKSWAGEN_RUNTM: 241
+- response: 7E80562F41F00F4
+  expected_values:
+    VOLKSWAGEN_RUNTM: 244
+- response: 7E80562F41F00FD
+  expected_values:
+    VOLKSWAGEN_RUNTM: 253
+- response: 7E80562F41F0106
+  expected_values:
+    VOLKSWAGEN_RUNTM: 262
+- response: 7E80562F41F010D
+  expected_values:
+    VOLKSWAGEN_RUNTM: 269
+- response: 7E80562F41F010F
+  expected_values:
+    VOLKSWAGEN_RUNTM: 271
+- response: 7E80562F41F0113
+  expected_values:
+    VOLKSWAGEN_RUNTM: 275
+- response: 7E80562F41F0125
+  expected_values:
+    VOLKSWAGEN_RUNTM: 293
+- response: 7E80562F41F0126
+  expected_values:
+    VOLKSWAGEN_RUNTM: 294
+- response: 7E80562F41F012D
+  expected_values:
+    VOLKSWAGEN_RUNTM: 301
+- response: 7E80562F41F0131
+  expected_values:
+    VOLKSWAGEN_RUNTM: 305
+- response: 7E80562F41F014F
+  expected_values:
+    VOLKSWAGEN_RUNTM: 335
+- response: 7E80562F41F016D
+  expected_values:
+    VOLKSWAGEN_RUNTM: 365
+- response: 7E80562F41F018B
+  expected_values:
+    VOLKSWAGEN_RUNTM: 395
+- response: 7E80562F41F01A9
+  expected_values:
+    VOLKSWAGEN_RUNTM: 425
+- response: 7E80562F41F01C7
+  expected_values:
+    VOLKSWAGEN_RUNTM: 455
+- response: 7E80562F41F01E5
+  expected_values:
+    VOLKSWAGEN_RUNTM: 485

@@ -1,0 +1,244 @@
+command_id: 7E0.7E8.222062
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E805622062017D
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.381
+- response: '7E8056220620182'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.386
+- response: 7E80562206201AE
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.43
+- response: 7E80562206201B7
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.439
+- response: 7E80562206201BC
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.444
+- response: 7E80562206201CB
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.459
+- response: 7E80562206201DA
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.474
+- response: 7E80562206201E3
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.483
+- response: 7E80562206201F2
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.498
+- response: 7E80562206201FC
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.508
+- response: '7E8056220620214'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.532
+- response: '7E8056220620219'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.537
+- response: 7E805622062021E
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.542
+- response: '7E8056220620223'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.547
+- response: '7E8056220620232'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.562
+- response: '7E8056220620236'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.566
+- response: 7E805622062023B
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.571
+- response: '7E8056220620240'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.576
+- response: '7E8056220620245'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.581
+- response: '7E8056220620254'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.596
+- response: '7E8056220620259'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.601
+- response: '7E8056220620262'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.61
+- response: '7E8056220620271'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.625
+- response: '7E8056220620276'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.63
+- response: '7E8056220620280'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.64
+- response: '7E8056220620289'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.649
+- response: 7E805622062029D
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.669
+- response: 7E80562206202A2
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.674
+- response: 7E80562206202A7
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.679
+- response: 7E80562206202AC
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.684
+- response: 7E80562206202B0
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.688
+- response: 7E80562206202B5
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.693
+- response: 7E80562206202BF
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.703
+- response: 7E80562206202C4
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.708
+- response: 7E80562206202C9
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.713
+- response: 7E80562206202D3
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.723
+- response: 7E80562206202D8
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.728
+- response: 7E80562206202DC
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.732
+- response: 7E80562206202E1
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.737
+- response: 7E80562206202E6
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.742
+- response: 7E80562206202F5
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.757
+- response: 7E80562206202FA
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.762
+- response: '7E8056220620303'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.771
+- response: '7E8056220620308'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.776
+- response: 7E805622062030D
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.781
+- response: 7E805622062031C
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.796
+- response: '7E8056220620321'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.801
+- response: '7E8056220620326'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.806
+- response: 7E805622062032B
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.811
+- response: 7E805622062032F
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.815
+- response: '7E8056220620334'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.82
+- response: '7E8056220620339'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.825
+- response: 7E805622062033E
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.83
+- response: 7E805622062034D
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.845
+- response: '7E8056220620352'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.85
+- response: '7E8056220620356'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.854
+- response: '7E8056220620365'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.869
+- response: 7E805622062036A
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.874
+- response: 7E805622062036F
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.879
+- response: '7E8056220620374'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.884
+- response: '7E8056220620379'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.889
+- response: 7E805622062037E
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.894
+- response: '7E8056220620382'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.898
+- response: '7E8056220620391'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.913
+- response: '7E8056220620396'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.918
+- response: 7E805622062039B
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.923
+- response: 7E80562206203A0
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.928
+- response: 7E80562206203A5
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.933
+- response: 7E80562206203AA
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.938
+- response: 7E80562206203AE
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.942
+- response: 7E80562206203DA
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.986
+- response: 7E80562206203E4
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.996
+- response: 7E80562206203F3
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.011
+- response: 7E80562206203F8
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.016
+- response: '7E8056220620415'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.045
+- response: 7E805622062041A
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.05
+- response: '7E8056220620437'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.079
+- response: '7E8056220620463'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.123
+- response: '7E8056220620499'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.177
+- response: '7E8056220620566'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.382

@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.221164
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E8037F2278
+    7E80762116400000000
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 0
+- response: '7E80762116400000000'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 0
