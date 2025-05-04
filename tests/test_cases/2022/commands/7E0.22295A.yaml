@@ -1,0 +1,10 @@
+command_id: 7E0.22295A
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    7E8037F2278
+    7E80762295A0001248D
+  expected_values:
+    VOLKSWAGEN_ODO: 292
+    VOLKSWAGEN_ODO_2: 74893

@@ -74,12 +74,39 @@ test_cases:
 - response: 7ED03415BBC
   expected_values:
     BAT_SOC: 73.72549
+- response: 7ED03415BBF
+  expected_values:
+    BAT_SOC: 74.90196
+- response: 7ED03415BC0
+  expected_values:
+    BAT_SOC: 75.29412
+- response: 7ED03415BC2
+  expected_values:
+    BAT_SOC: 76.07843
+- response: 7ED03415BC3
+  expected_values:
+    BAT_SOC: 76.47059
 - response: 7ED03415BC6
   expected_values:
     BAT_SOC: 77.64706
+- response: 7ED03415BC8
+  expected_values:
+    BAT_SOC: 78.43137
 - response: 7ED03415BC9
   expected_values:
     BAT_SOC: 78.82353
+- response: 7ED03415BCA
+  expected_values:
+    BAT_SOC: 79.21569
+- response: 7ED03415BCD
+  expected_values:
+    BAT_SOC: 80.39216
+- response: 7ED03415BCF
+  expected_values:
+    BAT_SOC: 81.17647
+- response: 7ED03415BD1
+  expected_values:
+    BAT_SOC: 81.96078
 - response: 7ED03415BD2
   expected_values:
     BAT_SOC: 82.35294
@@ -92,3 +119,18 @@ test_cases:
 - response: 7ED03415BD5
   expected_values:
     BAT_SOC: 83.52941
+- response: 7ED03415BD8
+  expected_values:
+    BAT_SOC: 84.70588
+- response: 7ED03415BDC
+  expected_values:
+    BAT_SOC: 86.27451
+- response: 7ED03415BDE
+  expected_values:
+    BAT_SOC: 87.05882
+- response: 7ED03415BE4
+  expected_values:
+    BAT_SOC: 89.41176
+- response: 7ED03415BE5
+  expected_values:
+    BAT_SOC: 89.80392

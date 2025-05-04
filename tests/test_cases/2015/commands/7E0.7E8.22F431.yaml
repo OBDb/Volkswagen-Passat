@@ -2,6 +2,15 @@ command_id: 7E0.7E8.22F431
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E80562F43102D0
+  expected_values:
+    VOLKSWAGEN_CLR_DIST: 720
+- response: 7E80562F43102D1
+  expected_values:
+    VOLKSWAGEN_CLR_DIST: 721
+- response: 7E80562F43102D2
+  expected_values:
+    VOLKSWAGEN_CLR_DIST: 722
 - response: 7E80562F4316F3C
   expected_values:
     VOLKSWAGEN_CLR_DIST: 28476

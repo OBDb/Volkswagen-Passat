@@ -34,6 +34,21 @@ test_cases:
     VOLKSWAGEN_HVBAT_SOC: 0
 - response: |-
     7E8037F2278
+    7E80762115600013F04
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: |-
+    7E8037F2278
+    7E8076211560001570B
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: |-
+    7E8037F2278
+    7E80762115600015778
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: |-
+    7E8037F2278
     7E80762115600053B9F
   expected_values:
     VOLKSWAGEN_HVBAT_SOC: 0
@@ -109,6 +124,24 @@ test_cases:
   expected_values:
     VOLKSWAGEN_HVBAT_SOC: 0
 - response: 7E8076211560000CEFB
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: 7E80762115600013DE3
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: 7E80762115600013E48
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: 7E80762115600013EE8
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: 7E80762115600013F04
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: '7E80762115600015655'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 0
+- response: 7E8076211560001569D
   expected_values:
     VOLKSWAGEN_HVBAT_SOC: 0
 - response: 7E807621156000522A5
