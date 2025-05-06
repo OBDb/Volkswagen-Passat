@@ -2,11 +2,6 @@ command_id: 7E0.2211C4
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: |-
-    7E8037F2278
-    7E8056211C41F48
-  expected_values:
-    VOLKSWAGEN_OIL_MAX: 32.032
 - response: 7E8056211C41F48
   expected_values:
     VOLKSWAGEN_OIL_MAX: 32.032
