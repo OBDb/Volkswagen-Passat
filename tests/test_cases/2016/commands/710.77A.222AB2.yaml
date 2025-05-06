@@ -1,7 +1,0 @@
-command_id: 710.77A.222AB2
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 77A07622AB277000600
-  expected_values:
-    VOLKSWAGEN_HVBAT_CAP: 1523.14307

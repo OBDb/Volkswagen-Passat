@@ -6,22 +6,22 @@ test_cases:
     7E8037F2278
     7E8056211BE0DFD
   expected_values:
-    VOLKSWAGEN_EOT: 3581
+    VOLKSWAGEN_EOT_V2: 3581
 - response: 7E8056211BE0DC1
   expected_values:
-    VOLKSWAGEN_EOT: 3521
+    VOLKSWAGEN_EOT_V2: 3521
 - response: 7E8056211BE0DF0
   expected_values:
-    VOLKSWAGEN_EOT: 3568
+    VOLKSWAGEN_EOT_V2: 3568
 - response: 7E8056211BE0DF2
   expected_values:
-    VOLKSWAGEN_EOT: 3570
+    VOLKSWAGEN_EOT_V2: 3570
 - response: 7E8056211BE0DF6
   expected_values:
-    VOLKSWAGEN_EOT: 3574
+    VOLKSWAGEN_EOT_V2: 3574
 - response: 7E8056211BE0DFD
   expected_values:
-    VOLKSWAGEN_EOT: 3581
+    VOLKSWAGEN_EOT_V2: 3581
 - response: 7E8056211BE0E0C
   expected_values:
-    VOLKSWAGEN_EOT: 3596
+    VOLKSWAGEN_EOT_V2: 3596

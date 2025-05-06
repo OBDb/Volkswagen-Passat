@@ -5,9 +5,15 @@ test_cases:
 - response: '7E90762388701021100'
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111462.5
+- response: '7E90762388704071100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111590.8
 - response: '7E90762388708021100'
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111463.2
+- response: 7E9076238870B071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111591.5
 - response: 7E9076238870E021100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111463.8
@@ -53,6 +59,15 @@ test_cases:
 - response: '7E90762388742021100'
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111469
+- response: '7E90762388745171100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 112006.9
+- response: '7E90762388746171100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 112007
+- response: '7E90762388748171100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 112007.2
 - response: '7E90762388749021100'
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111469.7
@@ -80,9 +95,51 @@ test_cases:
 - response: 7E9076238875F031100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111497.5
+- response: '7E90762388769091100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111652.1
+- response: 7E9076238877A071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111602.6
+- response: 7E9076238877D071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111602.9
+- response: 7E9076238877E071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111603
+- response: '7E90762388782071100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111603.4
+- response: '7E90762388786071100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111603.8
+- response: '7E90762388789071100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111604.1
+- response: 7E9076238878A071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111604.2
+- response: 7E9076238878F071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111604.7
+- response: '7E90762388791071100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111604.9
+- response: '7E90762388793071100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111605.1
+- response: '7E90762388798071100'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111605.6
+- response: 7E9076238879E071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111606.2
 - response: 7E907623887A1041100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111529.7
+- response: 7E907623887A4071100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111606.8
 - response: 7E907623887A8041100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111530.4
@@ -137,15 +194,33 @@ test_cases:
 - response: 7E907623887D6051100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111560.6
+- response: 7E907623887E4061100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111587.6
+- response: 7E907623887E6061100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111587.8
 - response: 7E907623887E9031100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111511.3
+- response: 7E907623887EB061100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111588.3
+- response: 7E907623887F0061100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111588.8
 - response: 7E907623887F4011100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111461.2
+- response: 7E907623887F7061100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111589.5
 - response: 7E907623887F8011100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111461.6
 - response: 7E907623887FC011100
   expected_values:
     VOLKSWAGEN_ODO_TCM_2_HD: 111462
+- response: 7E907623887FD061100
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_2_HD: 111590.1
