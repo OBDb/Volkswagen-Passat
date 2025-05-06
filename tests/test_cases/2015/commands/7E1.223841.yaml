@@ -245,3 +245,120 @@ test_cases:
 - response: 7E907623841002016E2
   expected_values:
     VOLKSWAGEN_ODO_TCM_1: 3793100800
+- response: '7E90762384100201868'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1746411520
+- response: '7E90762384100201872'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1914183680
+- response: 7E9076238410020187C
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2081955840
+- response: '7E90762384100201886'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2249728000
+- response: '7E90762384100201890'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2417500160
+- response: 7E9076238410020189A
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2585272320
+- response: 7E907623841002018A4
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2753044480
+- response: 7E907623841002018AE
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2920816640
+- response: 7E907623841002018B8
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3088588800
+- response: 7E907623841002018C2
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3256360960
+- response: 7E907623841002018CC
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3424133120
+- response: 7E907623841002018D6
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3591905280
+- response: 7E907623841002018E0
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3759677440
+- response: 7E907623841002018EA
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3927449600
+- response: 7E907623841002018F4
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 4095221760
+- response: 7E907623841002018FE
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 4262993920
+- response: '7E90762384100201908'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 135864320
+- response: '7E90762384100201912'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 303636480
+- response: 7E9076238410020191C
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 471408640
+- response: '7E90762384100201926'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 639180800
+- response: '7E90762384100201930'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 806952960
+- response: 7E9076238410020193A
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 974725120
+- response: '7E90762384100201944'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1142497280
+- response: 7E9076238410020194E
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1310269440
+- response: '7E90762384100201958'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1478041600
+- response: '7E90762384100201962'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1645813760
+- response: 7E9076238410020196C
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1813585920
+- response: '7E90762384100201976'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1981358080
+- response: '7E90762384100201980'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2149130240
+- response: 7E9076238410020198A
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2316902400
+- response: '7E90762384100201994'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2484674560
+- response: 7E9076238410020199E
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2652446720
+- response: 7E907623841002019A8
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2820218880
+- response: 7E907623841002019B2
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2987991040
+- response: 7E907623841002019BC
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3155763200
+- response: 7E907623841002019C6
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3323535360
+- response: 7E907623841002019D0
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3491307520
+- response: 7E90762384100201A3E
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1041899520
+- response: 7E90762384100201AF2
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 4061798400

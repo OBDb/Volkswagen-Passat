@@ -4,6 +4,56 @@ extended_addressing_enabled: false
 test_cases:
 - response: |-
     7E8037F2278
+    7E80562028D0BB7
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 299.9
+- response: |-
+    7E8037F2278
+    7E80562028D0BBC
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 300.4
+- response: |-
+    7E8037F2278
+    7E80562028D0BCA
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 301.8
+- response: |-
+    7E8037F2278
     7E80562028D0C0F
   expected_values:
     VOLKSWAGEN_ECU_TEMP: 308.7
+- response: |-
+    7E8037F2278
+    7E80562028D0C43
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 313.9
+- response: |-
+    7E8037F2278
+    7E80562028D0C48
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 314.4
+- response: |-
+    7E8037F2278
+    7E80562028D0C4E
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 315
+- response: |-
+    7E8037F2278
+    7E80562028D0C59
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 316.1
+- response: |-
+    7E8037F2278
+    7E80562028D0C86
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 320.6
+- response: |-
+    7E8037F2278
+    7E80562028D0C8B
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 321.1
+- response: |-
+    7E8037F2278
+    7E80562028D0C92
+  expected_values:
+    VOLKSWAGEN_ECU_TEMP: 321.8

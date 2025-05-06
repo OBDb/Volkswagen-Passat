@@ -1,0 +1,16 @@
+command_id: 7E1.223841
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E90762384100154776'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 1984369920
+- response: '7E90762384100154780'
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 2152142080
+- response: 7E907623841001547EE
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 3997635840
+- response: 7E907623841001547F8
+  expected_values:
+    VOLKSWAGEN_ODO_TCM_1: 4165408000

@@ -9,6 +9,21 @@ test_cases:
     VOLKSWAGEN_HVBAT_SOC_DISP: 19.05
 - response: |-
     7E8037F2278
+    7E80562116407FA
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 20.42
+- response: |-
+    7E8037F2278
+    7E805621164082B
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 20.91
+- response: |-
+    7E8037F2278
+    7E8056211640858
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 21.36
+- response: |-
+    7E8037F2278
     7E8056211640B97
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 29.67
@@ -29,6 +44,36 @@ test_cases:
     VOLKSWAGEN_HVBAT_SOC_DISP: 37.48
 - response: |-
     7E8037F2278
+    7E8056211640FE3
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 40.67
+- response: |-
+    7E8037F2278
+    7E8056211641329
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 49.05
+- response: |-
+    7E8037F2278
+    7E80562116414A6
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 52.86
+- response: |-
+    7E8037F2278
+    7E805621164153C
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 54.36
+- response: |-
+    7E8037F2278
+    7E8056211641728
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 59.28
+- response: |-
+    7E8037F2278
+    7E805621164184F
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 62.23
+- response: |-
+    7E8037F2278
     7E8056211641E49
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 77.53
@@ -42,6 +87,11 @@ test_cases:
     7E8056211641FC8
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 81.36
+- response: |-
+    7E8037F2278
+    7E8056211642071
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 83.05
 - response: |-
     7E8037F2278
     7E8056211642139
@@ -59,6 +109,11 @@ test_cases:
     VOLKSWAGEN_HVBAT_SOC_DISP: 86.48
 - response: |-
     7E8037F2278
+    7E80562116421D4
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 86.6
+- response: |-
+    7E8037F2278
     7E805621164224C
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 87.8
@@ -67,15 +122,57 @@ test_cases:
     7E8056211642252
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 87.86
+- response: '7E8056211640638'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 15.92
+- response: 7E805621164064B
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 16.11
+- response: '7E8056211640657'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 16.23
+- response: 7E805621164066A
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 16.42
+- response: '7E8056211640690'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 16.8
+- response: 7E80562116406A1
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 16.97
+- response: 7E805621164071E
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 18.22
+- response: '7E8056211640732'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 18.42
 - response: '7E8056211640745'
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 18.61
 - response: '7E8056211640771'
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 19.05
+- response: 7E805621164077D
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 19.17
 - response: 7E805621164078A
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 19.3
+- response: 7E80562116407B5
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 19.73
+- response: 7E80562116407C2
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 19.86
+- response: 7E80562116407C8
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 19.92
+- response: 7E80562116407E6
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 20.22
+- response: 7E80562116407FA
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 20.42
 - response: '7E8056211640813'
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 20.67
@@ -94,6 +191,9 @@ test_cases:
 - response: '7E8056211640926'
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 23.42
+- response: '7E8056211640958'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 23.92
 - response: 7E80562116409B6
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 24.86
@@ -139,6 +239,51 @@ test_cases:
 - response: 7E8056211640E8B
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 37.23
+- response: 7E8056211640FE3
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 40.67
+- response: '7E8056211641002'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 40.98
+- response: '7E8056211641098'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 42.48
+- response: 7E805621164118B
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 44.91
+- response: 7E80562116411B8
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 45.36
+- response: 7E80562116411EA
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 45.86
+- response: '7E8056211641261'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 47.05
+- response: 7E805621164127A
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 47.3
+- response: 7E805621164128C
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 47.48
+- response: 7E80562116413D1
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 50.73
+- response: '7E8056211641467'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 52.23
+- response: 7E80562116414B2
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 52.98
+- response: '7E8056211641604'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 56.36
+- response: '7E8056211641687'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 57.67
+- response: 7E80562116416F8
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 58.8
 - response: 7E8056211641E19
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 77.05
@@ -160,12 +305,27 @@ test_cases:
 - response: 7E805621164203F
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 82.55
+- response: '7E8056211642071'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 83.05
+- response: '7E8056211642077'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 83.11
+- response: '7E8056211642083'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 83.23
 - response: 7E80562116420DB
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 84.11
 - response: '7E8056211642118'
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 84.72
+- response: 7E805621164212C
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 84.92
+- response: 7E805621164213F
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 85.11
 - response: 7E80562116421C8
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 86.48
@@ -178,6 +338,9 @@ test_cases:
 - response: '7E8056211642201'
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 87.05
+- response: '7E8056211642213'
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 87.23
 - response: '7E8056211642218'
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 87.28

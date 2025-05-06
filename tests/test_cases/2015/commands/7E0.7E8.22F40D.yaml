@@ -203,6 +203,12 @@ test_cases:
 - response: 7E80462F40D49
   expected_values:
     VOLKSWAGEN_VSS: 73
+- response: 7E80462F40D4A
+  expected_values:
+    VOLKSWAGEN_VSS: 74
+- response: 7E80462F40D4B
+  expected_values:
+    VOLKSWAGEN_VSS: 75
 - response: 7E80462F40D4C
   expected_values:
     VOLKSWAGEN_VSS: 76
@@ -212,6 +218,9 @@ test_cases:
 - response: 7E80462F40D4E
   expected_values:
     VOLKSWAGEN_VSS: 78
+- response: 7E80462F40D4F
+  expected_values:
+    VOLKSWAGEN_VSS: 79
 - response: 7E80462F40D50
   expected_values:
     VOLKSWAGEN_VSS: 80
@@ -221,6 +230,9 @@ test_cases:
 - response: 7E80462F40D52
   expected_values:
     VOLKSWAGEN_VSS: 82
+- response: 7E80462F40D53
+  expected_values:
+    VOLKSWAGEN_VSS: 83
 - response: 7E80462F40D54
   expected_values:
     VOLKSWAGEN_VSS: 84
@@ -233,6 +245,9 @@ test_cases:
 - response: 7E80462F40D57
   expected_values:
     VOLKSWAGEN_VSS: 87
+- response: 7E80462F40D58
+  expected_values:
+    VOLKSWAGEN_VSS: 88
 - response: 7E80462F40D59
   expected_values:
     VOLKSWAGEN_VSS: 89
@@ -248,12 +263,27 @@ test_cases:
 - response: 7E80462F40D5D
   expected_values:
     VOLKSWAGEN_VSS: 93
+- response: 7E80462F40D5F
+  expected_values:
+    VOLKSWAGEN_VSS: 95
 - response: 7E80462F40D60
   expected_values:
     VOLKSWAGEN_VSS: 96
+- response: 7E80462F40D62
+  expected_values:
+    VOLKSWAGEN_VSS: 98
+- response: 7E80462F40D64
+  expected_values:
+    VOLKSWAGEN_VSS: 100
 - response: 7E80462F40D65
   expected_values:
     VOLKSWAGEN_VSS: 101
+- response: 7E80462F40D66
+  expected_values:
+    VOLKSWAGEN_VSS: 102
+- response: 7E80462F40D67
+  expected_values:
+    VOLKSWAGEN_VSS: 103
 - response: 7E80462F40D69
   expected_values:
     VOLKSWAGEN_VSS: 105
