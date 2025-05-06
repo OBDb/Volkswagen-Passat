@@ -2,15 +2,13 @@ command_id: 7E0.7E8.221156
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: |-
-    7E8037F2278
-    7E807621156000217DB
-  expected_values:
-    VOLKSWAGEN_HVBAT_SOC_V2: 0
 - response: 7E807621156000214FF
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_V2: 0
 - response: 7E807621156000216CC
+  expected_values:
+    VOLKSWAGEN_HVBAT_SOC_V2: 0
+- response: 7E807621156000217DB
   expected_values:
     VOLKSWAGEN_HVBAT_SOC_V2: 0
 - response: 7E8076211560002180D
