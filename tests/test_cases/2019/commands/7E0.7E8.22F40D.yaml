@@ -5,6 +5,6 @@ test_cases:
 - response: 7E80462F40D00
   expected_values:
     VOLKSWAGEN_VSS: 0
-- response: 7E80462F40D61
+- response: 7E80462F40D92
   expected_values:
-    VOLKSWAGEN_VSS: 97
+    VOLKSWAGEN_VSS: 146

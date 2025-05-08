@@ -14,3 +14,15 @@ test_cases:
 - response: 7E80662295A0220CC
   expected_values:
     VOLKSWAGEN_ODO_V3: 139468
+- response: 7E80662295A0220D1
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 139473
+- response: 7E80662295A0220D2
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 139474
+- response: 7E80662295A0220D3
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 139475
+- response: 7E80662295A0220DA
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 139482

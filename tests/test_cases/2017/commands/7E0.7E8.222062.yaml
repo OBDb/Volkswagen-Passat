@@ -5,12 +5,30 @@ test_cases:
 - response: 7E805622062017D
   expected_values:
     VOLKSWAGEN_APP_POS2: 0.381
+- response: '7E8056220620276'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.63
+- response: 7E80562206202AC
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.684
+- response: 7E80562206202BA
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.698
 - response: 7E80562206202D8
   expected_values:
     VOLKSWAGEN_APP_POS2: 0.728
 - response: 7E80562206202FA
   expected_values:
     VOLKSWAGEN_APP_POS2: 0.762
+- response: '7E8056220620321'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.801
+- response: '7E8056220620387'
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 0.903
 - response: 7E80562206203DF
   expected_values:
     VOLKSWAGEN_APP_POS2: 0.991
+- response: 7E805622062041F
+  expected_values:
+    VOLKSWAGEN_APP_POS2: 1.055

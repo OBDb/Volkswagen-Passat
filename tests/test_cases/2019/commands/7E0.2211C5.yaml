@@ -2,6 +2,9 @@ command_id: 7E0.2211C5
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E8056211C506C6
+  expected_values:
+    VOLKSWAGEN_OIL_MIN: 6.936
 - response: 7E8056211C506EA
   expected_values:
     VOLKSWAGEN_OIL_MIN: 7.08
