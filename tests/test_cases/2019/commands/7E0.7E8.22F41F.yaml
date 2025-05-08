@@ -2,12 +2,12 @@ command_id: 7E0.7E8.22F41F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562F41F0050
+- response: 7E80562F41F0000
   expected_values:
-    VOLKSWAGEN_RUNTM: 80
-- response: 7E80562F41F00FB
+    VOLKSWAGEN_RUNTM: 0
+- response: 7E80562F41F01FF
   expected_values:
-    VOLKSWAGEN_RUNTM: 251
-- response: 7E80562F41F0700
+    VOLKSWAGEN_RUNTM: 511
+- response: 7E80562F41F0C15
   expected_values:
-    VOLKSWAGEN_RUNTM: 1792
+    VOLKSWAGEN_RUNTM: 3093

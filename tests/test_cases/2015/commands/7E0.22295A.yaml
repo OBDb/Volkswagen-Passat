@@ -5,6 +5,9 @@ test_cases:
 - response: 7E80662295A033528
   expected_values:
     VOLKSWAGEN_ODO_V3: 210216
-- response: 7E80662295A0335F9
+- response: 7E80662295A0335FF
   expected_values:
-    VOLKSWAGEN_ODO_V3: 210425
+    VOLKSWAGEN_ODO_V3: 210431
+- response: 7E80662295A033600
+  expected_values:
+    VOLKSWAGEN_ODO_V3: 210432
