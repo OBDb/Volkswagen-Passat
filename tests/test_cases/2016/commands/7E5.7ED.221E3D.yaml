@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.221E3D
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVBAT_CURRENT: -95
+  response: 7ED05621E3D0680
+- expected_values:
+    VOLKSWAGEN_HVBAT_CURRENT: -61.75
+  response: 7ED05621E3D0705
+- expected_values:
+    VOLKSWAGEN_HVBAT_CURRENT: -0.5
+  response: 7ED05621E3D07FA
+- expected_values:
+    VOLKSWAGEN_HVBAT_CURRENT: 82
+  response: 7ED05621E3D0944

@@ -1,7 +1,26 @@
 command_id: 7E0.7E8.22F421
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E80562F4210000
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_MIL_DIST: 6
+  response: '7E8 05 62 F4 21 00 06 '
+- expected_values:
+    VOLKSWAGEN_MIL_DIST: 17
+  response: '7E8 05 62 F4 21 00 11 '
+- expected_values:
+    VOLKSWAGEN_MIL_DIST: 25
+  response: '7E8 05 62 F4 21 00 19 '
+- expected_values:
     VOLKSWAGEN_MIL_DIST: 0
+  response: 7E80562F4210000
+- expected_values:
+    VOLKSWAGEN_MIL_DIST: 2
+  response: 7E80562F4210002
+- expected_values:
+    VOLKSWAGEN_MIL_DIST: 5
+  response: 7E80562F4210005
+- expected_values:
+    VOLKSWAGEN_MIL_DIST: 16
+  response: 7E80562F4210010
+- expected_values:
+    VOLKSWAGEN_MIL_DIST: 22
+  response: 7E80562F4210016

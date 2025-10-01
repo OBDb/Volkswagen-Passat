@@ -1,16 +1,14 @@
 command_id: 7E1.22101A
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E90762101A0BB90100
-  expected_values:
-    VOLKSWAGEN_ODO_TCM_2: 112907
-- response: 7E90762101A8CB80100
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_2: 115456
+  response: 7E90762101A00C30100
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_2: 115717
+  response: 7E90762101A05C40100
+- expected_values:
     VOLKSWAGEN_ODO_TCM_2: 112780
-- response: 7E90762101AB3BA0100
-  expected_values:
-    VOLKSWAGEN_ODO_TCM_2: 113331
-- response: 7E90762101AF7B80100
-  expected_values:
-    VOLKSWAGEN_ODO_TCM_2: 112887
+  response: 7E90762101A8CB80100
+- expected_values:
+    VOLKSWAGEN_ODO_TCM_2: 115455
+  response: 7E90762101AFFC20100

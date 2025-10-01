@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.22028C
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 81.96078
+  response: 7ED0462028CD1
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 84.31373
+  response: 7ED0462028CD7
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 87.05882
+  response: 7ED0462028CDE
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC: 88.23529
+  response: 7ED0462028CE1
