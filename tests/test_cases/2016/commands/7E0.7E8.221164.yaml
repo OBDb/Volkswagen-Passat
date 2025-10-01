@@ -1,19 +1,17 @@
 command_id: 7E0.7E8.221164
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: '7E8056211640638'
-  expected_values:
+- expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 15.92
-- response: '7E8056211640771'
-  expected_values:
+  response: '7E8056211640638'
+- expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 19.05
-- response: 7E80562116407FA
-  expected_values:
+  response: '7E8056211640771'
+- expected_values:
     VOLKSWAGEN_HVBAT_SOC_DISP: 20.42
-- response: 7E8056211640E01
-  expected_values:
-    VOLKSWAGEN_HVBAT_SOC_DISP: 35.85
-- response: '7E8056211642546'
-  expected_values:
-    VOLKSWAGEN_HVBAT_SOC_DISP: 95.42
+  response: 7E80562116407FA
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 79.36
+  response: 7E8056211641F00
+- expected_values:
+    VOLKSWAGEN_HVBAT_SOC_DISP: 95.36
+  response: '7E8056211642540'

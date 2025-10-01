@@ -1,10 +1,11 @@
 command_id: 7E0.7E8.22F430
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E80462F4304E
-  expected_values:
+- expected_values:
+    VOLKSWAGEN_WARM_UPS: 56
+  response: 7E80462F43038
+- expected_values:
     VOLKSWAGEN_WARM_UPS: 78
-- response: 7E80462F430FF
-  expected_values:
+  response: 7E80462F4304E
+- expected_values:
     VOLKSWAGEN_WARM_UPS: 255
+  response: 7E80462F430FF

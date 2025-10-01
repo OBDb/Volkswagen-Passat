@@ -1,16 +1,14 @@
 command_id: 7E0.7E8.2211BE
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E8056211BE0B3E
-  expected_values:
-    VOLKSWAGEN_EOT_V2: 2878
-- response: 7E8056211BE0C0C
-  expected_values:
-    VOLKSWAGEN_EOT_V2: 3084
-- response: 7E8056211BE0CFA
-  expected_values:
-    VOLKSWAGEN_EOT_V2: 3322
-- response: 7E8056211BE0E34
-  expected_values:
-    VOLKSWAGEN_EOT_V2: 3636
+- expected_values:
+    VOLKSWAGEN_EOT_V2: 2869
+  response: 7E8056211BE0B35
+- expected_values:
+    VOLKSWAGEN_EOT_V2: 3071
+  response: 7E8056211BE0BFF
+- expected_values:
+    VOLKSWAGEN_EOT_V2: 3328
+  response: 7E8056211BE0D00
+- expected_values:
+    VOLKSWAGEN_EOT_V2: 3597
+  response: 7E8056211BE0E0D

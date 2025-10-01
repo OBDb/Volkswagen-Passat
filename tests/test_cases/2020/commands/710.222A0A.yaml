@@ -1,0 +1,29 @@
+command_id: 710.222A0A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 16
+  response: 77A04622A0A38
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 20
+  response: 77A04622A0A3C
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 21
+  response: 77A04622A0A3D
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 22
+  response: 77A04622A0A3E
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 26
+  response: 77A04622A0A42
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 27
+  response: 77A04622A0A43
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 29
+  response: 77A04622A0A45
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 31
+  response: 77A04622A0A47
+- expected_values:
+    VOLKSWAGEN_SSB_SENSOR_T: 34
+  response: 77A04622A0A4A

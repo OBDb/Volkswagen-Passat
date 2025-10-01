@@ -1,0 +1,14 @@
+command_id: 714.77E.221014|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AAT: 18
+  response: '77E 04 62 10 14 88 '
+- expected_values:
+    VOLKSWAGEN_AAT: 30
+  response: '77E 04 62 10 14 A0 '
+- expected_values:
+    VOLKSWAGEN_AAT: 9.5
+  response: '77E0462101477'
+- expected_values:
+    VOLKSWAGEN_AAT: 33.5
+  response: 77E04621014A7

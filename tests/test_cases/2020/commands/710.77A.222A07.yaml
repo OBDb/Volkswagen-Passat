@@ -1,16 +1,11 @@
 command_id: 710.77A.222A07
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 77A05622A071EFB
-  expected_values:
-    VOLKSWAGEN_SSB_V: 69.54
-- response: 77A05622A071FFD
-  expected_values:
-    VOLKSWAGEN_SSB_V: 69.54
-- response: 77A05622A072401
-  expected_values:
-    VOLKSWAGEN_SSB_V: 69.54
-- response: 77A05622A072A04
-  expected_values:
-    VOLKSWAGEN_SSB_V: 69.54
+- expected_values:
+    VOLKSWAGEN_SSB_V: 4
+  response: 77A05622A070000
+- expected_values:
+    VOLKSWAGEN_SSB_V: 14.495
+  response: 77A05622A0728FF
+- expected_values:
+    VOLKSWAGEN_SSB_V: 14.752
+  response: 77A05622A072A00

@@ -1,0 +1,8 @@
+command_id: 7E5.7ED.221E3B
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVBAT_VOLTS: 348.5
+  response: 7ED05621E3B0572
+- expected_values:
+    VOLKSWAGEN_HVBAT_VOLTS: 381.75
+  response: 7ED05621E3B05F7
