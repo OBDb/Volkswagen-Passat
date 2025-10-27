@@ -14,4 +14,4 @@ test_cases:
   response: 77A07622A09FFFF40CA
 - expected_values:
     VOLKSWAGEN_SSB_C: 0
-  response: 77A07622A09FFFFFF12
+  response: 77A07622A09FFFFFF09

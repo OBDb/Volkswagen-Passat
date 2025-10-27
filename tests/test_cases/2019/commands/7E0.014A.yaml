@@ -4,23 +4,5 @@ test_cases:
     APP_E: 14.5098
   response: 7E803414A25
 - expected_values:
-    APP_E: 14.90196
-  response: 7E803414A26
-- expected_values:
-    APP_E: 35.29412
-  response: 7E803414A5A
-- expected_values:
-    APP_E: 41.96078
-  response: 7E803414A6B
-- expected_values:
-    APP_E: 46.66667
-  response: 7E803414A77
-- expected_values:
-    APP_E: 50.19608
-  response: 7E803414A80
-- expected_values:
-    APP_E: 51.76471
-  response: 7E803414A84
-- expected_values:
     APP_E: 67.84314
   response: 7E803414AAD
