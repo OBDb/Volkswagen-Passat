@@ -10,8 +10,8 @@ test_cases:
     VOLKSWAGEN_EOT_V2: 3747
   response: '7E8 05 62 11 BE 0E A3 '
 - expected_values:
-    VOLKSWAGEN_EOT_V2: 2936
-  response: 7E8056211BE0B78
+    VOLKSWAGEN_EOT_V2: 2906
+  response: 7E8056211BE0B5A
 - expected_values:
     VOLKSWAGEN_EOT_V2: 3327
   response: 7E8056211BE0CFF
