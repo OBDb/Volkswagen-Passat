@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_SSB_R: 7.2
   response: 77A04622A0E24
+- expected_values:
+    VOLKSWAGEN_SSB_R: 7.4
+  response: 77A04622A0E25
