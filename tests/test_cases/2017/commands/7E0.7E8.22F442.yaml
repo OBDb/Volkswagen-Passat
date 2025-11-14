@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VPWR: 13.027
-  response: 7E80562F44232E3
+    VOLKSWAGEN_VPWR: 12.14
+  response: 7E80562F4422F6C
 - expected_values:
-    VOLKSWAGEN_VPWR: 13.554
-  response: 7E80562F44234F2
+    VOLKSWAGEN_VPWR: 12.54
+  response: 7E80562F44230FC
 - expected_values:
     VOLKSWAGEN_VPWR: 14.082
   response: 7E80562F4423702
+- expected_values:
+    VOLKSWAGEN_VPWR: 14.62
+  response: 7E80562F442391C
