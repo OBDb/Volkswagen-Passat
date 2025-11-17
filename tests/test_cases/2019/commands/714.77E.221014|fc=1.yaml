@@ -7,8 +7,8 @@ test_cases:
     VOLKSWAGEN_AAT: 30
   response: '77E 04 62 10 14 A0 '
 - expected_values:
-    VOLKSWAGEN_AAT: 5
-  response: 77E046210146E
+    VOLKSWAGEN_AAT: 4.5
+  response: 77E046210146D
 - expected_values:
     VOLKSWAGEN_AAT: 33.5
   response: 77E04621014A7
