@@ -1,0 +1,6 @@
+command_id: 7E0.221156|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_DIST_SINCE_LAST_REGEN_: 411.55
+    VOLKSWAGEN_HVBAT_SOC: 0
+  response: 7E8076211560006479E
