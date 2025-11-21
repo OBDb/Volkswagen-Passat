@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.22115B
-test_cases:
-- expected_values:
-    VOLKSWAGEN_FIELD_REGEN_REQUEST_STATUS: 0
-  response: 7E80462115B00
-- expected_values:
-    VOLKSWAGEN_FIELD_REGEN_REQUEST_STATUS: 8
-  response: 7E80462115B08
