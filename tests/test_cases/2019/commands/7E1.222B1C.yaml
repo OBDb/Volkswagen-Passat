@@ -1,0 +1,11 @@
+command_id: 7E1.222B1C
+test_cases:
+- expected_values:
+    VOLKSWAGEN_TIRE_FR_SPD: 0
+  response: 77905622B1C0000
+- expected_values:
+    VOLKSWAGEN_TIRE_FR_SPD: 49.1
+  response: 77905622B1C01EB
+- expected_values:
+    VOLKSWAGEN_TIRE_FR_SPD: 56.2
+  response: 77905622B1C0232
