@@ -1,14 +1,14 @@
 command_id: 710.77A.222A0C|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BAT_CHG_LVL: 78
+    VOLKSWAGEN_BAT_SOC: 78
     VOLKSWAGEN_SSB_SOC: 78
   response: 77A04622A0C4E
 - expected_values:
-    VOLKSWAGEN_BAT_CHG_LVL: 79
+    VOLKSWAGEN_BAT_SOC: 79
     VOLKSWAGEN_SSB_SOC: 79
   response: 77A04622A0C4F
 - expected_values:
-    VOLKSWAGEN_BAT_CHG_LVL: 80
+    VOLKSWAGEN_BAT_SOC: 80
     VOLKSWAGEN_SSB_SOC: 80
   response: 77A04622A0C50

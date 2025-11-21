@@ -1,10 +1,8 @@
 command_id: 7E0.7E8.2211BD
 test_cases:
 - expected_values:
-    VOLKSWAGEN_EOT_V2: -273.1
     VOLKSWAGEN_OIL_LEVEL_WARN: 0
   response: 7E8056211BD0000
 - expected_values:
-    VOLKSWAGEN_EOT_V2: 655.6
     VOLKSWAGEN_OIL_LEVEL_WARN: 3.7148
   response: 7E8056211BD2447
