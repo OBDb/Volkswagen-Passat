@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ATF_T: -1
   response: '7E9056221042700'
+- expected_values:
+    VOLKSWAGEN_ATF_T: 5
+  response: 7E9056221042D00
+- expected_values:
+    VOLKSWAGEN_ATF_T: 8
+  response: '7E9056221043000'
+- expected_values:
+    VOLKSWAGEN_ATF_T: 9
+  response: '7E9056221043100'
