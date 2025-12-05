@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 4.329
   response: 7B0046226120D
+- expected_values:
+    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 4.662
+  response: 7B0046226120E
