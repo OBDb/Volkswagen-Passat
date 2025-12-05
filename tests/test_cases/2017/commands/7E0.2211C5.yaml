@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_OIL_MIN: 5.024
   response: 7E8056211C504E8
+- expected_values:
+    VOLKSWAGEN_OIL_MIN: 261.976
+  response: 7E8056211C5FFD6
