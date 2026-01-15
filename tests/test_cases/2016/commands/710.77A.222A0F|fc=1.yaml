@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_USE_BAT_CHG: 2
   response: 77A04622A0F02
+- expected_values:
+    VOLKSWAGEN_USE_BAT_CHG: 41
+  response: 77A04622A0F29
