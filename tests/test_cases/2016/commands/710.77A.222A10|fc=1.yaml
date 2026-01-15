@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BAT_V_AT_REST: 15.14118
   response: 77A04622A101D
+- expected_values:
+    VOLKSWAGEN_BAT_V_AT_REST: 16.2
+  response: 77A04622A1022

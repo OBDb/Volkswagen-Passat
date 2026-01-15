@@ -5,6 +5,10 @@ test_cases:
     VOLKSWAGEN_SSB_C: 0
   response: 77A07622A0900000000
 - expected_values:
+    VOLKSWAGEN_BAT_I: -2999.94
+    VOLKSWAGEN_SSB_C: 15.524
+  response: 77A07622A0900003CA4
+- expected_values:
     VOLKSWAGEN_BAT_I: 13777.21
     VOLKSWAGEN_SSB_C: 0
   response: 77A07622A09FFFFFA56
