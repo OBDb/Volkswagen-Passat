@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221149
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MISFIRES_1000REV_C4: 1054
+  response: 7E805621149041E
+- expected_values:
+    VOLKSWAGEN_MISFIRES_1000REV_C4: 1082
+  response: 7E805621149043A
+- expected_values:
+    VOLKSWAGEN_MISFIRES_1000REV_C4: 1246
+  response: 7E80562114904DE
+- expected_values:
+    VOLKSWAGEN_MISFIRES_1000REV_C4: 1321
+  response: '7E8056211490529'

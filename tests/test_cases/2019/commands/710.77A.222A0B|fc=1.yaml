@@ -1,11 +1,11 @@
 command_id: 710.77A.222A0B|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BAT_T: 33
+    VOLKSWAGEN_BAT_T_V2: 33
   response: '77A 04 62 2A 0B 49 '
 - expected_values:
-    VOLKSWAGEN_BAT_T: -40
+    VOLKSWAGEN_BAT_T_V2: -40
   response: 77A04622A0B00
 - expected_values:
-    VOLKSWAGEN_BAT_T: 55
+    VOLKSWAGEN_BAT_T_V2: 55
   response: 77A04622A0B5F
