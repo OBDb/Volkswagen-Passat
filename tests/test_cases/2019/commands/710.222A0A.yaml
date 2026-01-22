@@ -1,8 +1,8 @@
 command_id: 710.222A0A
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SSB_SENSOR_T: 19
+    VOLKSWAGEN_BAT_T: 19
   response: 77A04622A0A3B
 - expected_values:
-    VOLKSWAGEN_SSB_SENSOR_T: 49
+    VOLKSWAGEN_BAT_T: 49
   response: 77A04622A0A59
