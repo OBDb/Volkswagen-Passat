@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_MISFIRES_1000REV_C3: 2767
   response: 7E8056211480ACF
 - expected_values:
+    VOLKSWAGEN_MISFIRES_1000REV_C3: 2875
+  response: 7E8056211480B3B
+- expected_values:
     VOLKSWAGEN_MISFIRES_1000REV_C3: 3592
   response: 7E8056211480E08
 - expected_values:
