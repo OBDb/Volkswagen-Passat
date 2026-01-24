@@ -1,0 +1,8 @@
+command_id: 713.77D.221804|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_STEER_WHEEL_ANGLE_ABS: -4688.6875
+  response: |-
+    77D10116218040013FF
+    77D21AF007B000A01FF
+    77D22D623D623AAAAAA
