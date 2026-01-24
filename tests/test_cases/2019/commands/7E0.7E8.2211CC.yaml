@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2211CC
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BOOST_REGULATOR_FEEDBACK: 20.13
+  response: 7E8056211CC07DD
+- expected_values:
     VOLKSWAGEN_BOOST_REGULATOR_FEEDBACK: 20.47
   response: 7E8056211CC07FF
+- expected_values:
+    VOLKSWAGEN_BOOST_REGULATOR_FEEDBACK: 58.88
+  response: 7E8056211CC1700
 - expected_values:
     VOLKSWAGEN_BOOST_REGULATOR_FEEDBACK: 81.92
   response: 7E8056211CC2000
