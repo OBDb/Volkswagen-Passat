@@ -1,0 +1,10 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CLIMATE_REFRIG_P: 4.8
+    VOLKSWAGEN_REFRIGERANT_PRESSURE: 4.8
+  response: 7B00462260518
+- expected_values:
+    VOLKSWAGEN_CLIMATE_REFRIG_P: 9.8
+    VOLKSWAGEN_REFRIGERANT_PRESSURE: 9.8
+  response: 7B00462260531
