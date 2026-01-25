@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_OIL_MAX: 31.088
   response: 7E8056211C41E5C
+- expected_values:
+    VOLKSWAGEN_OIL_MAX: 31.708
+  response: 7E8056211C41EF7
