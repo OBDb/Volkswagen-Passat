@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.221515
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CAT_T_CALC: 365
+  response: '7E8056215150053'
+- expected_values:
+    VOLKSWAGEN_CAT_T_CALC: 12610
+  response: 7E80562151509E4
+- expected_values:
+    VOLKSWAGEN_CAT_T_CALC: 81895
+  response: '7E8056215154005'
+- expected_values:
     VOLKSWAGEN_CAT_T_CALC: 103300
   response: 7E80562151550BE
