@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.221148
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MISFIRES_1000REV_C3: 900
-  response: '7E8056211480384'
-- expected_values:
-    VOLKSWAGEN_MISFIRES_1000REV_C3: 2667
-  response: 7E8056211480A6B
+    VOLKSWAGEN_MISFIRES_1000REV_C3: 968
+  response: 7E80562114803C8
 - expected_values:
     VOLKSWAGEN_MISFIRES_1000REV_C3: 3068
   response: 7E8056211480BFC
