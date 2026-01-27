@@ -4,11 +4,20 @@ test_cases:
     VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 0
   response: 7B00462260400
 - expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 0.9
+  response: 7B00462260409
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 1
+  response: 7B0046226040A
+- expected_values:
     VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 2.7
   response: 7B0046226041B
 - expected_values:
     VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 2.8
   response: 7B0046226041C
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 3
+  response: 7B0046226041E
 - expected_values:
     VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 3.2
   response: 7B00462260420
