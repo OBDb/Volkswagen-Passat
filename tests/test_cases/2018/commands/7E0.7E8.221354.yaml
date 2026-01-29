@@ -10,8 +10,14 @@ test_cases:
     VOLKSWAGEN_PQ35_SOOT_IDX: 4
   response: '7E8056213540004'
 - expected_values:
+    VOLKSWAGEN_PQ35_SOOT_IDX: 5
+  response: '7E8056213540005'
+- expected_values:
     VOLKSWAGEN_PQ35_SOOT_IDX: 7
   response: '7E8056213540007'
 - expected_values:
     VOLKSWAGEN_PQ35_SOOT_IDX: 9
   response: '7E8056213540009'
+- expected_values:
+    VOLKSWAGEN_PQ35_SOOT_IDX: 11
+  response: 7E805621354000B
