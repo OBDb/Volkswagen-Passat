@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_CAMS_ADAPT_PHASE_1: -1.96
   response: 7E8056212FEFF9E
+- expected_values:
+    VOLKSWAGEN_PQ35_CAMS_ADAPT_PHASE_1: -1.92
+  response: 7E8056212FEFFA0
