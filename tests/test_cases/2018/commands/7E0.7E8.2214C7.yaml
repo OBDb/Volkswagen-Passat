@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2214C7
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_1_START: 1.24
+  response: 7E8056214C7003E
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_1_START: 4.58
+  response: 7E8056214C700E5
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_1_START: 5.26
+  response: 7E8056214C70107
