@@ -1,11 +1,11 @@
-command_id: 7E1.222B1C
+command_id: 70F.779.222B1C|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD: 0
+    VOLKSWAGEN_PQ35_FR_VSS: 0
   response: 77905622B1C0000
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD: 49.1
+    VOLKSWAGEN_PQ35_FR_VSS: 49.1
   response: 77905622B1C01EB
 - expected_values:
-    VOLKSWAGEN_TIRE_FR_SPD: 56.2
+    VOLKSWAGEN_PQ35_FR_VSS: 56.2
   response: 77905622B1C0232
