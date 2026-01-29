@@ -1,5 +1,17 @@
 command_id: 7E0.22123F|din=03
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_OIL_DYN_AVG: 28.256
+  response: 7E80562123F1B98
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_DYN_AVG: 28.26
+  response: 7E80562123F1B99
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_DYN_AVG: 28.284
+  response: 7E80562123F1B9F
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_DYN_AVG: 28.292
+  response: 7E80562123F1BA1
+- expected_values:
     VOLKSWAGEN_PQ35_OIL_DYN_AVG: 28.328
   response: 7E80562123F1BAA
