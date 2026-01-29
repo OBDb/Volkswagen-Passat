@@ -2,10 +2,13 @@ command_id: 7E0.2211C4
 test_cases:
 - expected_values:
     VOLKSWAGEN_OIL_MAX: 18.208
+    VOLKSWAGEN_PQ35_OIL_LVL_MAX: 18.208
   response: 7E8056211C411C8
 - expected_values:
     VOLKSWAGEN_OIL_MAX: 25.616
+    VOLKSWAGEN_PQ35_OIL_LVL_MAX: 25.616
   response: 7E8056211C41904
 - expected_values:
     VOLKSWAGEN_OIL_MAX: 27.228
+    VOLKSWAGEN_PQ35_OIL_LVL_MAX: 27.228
   response: 7E8056211C41A97
