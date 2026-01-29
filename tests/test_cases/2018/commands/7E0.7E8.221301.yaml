@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221301
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_LIM_SMOKE: 65.5
+  response: 7E805621301028F
+- expected_values:
+    VOLKSWAGEN_PQ35_LIM_SMOKE: 105.5
+  response: 7E805621301041F
+- expected_values:
+    VOLKSWAGEN_PQ35_LIM_SMOKE: 123.9
+  response: 7E80562130104D7
+- expected_values:
+    VOLKSWAGEN_PQ35_LIM_SMOKE: 169.9
+  response: 7E80562130106A3

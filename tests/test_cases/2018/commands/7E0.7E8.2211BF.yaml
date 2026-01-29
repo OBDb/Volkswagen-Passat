@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BF
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_P_REG: 8.37
+  response: 7E8056211BF0345
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_P_REG: 11.9
+  response: 7E8056211BF04A6
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_P_REG: 18.37
+  response: 7E8056211BF072D

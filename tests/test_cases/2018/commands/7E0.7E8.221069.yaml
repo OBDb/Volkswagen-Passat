@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221069
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_ENG_START_QTY: 0
+  response: '7E8056210690000'
+- expected_values:
+    VOLKSWAGEN_PQ35_ENG_START_QTY: 13.81
+  response: '7E8056210690565'
+- expected_values:
+    VOLKSWAGEN_PQ35_ENG_START_QTY: 22.76
+  response: 7E80562106908E4
