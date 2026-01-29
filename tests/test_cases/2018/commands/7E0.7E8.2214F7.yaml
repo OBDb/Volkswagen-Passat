@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_EXHAUST_GAS_T_SENSOR_2: 238
   response: 7E8056214F713F7
+- expected_values:
+    VOLKSWAGEN_PQ35_EXHAUST_GAS_T_SENSOR_2: 271.9
+  response: 7E8056214F7154A
