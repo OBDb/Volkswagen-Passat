@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_PRE_INJ_2_START: 10.52
   response: 7E8056214C8020E
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_START: 16.84
+  response: 7E8056214C8034A
