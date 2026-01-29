@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221057
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_P: 5.068
+  response: 7E80562105713CC
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_P: 5.138
+  response: '7E8056210571412'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_P: 5.68
+  response: '7E8056210571630'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_P: 5.822
+  response: 7E80562105716BE

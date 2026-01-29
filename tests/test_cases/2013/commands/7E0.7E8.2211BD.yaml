@@ -2,7 +2,9 @@ command_id: 7E0.7E8.2211BD
 test_cases:
 - expected_values:
     VOLKSWAGEN_OIL_LEVEL_WARN: 0
+    VOLKSWAGEN_PQ35_OIL_LVL_CRIT: 0
   response: 7E8056211BD0000
 - expected_values:
     VOLKSWAGEN_OIL_LEVEL_WARN: 3.7148
+    VOLKSWAGEN_PQ35_OIL_LVL_CRIT: 37.148
   response: 7E8056211BD2447

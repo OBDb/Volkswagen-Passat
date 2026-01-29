@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221221
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_ACCEL_PED_1: 747.6
+  response: 7E8056212210E9A
+- expected_values:
+    VOLKSWAGEN_PQ35_ACCEL_PED_1: 786.8
+  response: 7E8056212210F5E
+- expected_values:
+    VOLKSWAGEN_PQ35_ACCEL_PED_1: 1412.4
+  response: 7E8056212211B96
+- expected_values:
+    VOLKSWAGEN_PQ35_ACCEL_PED_1: 1896.2
+  response: '7E8056212212509'

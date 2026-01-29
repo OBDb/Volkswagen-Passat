@@ -2,7 +2,9 @@ command_id: 7E0.7E8.221153
 test_cases:
 - expected_values:
     VOLKSWAGEN_EM_TORQ_1: 0.46875
+    VOLKSWAGEN_PQ35_DPF_OIL_ASH_VOL: 0.15
   response: 7E805621153000F
 - expected_values:
     VOLKSWAGEN_EM_TORQ_1: 0.5
+    VOLKSWAGEN_PQ35_DPF_OIL_ASH_VOL: 0.16
   response: '7E8056211530010'
