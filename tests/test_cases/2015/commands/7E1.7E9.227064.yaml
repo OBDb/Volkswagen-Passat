@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227064
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 421
+  response: 7E90562706401A5
