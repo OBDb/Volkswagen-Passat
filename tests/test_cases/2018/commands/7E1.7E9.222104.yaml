@@ -1,0 +1,10 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ATF_T: -25
+    VOLKSWAGEN_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 15
+  response: 7E9056221040F00
+- expected_values:
+    VOLKSWAGEN_ATF_T: -24
+    VOLKSWAGEN_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 16
+  response: '7E9056221041000'

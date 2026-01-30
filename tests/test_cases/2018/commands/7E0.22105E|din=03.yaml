@@ -1,29 +1,11 @@
 command_id: 7E0.22105E|din=03
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_BAT_V_2: 11.72
+  response: 7E80562105E024A
+- expected_values:
     VOLKSWAGEN_PQ35_BAT_V_2: 12.1
   response: 7E80562105E025D
-- expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 12.14
-  response: 7E80562105E025F
-- expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 12.58
-  response: 7E80562105E0275
-- expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 14.72
-  response: 7E80562105E02E0
-- expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 14.76
-  response: 7E80562105E02E2
-- expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 14.78
-  response: 7E80562105E02E3
-- expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 14.8
-  response: 7E80562105E02E4
-- expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 14.84
-  response: 7E80562105E02E6
 - expected_values:
     VOLKSWAGEN_PQ35_BAT_V_2: 14.9
   response: 7E80562105E02E9
