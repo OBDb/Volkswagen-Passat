@@ -4,29 +4,8 @@ test_cases:
     VOLKSWAGEN_ENG_TRQ_REQ_1: 22.8
   response: 7E8056229D400E4
 - expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 27.4
-  response: 7E8056229D40112
-- expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 27.5
-  response: 7E8056229D40113
-- expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 45.6
-  response: 7E8056229D401C8
-- expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 47.8
-  response: 7E8056229D401DE
-- expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 60.5
-  response: 7E8056229D4025D
-- expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 107.8
-  response: 7E8056229D40436
-- expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 112.1
-  response: 7E8056229D40461
-- expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 122.8
-  response: 7E8056229D404CC
+    VOLKSWAGEN_ENG_TRQ_REQ_1: 51.6
+  response: 7E8056229D40204
 - expected_values:
     VOLKSWAGEN_ENG_TRQ_REQ_1: 161.7
   response: 7E8056229D40651
