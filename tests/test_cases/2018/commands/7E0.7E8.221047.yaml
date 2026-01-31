@@ -7,5 +7,5 @@ test_cases:
     VOLKSWAGEN_PQ35_ENG_TRQ: 76.7
   response: 7E80562104702FF
 - expected_values:
-    VOLKSWAGEN_PQ35_ENG_TRQ: 195.3
-  response: 7E80562104707A1
+    VOLKSWAGEN_PQ35_ENG_TRQ: -500
+  response: 7E805621047EC78
