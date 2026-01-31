@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 105.9
   response: 7E805621ABA0423
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 154.4
+  response: 7E805621ABA0608
