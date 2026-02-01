@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_OIL_DYN_LAST: 6.48
   response: 7E80562123C0654
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_DYN_LAST: 13.416
+  response: 7E80562123C0D1A
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_DYN_LAST: 14.088
+  response: 7E80562123C0DC2

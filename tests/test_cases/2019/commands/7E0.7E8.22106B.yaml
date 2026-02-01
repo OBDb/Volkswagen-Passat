@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_PQ35_LIM_TRQ: 152.4
   response: 7E80562106B05F4
 - expected_values:
+    VOLKSWAGEN_PQ35_LIM_TRQ: 154
+  response: 7E80562106B0604
+- expected_values:
     VOLKSWAGEN_PQ35_LIM_TRQ: 154.5
   response: 7E80562106B0609
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_TRQ: 155.8
-  response: 7E80562106B0616
-- expected_values:
-    VOLKSWAGEN_PQ35_LIM_TRQ: 202.8
-  response: 7E80562106B07EC
+    VOLKSWAGEN_PQ35_LIM_TRQ: 305.3
+  response: 7E80562106B0BED

@@ -1,0 +1,11 @@
+command_id: 7E0.22269B|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_DIFF_P_RAW_VALUE_2: 2
+  response: 7E80562269B0002
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_DIFF_P_RAW_VALUE_2: 10
+  response: 7E80562269B000A
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_DIFF_P_RAW_VALUE_2: 28
+  response: 7E80562269B001C
