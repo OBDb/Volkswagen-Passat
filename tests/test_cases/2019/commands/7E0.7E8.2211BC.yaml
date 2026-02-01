@@ -7,8 +7,8 @@ test_cases:
     VOLKSWAGEN_PQ35_OIL_LVL: 43.068
   response: 7E8056211BC2A0F
 - expected_values:
-    VOLKSWAGEN_PQ35_OIL_LVL: 46.148
-  response: 7E8056211BC2D11
+    VOLKSWAGEN_PQ35_OIL_LVL: 43.948
+  response: 7E8056211BC2AEB
 - expected_values:
     VOLKSWAGEN_PQ35_OIL_LVL: 49.668
   response: 7E8056211BC3081
