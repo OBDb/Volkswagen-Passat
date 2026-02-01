@@ -2,6 +2,10 @@ command_id: 713.77D.22180E|fc=1
 test_cases:
 - expected_values:
     VOLKSWAGEN_BDD_ACTIVE: 0
+    VOLKSWAGEN_BDD_ODO: 132627
+  response: 77D0762180E80020613
+- expected_values:
+    VOLKSWAGEN_BDD_ACTIVE: 0
     VOLKSWAGEN_BDD_ODO: 166368
   response: 77D0762180E800289E0
 - expected_values:
@@ -16,6 +20,10 @@ test_cases:
     VOLKSWAGEN_BDD_ACTIVE: 0
     VOLKSWAGEN_BDD_ODO: 200000
   response: 77D0762180E80039A1D
+- expected_values:
+    VOLKSWAGEN_BDD_ACTIVE: 0
+    VOLKSWAGEN_BDD_ODO: 132627
+  response: 77D0762180EB0020613
 - expected_values:
     VOLKSWAGEN_BDD_ACTIVE: 0
     VOLKSWAGEN_BDD_ODO: 166368

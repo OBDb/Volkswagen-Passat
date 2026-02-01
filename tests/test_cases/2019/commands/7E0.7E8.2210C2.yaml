@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2210C2
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_EGR_DUTY: 0
+  response: 7E8056210C20000
+- expected_values:
+    VOLKSWAGEN_PQ35_EGR_DUTY: 5.53
+  response: 7E8056210C20229
+- expected_values:
+    VOLKSWAGEN_PQ35_EGR_DUTY: 5.59
+  response: 7E8056210C2022F
+- expected_values:
+    VOLKSWAGEN_PQ35_EGR_DUTY: 8.45
+  response: 7E8056210C2034D
+- expected_values:
+    VOLKSWAGEN_PQ35_EGR_DUTY: 8.68
+  response: 7E8056210C20364
+- expected_values:
+    VOLKSWAGEN_PQ35_EGR_DUTY: 9.1
+  response: 7E8056210C2038E
+- expected_values:
+    VOLKSWAGEN_PQ35_EGR_DUTY: 23.2
+  response: 7E8056210C20910
