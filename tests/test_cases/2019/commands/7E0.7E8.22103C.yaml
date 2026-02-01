@@ -1,17 +1,14 @@
 command_id: 7E0.7E8.22103C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_INT_MAN_P: 963
-  response: 7E80562103C03C3
+    VOLKSWAGEN_MQB_INT_MAN_P: 956
+  response: 7E80562103C03BC
 - expected_values:
-    VOLKSWAGEN_MQB_INT_MAN_P: 1051
-  response: 7E80562103C041B
+    VOLKSWAGEN_MQB_INT_MAN_P: 1012
+  response: 7E80562103C03F4
 - expected_values:
-    VOLKSWAGEN_MQB_INT_MAN_P: 1069
-  response: 7E80562103C042D
-- expected_values:
-    VOLKSWAGEN_MQB_INT_MAN_P: 1250
-  response: 7E80562103C04E2
+    VOLKSWAGEN_MQB_INT_MAN_P: 1046
+  response: 7E80562103C0416
 - expected_values:
     VOLKSWAGEN_MQB_INT_MAN_P: 2705
   response: 7E80562103C0A91

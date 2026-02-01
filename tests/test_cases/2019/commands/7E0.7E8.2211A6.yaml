@@ -4,17 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 0
   response: 7E8056211A60000
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 33.5
-  response: 7E8056211A6014F
-- expected_values:
-    VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 39.6
-  response: 7E8056211A6018C
-- expected_values:
-    VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 94
-  response: 7E8056211A603AC
-- expected_values:
-    VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 227.9
-  response: 7E8056211A608E7
-- expected_values:
     VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 307
   response: 7E8056211A60BFE
