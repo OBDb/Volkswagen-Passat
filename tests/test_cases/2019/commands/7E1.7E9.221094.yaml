@@ -1,6 +1,12 @@
 command_id: 7E1.7E9.221094
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G4: 9.64
+  response: 7E905621094C403
+- expected_values:
+    VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G4: 9.69
+  response: 7E905621094C903
+- expected_values:
     VOLKSWAGEN_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G4: 9.85
   response: 7E905621094D903
 - expected_values:
