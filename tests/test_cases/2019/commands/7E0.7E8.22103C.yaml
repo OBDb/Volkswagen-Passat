@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_MQB_INT_MAN_P: 956
   response: 7E80562103C03BC
 - expected_values:
-    VOLKSWAGEN_MQB_INT_MAN_P: 1012
-  response: 7E80562103C03F4
+    VOLKSWAGEN_MQB_INT_MAN_P: 1029
+  response: 7E80562103C0405
 - expected_values:
-    VOLKSWAGEN_MQB_INT_MAN_P: 1039
-  response: 7E80562103C040F
+    VOLKSWAGEN_MQB_INT_MAN_P: 1273
+  response: 7E80562103C04F9
 - expected_values:
     VOLKSWAGEN_MQB_INT_MAN_P: 2705
   response: 7E80562103C0A91
