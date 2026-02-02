@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_DASH_OIL_THERMAL_WEAR: 155
   response: 77E0562224B009B
+- expected_values:
+    VOLKSWAGEN_DASH_OIL_THERMAL_WEAR: 158
+  response: 77E0562224B009E
