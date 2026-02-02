@@ -7,6 +7,12 @@ test_cases:
     VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 1
   response: '7E9056221310001'
 - expected_values:
+    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 15
+  response: 7E905622131000F
+- expected_values:
+    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 16
+  response: '7E9056221310010'
+- expected_values:
     VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 48
   response: '7E9056221310030'
 - expected_values:
