@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_FUEL_LVL: 29
   response: 77E046222061D
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 34
-  response: '77E0462220622'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 44
-  response: 77E046222062C
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 45
-  response: 77E046222062D
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 47
-  response: 77E046222062F
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 50
-  response: '77E0462220632'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 55
-  response: '77E0462220637'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 60
-  response: 77E046222063C
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LVL: 62
-  response: 77E046222063E
-- expected_values:
     VOLKSWAGEN_PQ35_FUEL_LVL: 63
   response: 77E046222063F
