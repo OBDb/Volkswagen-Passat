@@ -11,4 +11,4 @@ test_cases:
   response: 7E8056220A101FE
 - expected_values:
     VOLKSWAGEN_PQ35_CALCULATED_OIL_T: -37
-  response: 7E8056220A1037A
+  response: 7E8056220A10334
