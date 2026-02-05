@@ -1,11 +1,8 @@
 command_id: 7E1.7E9.2238EB
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_1_ACTUAL_P: 2.61
-  response: 7E9056238EB0501
-- expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_1_ACTUAL_P: 0.07
-  response: 7E9056238EB0700
+    VOLKSWAGEN_PQ35_CLUTCH_1_ACTUAL_P: 0.05
+  response: 7E9056238EB0500
 - expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_1_ACTUAL_P: 7.75
   response: 7E9056238EB0703
