@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221057
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 3.786
-  response: 7E8056210570ECA
+    VOLKSWAGEN_PQ35_CHG_P: 1.88
+  response: '7E8056210570758'
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 4.78
-  response: 7E80562105712AC
+    VOLKSWAGEN_PQ35_CHG_P: 3.998
+  response: 7E8056210570F9E
 - expected_values:
     VOLKSWAGEN_PQ35_CHG_P: 5.375
   response: 7E80562105714FF
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 5.636
-  response: '7E8056210571604'
+    VOLKSWAGEN_PQ35_CHG_P: 5.378
+  response: '7E8056210571502'
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 11.483
-  response: 7E8056210572CDB
+    VOLKSWAGEN_PQ35_CHG_P: 13.993
+  response: 7E80562105736A9
