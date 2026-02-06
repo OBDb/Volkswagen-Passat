@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_PQ35_DPF_OUT_T: 21
   response: 7E8056210F90B7D
 - expected_values:
+    VOLKSWAGEN_PQ35_DPF_OUT_T: 59.5
+  response: 7E8056210F90CFE
+- expected_values:
     VOLKSWAGEN_PQ35_DPF_OUT_T: 85.9
   response: 7E8056210F90E06
-- expected_values:
-    VOLKSWAGEN_PQ35_DPF_OUT_T: 187.1
-  response: 7E8056210F911FA
 - expected_values:
     VOLKSWAGEN_PQ35_DPF_OUT_T: 191.4
   response: 7E8056210F91225
