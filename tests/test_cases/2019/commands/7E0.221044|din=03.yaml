@@ -13,5 +13,5 @@ test_cases:
     VOLKSWAGEN_DPF_SFC_T: 264.6
   response: '7E8056210441501'
 - expected_values:
-    VOLKSWAGEN_DPF_SFC_T: 337.9
-  response: 7E80562104417DE
+    VOLKSWAGEN_DPF_SFC_T: 616.6
+  response: 7E80562104422C1

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_PRE_INJ_1_DURATION: 0
   response: 7E8056214D00000
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_1_DURATION: 0.2608
+  response: 7E8056214D0028C
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_1_DURATION: 0.3504
+  response: 7E8056214D0036C
