@@ -7,8 +7,8 @@ test_cases:
     VOLKSWAGEN_PQ35_CHG_P: 5.118
   response: 7E80562105713FE
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 5.123
-  response: '7E8056210571403'
+    VOLKSWAGEN_PQ35_CHG_P: 5.376
+  response: '7E8056210571500'
 - expected_values:
     VOLKSWAGEN_PQ35_CHG_P: 8.815
   response: 7E805621057226F
