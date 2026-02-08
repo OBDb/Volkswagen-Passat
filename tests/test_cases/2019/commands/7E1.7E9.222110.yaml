@@ -1,11 +1,8 @@
 command_id: 7E1.7E9.222110
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SPEC_TORQUE_TRANSINT: 1554
-  response: '7E9056221100612'
-- expected_values:
-    VOLKSWAGEN_SPEC_TORQUE_TRANSINT: 36608
-  response: 7E9056221108F00
+    VOLKSWAGEN_SPEC_TORQUE_TRANSINT: 0
+  response: '7E9056221100000'
 - expected_values:
     VOLKSWAGEN_SPEC_TORQUE_TRANSINT: 60671
   response: 7E905622110ECFF
