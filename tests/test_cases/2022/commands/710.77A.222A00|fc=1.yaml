@@ -1,0 +1,6 @@
+command_id: 710.77A.222A00|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_GEN_TRG_V: 14.8
+    VOLKSWAGEN_SSB_VT: 14.8
+  response: 77A04622A002A
