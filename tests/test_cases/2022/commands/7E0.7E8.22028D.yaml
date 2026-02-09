@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 299.9
-  response: 7E80562028D0BB7
+    VOLKSWAGEN_ECU_TEMP: 290.8
+  response: 7E80562028D0B5C
 - expected_values:
     VOLKSWAGEN_ECU_TEMP: 301.8
   response: 7E80562028D0BCA
 - expected_values:
-    VOLKSWAGEN_ECU_TEMP: 308.7
-  response: 7E80562028D0C0F
+    VOLKSWAGEN_ECU_TEMP: 307.2
+  response: 7E80562028D0C00
