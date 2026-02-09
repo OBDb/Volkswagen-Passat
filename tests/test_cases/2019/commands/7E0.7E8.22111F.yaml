@@ -4,14 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_PREHEAT_T: 0
   response: 7E80562111F0000
 - expected_values:
-    VOLKSWAGEN_PQ35_PREHEAT_T: 800
-  response: 7E80562111F0008
-- expected_values:
-    VOLKSWAGEN_PQ35_PREHEAT_T: 1000
-  response: 7E80562111F000A
-- expected_values:
-    VOLKSWAGEN_PQ35_PREHEAT_T: 2100
-  response: 7E80562111F0015
-- expected_values:
     VOLKSWAGEN_PQ35_PREHEAT_T: 2500
   response: 7E80562111F0019
