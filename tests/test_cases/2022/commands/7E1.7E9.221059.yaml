@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 4.06
   response: '7E9056210599601'
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_1_POS: 4.07
+  response: '7E9056210599701'

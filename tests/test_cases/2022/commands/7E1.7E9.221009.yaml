@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 0
   response: '7E9056210090000'
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 582
+  response: '7E9056210094602'
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 76
+  response: 7E9056210094C00
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 86
+  response: '7E9056210095600'
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 364
+  response: 7E9056210096C01
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 698
+  response: 7E905621009BA02
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 192
+  response: 7E905621009C000
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPD_OUTPUT: 478
+  response: 7E905621009DE01
