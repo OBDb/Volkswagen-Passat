@@ -16,5 +16,11 @@ test_cases:
     VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 3600
   response: 7B00462260324
 - expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 4000
+  response: 7B00462260328
+- expected_values:
     VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 4600
   response: 7B0046226032E
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 5200
+  response: 7B00462260334
