@@ -1,6 +1,12 @@
 command_id: 710.77A.222A0B|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BAT_T_V2: 8
+  response: 77A04622A0B30
+- expected_values:
+    VOLKSWAGEN_BAT_T_V2: 16
+  response: 77A04622A0B38
+- expected_values:
     VOLKSWAGEN_BAT_T_V2: 17
   response: 77A04622A0B39
 - expected_values:
@@ -9,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BAT_T_V2: 19
   response: 77A04622A0B3B
+- expected_values:
+    VOLKSWAGEN_BAT_T_V2: 20
+  response: 77A04622A0B3C
