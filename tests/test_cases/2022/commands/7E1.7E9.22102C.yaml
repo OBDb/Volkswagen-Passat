@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22102C
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_T: 25
+  response: 7E90562102C1900
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_T: 48
   response: 7E90562102C3000
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_T: 56
   response: 7E90562102C3800
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_T: 60
+  response: 7E90562102C3C00
 - expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_T: 63
   response: 7E90562102C3F00

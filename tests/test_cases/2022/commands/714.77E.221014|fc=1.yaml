@@ -12,3 +12,11 @@ test_cases:
     VOLKSWAGEN_AAT: 4.5
     VOLKSWAGEN_DASH_AMBIENT_AIR_T: 4.5
   response: 77E046210146D
+- expected_values:
+    VOLKSWAGEN_AAT: 5.5
+    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 5.5
+  response: 77E046210146F
+- expected_values:
+    VOLKSWAGEN_AAT: 6
+    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 6
+  response: '77E0462101470'
