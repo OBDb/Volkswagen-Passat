@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_INPUT_SHAFT_1: 1194
   response: 7E90562380CAA04
+- expected_values:
+    VOLKSWAGEN_MQB_INPUT_SHAFT_1: 498
+  response: 7E90562380CF201
