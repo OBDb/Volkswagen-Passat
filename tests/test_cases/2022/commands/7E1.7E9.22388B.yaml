@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_DRIVE_CYCLES_COUNTER: 3533
   response: 7E90562388BCD0D
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_DRIVE_CYCLES_COUNTER: 3534
+  response: 7E90562388BCE0D
