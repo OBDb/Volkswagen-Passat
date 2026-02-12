@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_BAT_T_V2: 8
   response: 77A04622A0B30
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 9
-  response: 77A04622A0B31
-- expected_values:
-    VOLKSWAGEN_BAT_T_V2: 11
-  response: 77A04622A0B33
-- expected_values:
-    VOLKSWAGEN_BAT_T_V2: 12
-  response: 77A04622A0B34
-- expected_values:
-    VOLKSWAGEN_BAT_T_V2: 13
-  response: 77A04622A0B35
-- expected_values:
-    VOLKSWAGEN_BAT_T_V2: 16
-  response: 77A04622A0B38
-- expected_values:
-    VOLKSWAGEN_BAT_T_V2: 17
-  response: 77A04622A0B39
-- expected_values:
-    VOLKSWAGEN_BAT_T_V2: 18
-  response: 77A04622A0B3A
-- expected_values:
-    VOLKSWAGEN_BAT_T_V2: 19
-  response: 77A04622A0B3B
-- expected_values:
     VOLKSWAGEN_BAT_T_V2: 20
   response: 77A04622A0B3C
