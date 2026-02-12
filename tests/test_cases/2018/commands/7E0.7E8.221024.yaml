@@ -7,5 +7,5 @@ test_cases:
     VOLKSWAGEN_MQB_AIR_MASS_1: 25.5
   response: 7E80562102400FF
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 204.2
-  response: 7E80562102407FA
+    VOLKSWAGEN_MQB_AIR_MASS_1: 194.7
+  response: 7E805621024079B
