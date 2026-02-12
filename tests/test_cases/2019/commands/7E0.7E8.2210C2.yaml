@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_PQ35_EGR_DUTY: 0
   response: 7E8056210C20000
 - expected_values:
-    VOLKSWAGEN_PQ35_EGR_DUTY: 7.65
-  response: 7E8056210C202FD
+    VOLKSWAGEN_PQ35_EGR_DUTY: 5.09
+  response: 7E8056210C201FD
 - expected_values:
     VOLKSWAGEN_PQ35_EGR_DUTY: 59.98
   response: 7E8056210C2176E
