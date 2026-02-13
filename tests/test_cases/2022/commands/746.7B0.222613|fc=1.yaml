@@ -1,9 +1,9 @@
 command_id: 746.7B0.222613|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CABIN_T: 26.8
-    VOLKSWAGEN_HVAC_IAT: 26.8
-  response: 7B005622613010C
+    VOLKSWAGEN_CABIN_T: 26.6
+    VOLKSWAGEN_HVAC_IAT: 26.6
+  response: 7B005622613010A
 - expected_values:
     VOLKSWAGEN_CABIN_T: 32.5
     VOLKSWAGEN_HVAC_IAT: 32.5
