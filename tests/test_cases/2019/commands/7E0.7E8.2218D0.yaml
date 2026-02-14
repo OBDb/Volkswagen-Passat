@@ -7,5 +7,5 @@ test_cases:
     VOLKSWAGEN_PQ35_BRAKE_P: 22.88
   response: 7E8056218D008F0
 - expected_values:
-    VOLKSWAGEN_PQ35_BRAKE_P: 27.36
-  response: 7E8056218D00AB0
+    VOLKSWAGEN_PQ35_BRAKE_P: 26.24
+  response: 7E8056218D00A40

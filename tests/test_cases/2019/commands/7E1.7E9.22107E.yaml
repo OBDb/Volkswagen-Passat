@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_PROT_ENGAGED_QTY: 144
   response: 7E90762107E90000000
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_PROT_ENGAGED_QTY: 145
+  response: 7E90762107E91000000
