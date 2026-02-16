@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_PQ35_REG_FACTOR: 0.7986
   response: 7E8056210E41F32
 - expected_values:
+    VOLKSWAGEN_PQ35_REG_FACTOR: 0.8024
+  response: 7E8056210E41F58
+- expected_values:
     VOLKSWAGEN_PQ35_REG_FACTOR: 0.8057
   response: 7E8056210E41F79
 - expected_values:
