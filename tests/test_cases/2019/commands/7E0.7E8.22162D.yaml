@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22162D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_T: 8
-  response: 7E80562162D0AFB
+    VOLKSWAGEN_PQ35_FUEL_T: 6.1
+  response: 7E80562162D0AE8
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_T: 34
-  response: 7E80562162D0BFF
+    VOLKSWAGEN_PQ35_FUEL_T: 8.4
+  response: 7E80562162D0AFF
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_T: 34.1
-  response: 7E80562162D0C00
+    VOLKSWAGEN_PQ35_FUEL_T: 8.5
+  response: 7E80562162D0B00
 - expected_values:
     VOLKSWAGEN_PQ35_FUEL_T: 41.1
   response: 7E80562162D0C46
