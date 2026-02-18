@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.222609
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_DPF_SOOT_MASS_CALCULATED: 5.11
+  response: 7E80562260901FF
+- expected_values:
     VOLKSWAGEN_MQB_DPF_SOOT_MASS_CALCULATED: 5.49
   response: '7E8056226090225'
 - expected_values:
