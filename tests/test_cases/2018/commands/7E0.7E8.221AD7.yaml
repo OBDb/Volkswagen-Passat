@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_MQB_EXH_TEMP_CTRL_AFTER_CAT_MODEL_ERR: -52.5
   response: 7E805621AD7089E
 - expected_values:
+    VOLKSWAGEN_MQB_EXH_TEMP_CTRL_AFTER_CAT_MODEL_ERR: -35.2
+  response: 7E805621AD7094B
+- expected_values:
     VOLKSWAGEN_MQB_EXH_TEMP_CTRL_AFTER_CAT_MODEL_ERR: -17.4
   response: 7E805621AD709FD
 - expected_values:
