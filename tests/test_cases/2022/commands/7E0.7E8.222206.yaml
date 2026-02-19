@@ -5,10 +5,10 @@ test_cases:
   response: 7E805622206076C
 - expected_values:
     VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 8
-  response: '7E8056222060834'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 8
   response: 7E80562220608FC
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 23
+  response: 7E805622206170C
 - expected_values:
     VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 25
   response: 7E80562220619C8
