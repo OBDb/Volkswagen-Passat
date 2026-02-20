@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_MAIN_INJ_DURATION: 0.5552
   response: 7E8056214CF056C
+- expected_values:
+    VOLKSWAGEN_PQ35_MAIN_INJ_DURATION: 0.6452
+  response: 7E8056214CF064D

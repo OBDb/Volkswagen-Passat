@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2212FE
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CAMS_ADAPT_PHASE_1: -0.28
+  response: 7E8056212FEFFF2
+- expected_values:
     VOLKSWAGEN_PQ35_CAMS_ADAPT_PHASE_1: -0.16
   response: 7E8056212FEFFF8

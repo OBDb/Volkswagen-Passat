@@ -5,6 +5,10 @@ test_cases:
     VOLKSWAGEN_MISFIRES__CYL__4: 7
   response: '7E8056211510007'
 - expected_values:
+    VOLKSWAGEN_EM_RPM_1: 219
+    VOLKSWAGEN_MISFIRES__CYL__4: 438
+  response: 7E80562115101B6
+- expected_values:
     VOLKSWAGEN_EM_RPM_1: 719
     VOLKSWAGEN_MISFIRES__CYL__4: 1438
   response: 7E805621151059E

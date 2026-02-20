@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MISFIRES_TOTAL: 2824
   response: 7E8056211460B08
+- expected_values:
+    VOLKSWAGEN_MISFIRES_TOTAL: 4662
+  response: '7E8056211461236'
