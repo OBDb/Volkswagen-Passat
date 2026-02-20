@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221798
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_CHARGE_AIR_T_TUBROCHARGER_OUTLET_CALCULATED: 21.6
+  response: 7E8056217980B83
+- expected_values:
     VOLKSWAGEN_MQB_CHARGE_AIR_T_TUBROCHARGER_OUTLET_CALCULATED: 60.8
   response: 7E8056217980D0B
 - expected_values:

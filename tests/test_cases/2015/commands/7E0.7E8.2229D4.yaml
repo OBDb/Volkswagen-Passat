@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_ENG_TRQ_REQ_1: 0.1
   response: 7E8056229D40001
 - expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_1: 50.8
-  response: 7E8056229D401FC
+    VOLKSWAGEN_ENG_TRQ_REQ_1: 51
+  response: 7E8056229D401FE
 - expected_values:
     VOLKSWAGEN_ENG_TRQ_REQ_1: 236.6
   response: 7E8056229D4093E

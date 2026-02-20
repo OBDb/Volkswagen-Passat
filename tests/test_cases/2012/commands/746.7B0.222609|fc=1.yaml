@@ -8,3 +8,7 @@ test_cases:
     VOLKSWAGEN_AAT_FROMCABIN: 2
     VOLKSWAGEN_AAT_V2: 2
   response: 7B00462260904
+- expected_values:
+    VOLKSWAGEN_AAT_FROMCABIN: 2.5
+    VOLKSWAGEN_AAT_V2: 2.5
+  response: 7B00462260905

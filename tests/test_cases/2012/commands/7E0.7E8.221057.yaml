@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221057
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CHG_P: 0.998
+  response: 7E80562105703E6
+- expected_values:
     VOLKSWAGEN_PQ35_CHG_P: 1.304
   response: '7E8056210570518'
