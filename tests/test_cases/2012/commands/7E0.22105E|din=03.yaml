@@ -1,0 +1,8 @@
+command_id: 7E0.22105E|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_BAT_V_2: 13.96
+  response: 7E80562105E02BA
+- expected_values:
+    VOLKSWAGEN_PQ35_BAT_V_2: 14
+  response: 7E80562105E02BC

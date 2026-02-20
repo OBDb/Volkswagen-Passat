@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221105
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: -0.06
+  response: 7E805621105FFFA
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: -0.03
+  response: 7E805621105FFFD

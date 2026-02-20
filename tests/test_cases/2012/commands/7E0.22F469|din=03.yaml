@@ -1,0 +1,7 @@
+command_id: 7E0.22F469|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
+  response: |-
+    7E8100A62F4693F0000
+    7E82180000080555555
