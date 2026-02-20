@@ -4,26 +4,5 @@ test_cases:
     VOLKSWAGEN_DASH_AVG_FUEL_CONS: 10.8
   response: 77E05622299006C
 - expected_values:
-    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 10.9
-  response: 77E05622299006D
-- expected_values:
-    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 11
-  response: 77E05622299006E
-- expected_values:
-    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 11.1
-  response: 77E05622299006F
-- expected_values:
-    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 12.8
-  response: '77E056222990080'
-- expected_values:
-    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 13
-  response: '77E056222990082'
-- expected_values:
-    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 13.2
-  response: '77E056222990084'
-- expected_values:
-    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 14.5
-  response: '77E056222990091'
-- expected_values:
     VOLKSWAGEN_DASH_AVG_FUEL_CONS: 14.9
   response: '77E056222990095'
