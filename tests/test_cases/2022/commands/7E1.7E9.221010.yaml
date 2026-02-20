@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.221010
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_CONVERTER_LOSS_TORQUE: 243.25
+  response: '7E9056210101301'
+- expected_values:
     VOLKSWAGEN_MQB_TCM_CONVERTER_LOSS_TORQUE: 256
   response: '7E9056210101400'
 - expected_values:
