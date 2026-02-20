@@ -1,0 +1,8 @@
+command_id: 7E0.2216A9|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 207823
+  response: 7E8076216A900032BCF
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 207825
+  response: 7E8076216A900032BD1
