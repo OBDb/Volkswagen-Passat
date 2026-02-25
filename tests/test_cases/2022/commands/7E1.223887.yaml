@@ -7,11 +7,11 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_ODO_2: 75059.4
   response: 7E90762388702740B00
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ODO_2: 142239.8
-  response: 7E9076238873EB41500
-- expected_values:
     VOLKSWAGEN_MQB_TCM_ODO_2: 73975.2
   response: 7E907623887A8490B00
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ODO_2: 142276.4
+  response: 7E907623887ACB51500
 - expected_values:
     VOLKSWAGEN_MQB_TCM_ODO_2: 141337.3
   response: 7E907623887FD901500
