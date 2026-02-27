@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_WARM_UPS: 39
   response: 7E80462F43027
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 103
-  response: 7E80462F43067
+    VOLKSWAGEN_WARM_UPS: 105
+  response: 7E80462F43069
