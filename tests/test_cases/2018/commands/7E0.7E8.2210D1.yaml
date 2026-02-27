@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.0328
   response: 7E8056210D10290
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.0348
+  response: 7E8056210D102B8

@@ -1,0 +1,7 @@
+command_id: 7E1.220303
+test_cases:
+- expected_values:
+    VOLKSWAGEN_DRIVE_TIME_ECO: 22.4
+  response: |-
+    7E8100A620303383848
+    7E82138364F43AAAAAA
