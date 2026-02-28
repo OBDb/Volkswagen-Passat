@@ -13,11 +13,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
   response: |-
-    7E8100A62F4693F0000
-    7E821805C5F84555555
-- expected_values:
-    VOLKSWAGEN_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
-  response: |-
     7E8100A62F4693F0001
     7E821FF000080555555
 - expected_values:
@@ -40,6 +35,11 @@ test_cases:
   response: |-
     7E8100A62F4693F1E06
     7E8211A1D0000555555
+- expected_values:
+    VOLKSWAGEN_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 48
+  response: |-
+    7E8100A62F4693F3033
+    7E82188272F9A555555
 - expected_values:
     VOLKSWAGEN_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 0
   response: |-
