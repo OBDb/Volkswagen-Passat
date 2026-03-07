@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DPF_STATISTICS_REGEN_TIME: 1536
   response: 7E804621ACD18
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_STATISTICS_REGEN_TIME: 2048
+  response: 7E804621ACD20
