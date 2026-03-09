@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: 0
   response: '7E8056211050000'
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: -0.59
-  response: 7E805621105FFC5
+    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: -0.69
+  response: 7E805621105FFBB
 - expected_values:
     VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: -0.01
   response: 7E805621105FFFF
