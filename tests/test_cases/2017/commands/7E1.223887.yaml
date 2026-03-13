@@ -1,8 +1,8 @@
 command_id: 7E1.223887
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ODO_2: 363843276.8
-  response: 7E9076238870014DED8
+    VOLKSWAGEN_MQB_TCM_ODO_2: 209355008
+  response: 7E907623887000AC97C
 - expected_values:
     VOLKSWAGEN_MQB_TCM_ODO_2: 427609804.8
   response: 7E9076238870014E0FE

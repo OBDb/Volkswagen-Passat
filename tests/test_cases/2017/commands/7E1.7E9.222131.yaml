@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222131
+test_cases:
+- expected_values:
+    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 3
+  response: '7E9056221310003'
+- expected_values:
+    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 93
+  response: 7E905622131005D
+- expected_values:
+    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 558
+  response: 7E905622131022E
