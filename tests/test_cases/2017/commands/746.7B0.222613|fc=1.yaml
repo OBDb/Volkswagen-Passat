@@ -28,3 +28,7 @@ test_cases:
     VOLKSWAGEN_CABIN_T: 21.7
     VOLKSWAGEN_HVAC_IAT: 21.7
   response: 7B00562261300D9
+- expected_values:
+    VOLKSWAGEN_CABIN_T: 32.8
+    VOLKSWAGEN_HVAC_IAT: 32.8
+  response: 7B0056226130148
