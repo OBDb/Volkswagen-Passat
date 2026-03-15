@@ -1,11 +1,32 @@
 command_id: 7E0.7E8.224380
 test_cases:
 - expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 5.6
+  response: '7E8056243800038'
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 9.6
+  response: '7E8056243800060'
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 10.3
+  response: '7E8056243800067'
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 22.6
+  response: 7E80562438000E2
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 28.6
+  response: 7E805624380011E
+- expected_values:
     VOLKSWAGEN_ENG_TRQ_REQ_2: 52.1
   response: '7E8056243800209'
 - expected_values:
     VOLKSWAGEN_ENG_TRQ_REQ_2: 173.3
   response: 7E80562438006C5
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 6515.6
+  response: 7E805624380FE84
+- expected_values:
+    VOLKSWAGEN_ENG_TRQ_REQ_2: 6517.3
+  response: 7E805624380FE95
 - expected_values:
     VOLKSWAGEN_ENG_TRQ_REQ_2: 6543.3
   response: 7E805624380FF99
