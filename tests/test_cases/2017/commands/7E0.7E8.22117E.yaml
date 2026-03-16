@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22117E
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.01
+  response: 7E80562117E0001
+- expected_values:
     VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.03
   response: 7E80562117E0003
 - expected_values:
@@ -13,11 +16,17 @@ test_cases:
     VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.08
   response: 7E80562117E0008
 - expected_values:
+    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.09
+  response: 7E80562117E0009
+- expected_values:
     VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.1
   response: 7E80562117E000A
 - expected_values:
     VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.11
   response: 7E80562117E000B
+- expected_values:
+    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.12
+  response: 7E80562117E000C
 - expected_values:
     VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0
   response: 7E80562117EFFFE
