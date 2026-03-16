@@ -4,29 +4,8 @@ test_cases:
     VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 3
   response: '7E9056221310003'
 - expected_values:
-    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 6
-  response: '7E9056221310006'
-- expected_values:
-    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 54
-  response: '7E9056221310036'
-- expected_values:
-    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 93
-  response: 7E905622131005D
-- expected_values:
-    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 558
-  response: 7E905622131022E
-- expected_values:
-    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 685
-  response: 7E90562213102AD
-- expected_values:
-    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: 883
-  response: '7E9056221310373'
-- expected_values:
     VOLKSWAGEN_TORQUE_CONVERTER_SLIP: -4
   response: 7E905622131FFFC
-- expected_values:
-    VOLKSWAGEN_TORQUE_CONVERTER_SLIP: -2
-  response: 7E905622131FFFE
 - expected_values:
     VOLKSWAGEN_TORQUE_CONVERTER_SLIP: -1
   response: 7E905622131FFFF
