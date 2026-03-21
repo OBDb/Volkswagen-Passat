@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_DRIVING_TIME_SPORTY: 2
   response: '7E90462388902'
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_DRIVING_TIME_SPORTY: 3
+  response: '7E90462388903'
