@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221AD7
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_EXH_TEMP_CTRL_AFTER_CAT_MODEL_ERR: -71.3
+  response: 7E805621AD707E2
+- expected_values:
     VOLKSWAGEN_MQB_EXH_TEMP_CTRL_AFTER_CAT_MODEL_ERR: -60.2
   response: 7E805621AD70851
 - expected_values:
