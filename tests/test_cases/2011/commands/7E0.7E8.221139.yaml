@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QUANTITY: 152.79
+    VOLKSWAGEN_PQ35_AVG_CYCLE_CON: 152.79
+  response: 7E8056211393BAF
