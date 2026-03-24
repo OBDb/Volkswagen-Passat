@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_EXHAUST_GAS_T_BEFORE_CATALYST: 341.05
   response: 7E805621282687D
+- expected_values:
+    VOLKSWAGEN_EXHAUST_GAS_T_BEFORE_CATALYST: 424.45
+  response: 7E80562128278C7
