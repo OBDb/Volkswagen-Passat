@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.2210EA
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 9216
+  response: 7E9056210EA0024
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 8977
   response: 7E9056210EA1123
 - expected_values:
