@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_DASH_AVG_FUEL_CONS: 17.3
   response: 77E0562229900AD
+- expected_values:
+    VOLKSWAGEN_DASH_AVG_FUEL_CONS: 40
+  response: '77E056222990190'
