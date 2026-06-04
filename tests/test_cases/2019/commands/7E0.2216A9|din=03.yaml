@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_ODO_2: 166712
   response: 7E8076216A900028B38
+- expected_values:
+    VOLKSWAGEN_PQ35_ODO_2: 209173
+  response: 7E8076216A900033115
