@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_REACHED_MAXIMUM_T: 104
   response: '7E9056211176800'
+- expected_values:
+    VOLKSWAGEN_PQ35_REACHED_MAXIMUM_T: 106
+  response: 7E9056211176A00
