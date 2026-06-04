@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.221069
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_PROT_ENGAGED_QTY: 19
+  response: '7E90762106913000000'
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_1_PROT_ENGAGED_QTY: 47
   response: 7E9076210692F000000
 - expected_values:
