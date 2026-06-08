@@ -16,5 +16,5 @@ test_cases:
     VOLKSWAGEN_MIL_DIST: 255
   response: 7E80562F42100FF
 - expected_values:
-    VOLKSWAGEN_MIL_DIST: 1386
-  response: 7E80562F421056A
+    VOLKSWAGEN_MIL_DIST: 1536
+  response: 7E80562F4210600
