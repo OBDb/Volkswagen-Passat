@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100E
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LIMITATION: 105
+  response: 7E90562100E3408
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENGINE_TORQUE_LIMITATION: 305
+  response: 7E90562100ED417
