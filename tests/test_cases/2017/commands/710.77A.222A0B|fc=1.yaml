@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BAT_T_V2: 14
   response: 77A04622A0B36
+- expected_values:
+    VOLKSWAGEN_BAT_T_V2: 52
+  response: 77A04622A0B5C

@@ -1,0 +1,8 @@
+command_id: 7E0.22114E|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_SOOT_MASS_MEAS: 2.47
+  response: 7E80562114E00F7
+- expected_values:
+    VOLKSWAGEN_PQ35_SOOT_MASS_MEAS: 2.93
+  response: 7E80562114E0125
