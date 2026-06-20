@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221AD5
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_INLET_LAMBDA_VALUE: 1.418
+  response: 7E805621AD5058A
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_INLET_LAMBDA_VALUE: 2.31
+  response: 7E805621AD50906

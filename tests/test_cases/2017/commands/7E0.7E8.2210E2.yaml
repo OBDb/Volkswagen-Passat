@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210E2
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_WEAR_IDX: 4
+  response: 7E8056210E20004
+- expected_values:
+    VOLKSWAGEN_PQ35_WEAR_IDX: 9
+  response: 7E8056210E20009

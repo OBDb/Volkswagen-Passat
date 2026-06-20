@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22133B
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_CAMS_SPD: 450.6
+  response: 7E80562133B05DE
+- expected_values:
+    VOLKSWAGEN_PQ35_CAMS_SPD: 770.4
+  response: 7E80562133B0A08
