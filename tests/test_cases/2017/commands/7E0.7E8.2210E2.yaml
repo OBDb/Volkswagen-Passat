@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_WEAR_IDX: 4
   response: 7E8056210E20004
 - expected_values:
-    VOLKSWAGEN_PQ35_WEAR_IDX: 9
-  response: 7E8056210E20009
+    VOLKSWAGEN_PQ35_WEAR_IDX: 18
+  response: 7E8056210E20012
