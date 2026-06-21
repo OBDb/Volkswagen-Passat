@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_AIR_MASS_1: 25.2
   response: 7E80562102400FC
+- expected_values:
+    VOLKSWAGEN_MQB_AIR_MASS_1: 32.4
+  response: '7E8056210240144'
+- expected_values:
+    VOLKSWAGEN_MQB_AIR_MASS_1: 77.2
+  response: '7E8056210240304'
+- expected_values:
+    VOLKSWAGEN_MQB_AIR_MASS_1: 398.5
+  response: 7E8056210240F91

@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_POST_INJ_2_START: 0
   response: 7E8056211F30000
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_2_START: -43.74
+  response: 7E8056211F3F775
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_2_START: -39.4
+  response: 7E8056211F3F84E
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_2_START: -33.6
+  response: 7E8056211F3F970
+- expected_values:
+    VOLKSWAGEN_PQ35_POST_INJ_2_START: -27.94
+  response: 7E8056211F3FA8B
