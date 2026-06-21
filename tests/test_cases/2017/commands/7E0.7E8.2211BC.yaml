@@ -1,8 +1,17 @@
 command_id: 7E0.7E8.2211BC
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_OIL_LVL: 18
+  response: 7E8056211BC1194
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_LVL: 26.6
+  response: 7E8056211BC19FA
+- expected_values:
+    VOLKSWAGEN_PQ35_OIL_LVL: 29.508
+  response: 7E8056211BC1CD1
+- expected_values:
     VOLKSWAGEN_PQ35_OIL_LVL: 31.84
   response: 7E8056211BC1F18
 - expected_values:
-    VOLKSWAGEN_PQ35_OIL_LVL: 36.4
-  response: 7E8056211BC238C
+    VOLKSWAGEN_PQ35_OIL_LVL: 40.548
+  response: 7E8056211BC2799

@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0
   response: 7E8056214D10000
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.1348
+  response: 7E8056214D10151
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.1372
+  response: 7E8056214D10157
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.1384
+  response: 7E8056214D1015A
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.142
+  response: 7E8056214D10163
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.146
+  response: 7E8056214D1016D
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.1504
+  response: 7E8056214D10178
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.1708
+  response: 7E8056214D101AB
+- expected_values:
+    VOLKSWAGEN_PQ35_PRE_INJ_2_DURATION: 0.19
+  response: 7E8056214D101DB
