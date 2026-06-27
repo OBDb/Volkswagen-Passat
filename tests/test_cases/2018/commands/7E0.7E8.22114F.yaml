@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22114F
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C1: 7891
+    VOLKSWAGEN_PQ35_SOOT_MASS_CALC: 78.91
+  response: 7E80562114F1ED3

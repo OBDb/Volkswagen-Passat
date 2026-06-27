@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221135
+test_cases:
+- expected_values:
+    VOLKSWAGEN_COOLANT_T: 99
+  response: 7E8056211350E89
+- expected_values:
+    VOLKSWAGEN_COOLANT_T: 99.7
+  response: 7E8056211350E90
+- expected_values:
+    VOLKSWAGEN_COOLANT_T: 100.9
+  response: 7E8056211350E9C
