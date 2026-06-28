@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.22113F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.08
-  response: 7E80562113F006C
+    VOLKSWAGEN_FUEL_CONS: 0.89
+  response: 7E80562113F0059
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.12
-  response: 7E80562113F0070
+    VOLKSWAGEN_FUEL_CONS: 10.35
+  response: 7E80562113F040B
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.15
-  response: 7E80562113F0073
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.21
-  response: 7E80562113F0079
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.31
-  response: 7E80562113F0083
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.33
-  response: 7E80562113F0085
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.34
-  response: 7E80562113F0086
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS: 1.41
-  response: 7E80562113F008D
+    VOLKSWAGEN_FUEL_CONS: 12.76
+  response: 7E80562113F04FC
