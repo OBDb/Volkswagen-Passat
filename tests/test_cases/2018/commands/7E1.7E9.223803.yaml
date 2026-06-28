@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.223803
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_BRAKE_P: -261.01
+  response: 7E9056238030B9A
+- expected_values:
     VOLKSWAGEN_MQB_TCM_BRAKE_P: -184.21
   response: 7E9056238030BB8
 - expected_values:
