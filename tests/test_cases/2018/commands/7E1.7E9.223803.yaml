@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_BRAKE_P: -184.21
   response: 7E9056238030BB8
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_BRAKE_P: 97.4
+  response: 7E9056238030C26
+- expected_values:
     VOLKSWAGEN_MQB_TCM_BRAKE_P: 297.1
   response: 7E9056238030E74
 - expected_values:
