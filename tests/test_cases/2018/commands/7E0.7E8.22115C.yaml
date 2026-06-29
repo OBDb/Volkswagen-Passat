@@ -13,6 +13,9 @@ test_cases:
     VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 82
   response: 7E80462115C52
 - expected_values:
+    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 4
+  response: 7E80562115C0459
+- expected_values:
     VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 5
   response: 7E80562115C0558
 - expected_values:
