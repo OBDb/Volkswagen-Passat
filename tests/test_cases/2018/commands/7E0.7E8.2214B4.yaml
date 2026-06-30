@@ -16,6 +16,9 @@ test_cases:
     VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 12
   response: 7E8056214B404B0
 - expected_values:
+    VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 63
+  response: 7E8056214B4189C
+- expected_values:
     VOLKSWAGEN_FUEL_LEVEL_INPUT_V1: 64
   response: 7E8056214B41900
 - expected_values:
