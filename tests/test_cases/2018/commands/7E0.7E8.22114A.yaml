@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MISFIRES_1000REV_C2: 1
   response: 7E80562114A0001
+- expected_values:
+    VOLKSWAGEN_MISFIRES_1000REV_C2: 2
+  response: 7E80562114A0002
