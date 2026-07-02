@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_AC_COMP_T: 0
   response: '7E8056210020000'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 7.5
-  response: 7E805621002004B
+    VOLKSWAGEN_AC_COMP_T: 10
+  response: '7E8056210020064'
