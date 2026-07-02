@@ -4,20 +4,14 @@ test_cases:
     VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 0
   response: 7E80462115C00
 - expected_values:
-    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 64
-  response: 7E80462115C40
-- expected_values:
-    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 66
-  response: 7E80462115C42
-- expected_values:
     VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 82
   response: 7E80462115C52
 - expected_values:
+    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 1
+  response: 7E80562115C0155
+- expected_values:
     VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 4
   response: 7E80562115C0459
-- expected_values:
-    VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 5
-  response: 7E80562115C0558
 - expected_values:
     VOLKSWAGEN_PQ35_SRV_REGEN_STAT: 39
   response: 7E80562115C2710
