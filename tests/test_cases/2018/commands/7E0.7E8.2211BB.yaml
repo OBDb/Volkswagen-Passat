@@ -10,5 +10,5 @@ test_cases:
     VOLKSWAGEN_OIL_CRIT: 6.2456
   response: 7E8056211BB3CFE
 - expected_values:
-    VOLKSWAGEN_OIL_CRIT: 6.5712
-  response: 7E8056211BB402C
+    VOLKSWAGEN_OIL_CRIT: 6.7968
+  response: 7E8056211BB4260
