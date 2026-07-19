@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_PQ35_BAT_V_2: 10.72
   response: 7E80562105E0218
 - expected_values:
-    VOLKSWAGEN_PQ35_BAT_V_2: 11.96
-  response: 7E80562105E0256
+    VOLKSWAGEN_PQ35_BAT_V_2: 11.88
+  response: 7E80562105E0252
 - expected_values:
     VOLKSWAGEN_PQ35_BAT_V_2: 14.98
   response: 7E80562105E02ED
