@@ -1,8 +1,29 @@
 command_id: 7E0.7E8.221526
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 27
+  response: 7E805621526001B
+- expected_values:
     VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 40
   response: '7E8056215260028'
 - expected_values:
+    VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 43
+  response: 7E805621526002B
+- expected_values:
+    VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 46
+  response: 7E805621526002E
+- expected_values:
     VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 61
   response: 7E805621526003D
+- expected_values:
+    VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 71
+  response: '7E8056215260047'
+- expected_values:
+    VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 72
+  response: '7E8056215260048'
+- expected_values:
+    VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 73
+  response: '7E8056215260049'
+- expected_values:
+    VOLKSWAGEN_MQB_NOX_CONC_BEHIND_TURBO: 81
+  response: '7E8056215260051'
