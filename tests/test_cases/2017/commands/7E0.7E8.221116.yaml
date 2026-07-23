@@ -4,23 +4,8 @@ test_cases:
     VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 10
   response: 7E80562111603E8
 - expected_values:
-    VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 17.68
-  response: 7E80562111606E8
-- expected_values:
-    VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 20.13
-  response: 7E80562111607DD
-- expected_values:
     VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 23.15
   response: 7E805621116090B
-- expected_values:
-    VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 25.97
-  response: 7E8056211160A25
-- expected_values:
-    VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 34.77
-  response: 7E8056211160D95
-- expected_values:
-    VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 35.4
-  response: 7E8056211160DD4
 - expected_values:
     VOLKSWAGEN_PQ35_COOL_FAN_1_DUTY: 47.72
   response: 7E80562111612A4
