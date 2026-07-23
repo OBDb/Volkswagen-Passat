@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_FIELD_LIM: 21.32
   response: 7E8056211F60854
+- expected_values:
+    VOLKSWAGEN_PQ35_FIELD_LIM: 23.13
+  response: 7E8056211F60909

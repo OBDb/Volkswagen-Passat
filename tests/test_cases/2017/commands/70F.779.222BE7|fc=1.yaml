@@ -1,0 +1,11 @@
+command_id: 70F.779.222BE7|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_PWM: 13
+  response: 77904622BE70D
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_PWM: 16
+  response: 77904622BE710
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_PWM: 29
+  response: 77904622BE71D
