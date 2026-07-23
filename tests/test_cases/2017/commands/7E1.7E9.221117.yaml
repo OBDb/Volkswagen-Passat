@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.221117
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_REACHED_MAXIMUM_T: 109
+  response: 7E9056211176D00
+- expected_values:
     VOLKSWAGEN_PQ35_REACHED_MAXIMUM_T: 122
   response: 7E9056211177A00
