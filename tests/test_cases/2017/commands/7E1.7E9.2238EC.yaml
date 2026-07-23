@@ -1,8 +1,26 @@
 command_id: 7E1.7E9.2238EC
 test_cases:
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 0
+  response: 7E9056238EC0000
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 2.63
   response: 7E9056238EC0701
 - expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 2.98
+  response: 7E9056238EC2A01
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 4.4
+  response: 7E9056238ECB801
+- expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 2.01
   response: 7E9056238ECC900
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 7.16
+  response: 7E9056238ECCC02
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 2.37
+  response: 7E9056238ECED00
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 2.39
+  response: 7E9056238ECEF00

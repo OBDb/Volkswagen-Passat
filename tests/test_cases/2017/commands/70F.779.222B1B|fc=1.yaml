@@ -1,11 +1,11 @@
 command_id: 70F.779.222B1B|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_FL_VSS: 34.4
-  response: 77905622B1B0158
+    VOLKSWAGEN_PQ35_FL_VSS: 0
+  response: 77905622B1B0000
 - expected_values:
-    VOLKSWAGEN_PQ35_FL_VSS: 39
-  response: 77905622B1B0186
+    VOLKSWAGEN_PQ35_FL_VSS: 28.6
+  response: 77905622B1B011E
 - expected_values:
-    VOLKSWAGEN_PQ35_FL_VSS: 40.3
-  response: 77905622B1B0193
+    VOLKSWAGEN_PQ35_FL_VSS: 47.9
+  response: 77905622B1B01DF
