@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_PQ35_ACCEL_PED_1: 723.2
   response: 7E8056212210E20
 - expected_values:
+    VOLKSWAGEN_PQ35_ACCEL_PED_1: 767.2
+  response: 7E8056212210EFC
+- expected_values:
     VOLKSWAGEN_PQ35_ACCEL_PED_1: 2150.4
   response: 7E8056212212A00
-- expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 2404.6
-  response: 7E8056212212EF7
 - expected_values:
     VOLKSWAGEN_PQ35_ACCEL_PED_1: 3861
   response: 7E8056212214B69
