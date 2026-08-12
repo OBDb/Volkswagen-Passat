@@ -1,11 +1,11 @@
 command_id: 7E0.221044|din=03
 test_cases:
 - expected_values:
-    VOLKSWAGEN_DPF_SFC_T: 71
-  response: 7E8056210440D71
+    VOLKSWAGEN_DPF_SFC_T: 49.5
+  response: 7E8056210440C9A
 - expected_values:
-    VOLKSWAGEN_DPF_SFC_T: 215.7
-  response: '7E8056210441318'
+    VOLKSWAGEN_DPF_SFC_T: 317.6
+  response: '7E8056210441713'
 - expected_values:
     VOLKSWAGEN_DPF_SFC_T: 3003.6
   response: 7E8056210447FFF

@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.2211E6
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_DPF_EXH_VOL: 39.6
-  response: 7E8056211E6018C
+    VOLKSWAGEN_MQB_DPF_EXH_VOL: 50.8
+  response: 7E8056211E601FC
 - expected_values:
-    VOLKSWAGEN_MQB_DPF_EXH_VOL: 116.8
-  response: 7E8056211E60490
-- expected_values:
-    VOLKSWAGEN_MQB_DPF_EXH_VOL: 154.8
-  response: 7E8056211E6060C
+    VOLKSWAGEN_MQB_DPF_EXH_VOL: 180.2
+  response: 7E8056211E6070A
 - expected_values:
     VOLKSWAGEN_MQB_DPF_EXH_VOL: 460.6
   response: 7E8056211E611FE
