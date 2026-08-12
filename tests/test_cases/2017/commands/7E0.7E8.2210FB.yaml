@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2210FB
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_EXH_GAS_T_1: 196.1
-  response: 7E8056210FB1254
+    VOLKSWAGEN_PQ35_EXH_GAS_T_1: 128.5
+  response: 7E8056210FB0FB0
+- expected_values:
+    VOLKSWAGEN_PQ35_EXH_GAS_T_1: 135.8
+  response: 7E8056210FB0FF9
+- expected_values:
+    VOLKSWAGEN_PQ35_EXH_GAS_T_1: 152.2
+  response: 7E8056210FB109D
 - expected_values:
     VOLKSWAGEN_PQ35_EXH_GAS_T_1: 264.6
   response: 7E8056210FB1501
-- expected_values:
-    VOLKSWAGEN_PQ35_EXH_GAS_T_1: 340.4
-  response: 7E8056210FB17F7
-- expected_values:
-    VOLKSWAGEN_PQ35_EXH_GAS_T_1: 416.3
-  response: 7E8056210FB1AEE
 - expected_values:
     VOLKSWAGEN_PQ35_EXH_GAS_T_1: 681.2
   response: 7E8056210FB2547

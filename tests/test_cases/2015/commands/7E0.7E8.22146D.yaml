@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_1: 0
   response: 7E80562146D0000
+- expected_values:
+    VOLKSWAGEN_INJ_7_RAIL_P_CAL_PT_1: 0.05
+  response: 7E80562146D0001
