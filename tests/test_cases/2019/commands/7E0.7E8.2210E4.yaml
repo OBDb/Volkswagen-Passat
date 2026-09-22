@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210E4
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_REG_FACTOR: 0.8179
-  response: 7E8056210E41FF3
+    VOLKSWAGEN_PQ35_REG_FACTOR: 0.8004
+  response: 7E8056210E41F44
 - expected_values:
     VOLKSWAGEN_PQ35_REG_FACTOR: 0.8191
   response: 7E8056210E41FFF
