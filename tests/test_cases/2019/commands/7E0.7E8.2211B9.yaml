@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211B9
+test_cases:
+- expected_values:
+    VOLKSWAGEN_OIL_P_VLV_SWITCH: 8
+  response: 7E8046211B908
+- expected_values:
+    VOLKSWAGEN_OIL_P_VLV_SWITCH: 28
+  response: 7E8046211B91C
+- expected_values:
+    VOLKSWAGEN_OIL_P_VLV_SWITCH: 31
+  response: 7E8046211B91F
+- expected_values:
+    VOLKSWAGEN_OIL_P_VLV_SWITCH: 56
+  response: 7E8046211B938
+- expected_values:
+    VOLKSWAGEN_OIL_P_VLV_SWITCH: 62
+  response: 7E8046211B93E
+- expected_values:
+    VOLKSWAGEN_OIL_P_VLV_SWITCH: 63
+  response: 7E8046211B93F

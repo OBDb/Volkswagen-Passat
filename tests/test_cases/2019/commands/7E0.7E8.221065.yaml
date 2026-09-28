@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221065
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 336.5
+  response: '7E8056210651149'
+- expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 420.02
+  response: '7E8056210651319'
+- expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 437.66
+  response: 7E805621065137B
+- expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 459.62
+  response: 7E80562106513F5
+- expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 2234.24
+  response: 7E8056210653A78

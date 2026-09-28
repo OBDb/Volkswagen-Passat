@@ -1,0 +1,11 @@
+command_id: 712.77C.221806|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_STEER_WHL_TQ_SENS_2: 0.07318
+  response: 77C0762180600030000
+- expected_values:
+    VOLKSWAGEN_STEER_WHL_TQ_SENS_2: 0.8467
+  response: 77C0762180600B30000
+- expected_values:
+    VOLKSWAGEN_STEER_WHL_TQ_SENS_2: -0.36631
+  response: 77C07621806FF9F0000
