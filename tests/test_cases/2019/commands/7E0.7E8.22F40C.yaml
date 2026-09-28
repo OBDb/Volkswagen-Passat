@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    VOLKSWAGEN_RPM: 2162
+  response: 7E80562F40C21C8
+- expected_values:
+    VOLKSWAGEN_RPM: 2847.5
+  response: 7E80562F40C2C7E
