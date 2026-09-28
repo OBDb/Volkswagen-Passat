@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.227050|fc=1,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_SELECTED_GEAR: 101
+  response: '7E90462705067'
+- expected_values:
+    VOLKSWAGEN_SELECTED_GEAR: 110
+  response: '7E90462705070'
+- expected_values:
+    VOLKSWAGEN_SELECTED_GEAR: 121
+  response: 7E9046270507B
+- expected_values:
+    VOLKSWAGEN_SELECTED_GEAR: 131
+  response: '7E90462705085'
+- expected_values:
+    VOLKSWAGEN_SELECTED_GEAR: 144
+  response: '7E90462705092'
+- expected_values:
+    VOLKSWAGEN_SELECTED_GEAR: 153
+  response: 7E9046270509B
