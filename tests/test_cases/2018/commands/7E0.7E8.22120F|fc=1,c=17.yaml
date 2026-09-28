@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22120F|fc=1,c=17
 test_cases:
 - expected_values:
-    VOLKSWAGEN_KNOCK_SNS_C3_V_MS: 0.00849
-  response: 7E80762120F00002B78
+    VOLKSWAGEN_KNOCK_SNS_C3_V_MS: 0.00518
+  response: 7E80762120F00001A8C
 - expected_values:
     VOLKSWAGEN_KNOCK_SNS_C3_V_MS: 0.01564
   response: 7E80762120F0000500E

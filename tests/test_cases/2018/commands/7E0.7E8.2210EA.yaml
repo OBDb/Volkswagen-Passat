@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210EA
+test_cases:
+- expected_values:
+    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: -5.5
+  response: 7E8056210EAFFC9
+- expected_values:
+    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: -4
+  response: 7E8056210EAFFD8

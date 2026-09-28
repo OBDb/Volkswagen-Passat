@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22174B
+test_cases:
+- expected_values:
+    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -0.50538
+  response: 7E80562174BFFE9
+- expected_values:
+    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -0.43946
+  response: 7E80562174BFFEC

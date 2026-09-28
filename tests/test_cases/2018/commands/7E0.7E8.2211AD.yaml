@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211AD
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MAF_CMD: 10.5
+  response: 7E8056211AD0069
+- expected_values:
+    VOLKSWAGEN_MAF_CMD: 11.7
+  response: 7E8056211AD0075
+- expected_values:
+    VOLKSWAGEN_MAF_CMD: 21.3
+  response: 7E8056211AD00D5
+- expected_values:
+    VOLKSWAGEN_MAF_CMD: 37.9
+  response: 7E8056211AD017B
+- expected_values:
+    VOLKSWAGEN_MAF_CMD: 107.9
+  response: 7E8056211AD0437

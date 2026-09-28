@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221340
+test_cases:
+- expected_values:
+    VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -82903
+  response: 7E807621340FFF3599A
+- expected_values:
+    VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -26214.4
+  response: 7E807621340FFFC0000
+- expected_values:
+    VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -16056.3
+  response: 7E807621340FFFD8CCD
+- expected_values:
+    VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -3276.8
+  response: 7E807621340FFFF8000

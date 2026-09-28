@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2215E7
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EFFECTIVE_INJ_DUR: 6.768
+  response: 7E8076215E700001A70
+- expected_values:
+    VOLKSWAGEN_EFFECTIVE_INJ_DUR: 7.393
+  response: 7E8076215E700001CE1
+- expected_values:
+    VOLKSWAGEN_EFFECTIVE_INJ_DUR: 8.888
+  response: 7E8076215E7000022B8
+- expected_values:
+    VOLKSWAGEN_EFFECTIVE_INJ_DUR: 8.934
+  response: 7E8076215E7000022E6
+- expected_values:
+    VOLKSWAGEN_EFFECTIVE_INJ_DUR: 25.994
+  response: 7E8076215E70000658A

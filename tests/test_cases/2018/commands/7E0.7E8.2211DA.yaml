@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211DA
+test_cases:
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P: 301.64062
+  response: 7E8056211DA0F15
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P: 304.21875
+  response: 7E8056211DA0F36
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P: 351.40625
+  response: 7E8056211DA1192
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P: 390.625
+  response: 7E8056211DA1388
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P: 420.39062
+  response: 7E8056211DA1505
