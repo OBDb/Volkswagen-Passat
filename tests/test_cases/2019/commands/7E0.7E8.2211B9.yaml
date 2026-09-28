@@ -13,6 +13,9 @@ test_cases:
     VOLKSWAGEN_OIL_P_VLV_SWITCH: 56
   response: 7E8046211B938
 - expected_values:
+    VOLKSWAGEN_OIL_P_VLV_SWITCH: 60
+  response: 7E8046211B93C
+- expected_values:
     VOLKSWAGEN_OIL_P_VLV_SWITCH: 62
   response: 7E8046211B93E
 - expected_values:

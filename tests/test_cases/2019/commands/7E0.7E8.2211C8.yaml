@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211C8
 test_cases:
 - expected_values:
+    VOLKSWAGEN_LOW_FUEL_P_ACT: 304.8
+  response: 7E8056211C80BE8
+- expected_values:
     VOLKSWAGEN_LOW_FUEL_P_ACT: 614.4
   response: 7E8056211C81800
 - expected_values:

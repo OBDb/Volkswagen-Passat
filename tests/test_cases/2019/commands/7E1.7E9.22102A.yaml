@@ -4,6 +4,12 @@ test_cases:
     VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 25
   response: 7E90562102A1900
 - expected_values:
+    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 43
+  response: 7E90562102A2B00
+- expected_values:
+    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 49
+  response: 7E90562102A3100
+- expected_values:
     VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 51
   response: 7E90562102A3300
 - expected_values:
