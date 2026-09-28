@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211EE
+test_cases:
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 999.45312
+  response: 7E8056211EE31F9
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 1002.89062
+  response: 7E8056211EE3225
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 1003.04688
+  response: 7E8056211EE3227
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 1003.75
+  response: 7E8056211EE3230
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 1004.0625
+  response: 7E8056211EE3234

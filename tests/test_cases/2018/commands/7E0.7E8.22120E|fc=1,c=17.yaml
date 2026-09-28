@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22120E|fc=1,c=17
 test_cases:
 - expected_values:
-    VOLKSWAGEN_KNOCK_SNS_C1_V_MS: 0.00789
-  response: 7E80762120E00002860
-- expected_values:
-    VOLKSWAGEN_KNOCK_SNS_C1_V_MS: 0.00875
-  response: 7E80762120E00002CD0
+    VOLKSWAGEN_KNOCK_SNS_C1_V_MS: 0.00501
+  response: 7E80762120E000019A8
 - expected_values:
     VOLKSWAGEN_KNOCK_SNS_C1_V_MS: 0.01545
   response: 7E80762120E00004F20
+- expected_values:
+    VOLKSWAGEN_KNOCK_SNS_C1_V_MS: 0.01717
+  response: 7E80762120E000057ED
 - expected_values:
     VOLKSWAGEN_KNOCK_SNS_C1_V_MS: 0.02375
   response: 7E80762120E0000799F

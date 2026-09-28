@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22136C
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_ACT: -12.672
+  response: 7E80562136CF9D0
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_ACT: -12.28
+  response: 7E80562136CFA01
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_ACT: -8.216
+  response: 7E80562136CFBFD
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_ACT: -8.16
+  response: 7E80562136CFC04
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_ACT: -7.208
+  response: 7E80562136CFC7B

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22127D
+test_cases:
+- expected_values:
+    VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 35.57736
+  response: 7E80562127D2D8A
+- expected_values:
+    VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 36.91403
+  response: 7E80562127D2F40
+- expected_values:
+    VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 38.13168
+  response: 7E80562127D30CF
+- expected_values:
+    VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 39.92001
+  response: 7E80562127D3319
+- expected_values:
+    VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 41.76632
+  response: 7E80562127D3576

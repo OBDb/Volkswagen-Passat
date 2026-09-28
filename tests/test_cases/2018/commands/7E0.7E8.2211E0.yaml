@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: 17.9
+  response: 7E8056211E000B3
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: 20
+  response: 7E8056211E000C8
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: 20.8
+  response: 7E8056211E000D0
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: 92.4
+  response: 7E8056211E0039C
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: -13.2
+  response: 7E8056211E0FF7C
