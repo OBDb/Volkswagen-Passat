@@ -2,7 +2,9 @@ command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
     VOLKSWAGEN_AAT_CABIN: -7
+    VOLKSWAGEN_OUTSIDE_T_SYSTEM: 43
   response: 7B00462260A56
 - expected_values:
     VOLKSWAGEN_AAT_CABIN: 19
+    VOLKSWAGEN_OUTSIDE_T_SYSTEM: -59
   response: 7B00462260A8A

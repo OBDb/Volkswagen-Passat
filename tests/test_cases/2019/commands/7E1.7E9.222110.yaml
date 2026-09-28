@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222110
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ENG_SPEC_TQ_DURING: 0
+  response: '7E9056221100000'
+- expected_values:
+    VOLKSWAGEN_ENG_SPEC_TQ_DURING: 60671
+  response: 7E905622110ECFF
+- expected_values:
+    VOLKSWAGEN_ENG_SPEC_TQ_DURING: 64512
+  response: 7E905622110FC00
