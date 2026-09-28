@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2211CD
+test_cases:
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -40
+  response: 7E8056211CD0000
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -15
+  response: 7E8056211CD19DC
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -15
+  response: 7E8056211CD19EA
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -14
+  response: 7E8056211CD1A1F
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -14
+  response: 7E8056211CD1AF0
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -13
+  response: 7E8056211CD1B00
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -9
+  response: 7E8056211CD1F75
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: -9
+  response: 7E8056211CD1FA6
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: 3
+  response: 7E8056211CD2BF5
+- expected_values:
+    VOLKSWAGEN_TCO_1_SYS: 14
+  response: 7E8056211CD3666
