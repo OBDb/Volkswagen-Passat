@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221124|fc=1,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CAMSHAFT_VSS: 471.75
+  response: 7E805621124075F
+- expected_values:
+    VOLKSWAGEN_CAMSHAFT_VSS: 578.75
+  response: 7E805621124090B
+- expected_values:
+    VOLKSWAGEN_CAMSHAFT_VSS: 753.5
+  response: 7E8056211240BC6
+- expected_values:
+    VOLKSWAGEN_CAMSHAFT_VSS: 1109.25
+  response: '7E8056211241155'

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2216F3|fc=1,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CRANKSHAFT_VSS: 1164
+  response: 7E8056216F30918
+- expected_values:
+    VOLKSWAGEN_CRANKSHAFT_VSS: 1416
+  response: 7E8056216F30B10
+- expected_values:
+    VOLKSWAGEN_CRANKSHAFT_VSS: 1769
+  response: 7E8056216F30DD2

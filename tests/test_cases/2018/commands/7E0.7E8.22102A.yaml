@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22102A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 752
+  response: 7E80562102A0EB0
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 753.2
+  response: 7E80562102A0EB6
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 1312.4
+  response: 7E80562102A19A2
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 1330.8
+  response: 7E80562102A19FE
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 1368.6
+  response: 7E80562102A1ABB
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 1513.8
+  response: 7E80562102A1D91
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 1533.4
+  response: 7E80562102A1DF3
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 1548
+  response: 7E80562102A1E3C
+- expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_1_V: 1550.4
+  response: 7E80562102A1E48
