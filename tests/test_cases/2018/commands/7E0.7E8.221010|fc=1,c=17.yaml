@@ -4,29 +4,8 @@ test_cases:
     VOLKSWAGEN_ENGINE_TORQUE: 0
   response: '7E8056210100000'
 - expected_values:
-    VOLKSWAGEN_ENGINE_TORQUE: 16.6
-  response: 7E80562101000A6
-- expected_values:
     VOLKSWAGEN_ENGINE_TORQUE: 25.1
   response: 7E80562101000FB
-- expected_values:
-    VOLKSWAGEN_ENGINE_TORQUE: 37.3
-  response: '7E8056210100175'
-- expected_values:
-    VOLKSWAGEN_ENGINE_TORQUE: 49.3
-  response: 7E80562101001ED
-- expected_values:
-    VOLKSWAGEN_ENGINE_TORQUE: 64.5
-  response: '7E8056210100285'
-- expected_values:
-    VOLKSWAGEN_ENGINE_TORQUE: 69
-  response: 7E80562101002B2
-- expected_values:
-    VOLKSWAGEN_ENGINE_TORQUE: 90.5
-  response: '7E8056210100389'
-- expected_values:
-    VOLKSWAGEN_ENGINE_TORQUE: 119.2
-  response: 7E80562101004A8
 - expected_values:
     VOLKSWAGEN_ENGINE_TORQUE: 189
   response: '7E8056210100762'

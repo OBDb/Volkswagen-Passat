@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221373
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_SPEC: 0.624
+  response: 7E805621373004E
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_SPEC: 2.48
+  response: '7E8056213730136'
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_SPEC: 2.616
+  response: '7E8056213730147'
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_SPEC: -10.576
+  response: 7E805621373FAD6
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_SPEC: -5.76
+  response: 7E805621373FD30

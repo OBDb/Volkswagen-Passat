@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221136
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HEIGHT_CORR: 0.98809
+  response: 7E8056211363F3D
+- expected_values:
+    VOLKSWAGEN_HEIGHT_CORR: 0.98882
+  response: 7E8056211363F49
+- expected_values:
+    VOLKSWAGEN_HEIGHT_CORR: 0.98907
+  response: 7E8056211363F4D
+- expected_values:
+    VOLKSWAGEN_HEIGHT_CORR: 0.99035
+  response: 7E8056211363F62

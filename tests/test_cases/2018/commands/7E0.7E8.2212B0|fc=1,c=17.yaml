@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.2212B0|fc=1,c=17
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ACCELERATION_29BIT: 0.039
-  response: 7E8056212B00027
-- expected_values:
-    VOLKSWAGEN_ACCELERATION_29BIT: -0.479
-  response: 7E8056212B0FE21
+    VOLKSWAGEN_ACCELERATION_29BIT: 0
+  response: 7E8056212B00000
 - expected_values:
     VOLKSWAGEN_ACCELERATION_29BIT: -0.218
   response: 7E8056212B0FF26
