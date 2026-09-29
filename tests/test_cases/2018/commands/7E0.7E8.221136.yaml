@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_HEIGHT_CORR: 0.99035
   response: 7E8056211363F62
+- expected_values:
+    VOLKSWAGEN_HEIGHT_CORR: 0.99597
+  response: 7E8056211363FBE

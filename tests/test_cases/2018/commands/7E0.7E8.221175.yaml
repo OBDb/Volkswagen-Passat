@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221175
 test_cases:
 - expected_values:
+    VOLKSWAGEN_INTEGRATED_MASS_AIR: 1482.6852
+  response: 7E805621175104A
+- expected_values:
     VOLKSWAGEN_INTEGRATED_MASS_AIR: 1944.9132
   response: 7E805621175155E
 - expected_values:

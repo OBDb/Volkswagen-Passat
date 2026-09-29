@@ -10,5 +10,8 @@ test_cases:
     VOLKSWAGEN_AIR_LEAKAGE: 3.2
   response: 7E8056211B80020
 - expected_values:
+    VOLKSWAGEN_AIR_LEAKAGE: 3.3
+  response: 7E8056211B80021
+- expected_values:
     VOLKSWAGEN_AIR_LEAKAGE: 3.4
   response: 7E8056211B80022

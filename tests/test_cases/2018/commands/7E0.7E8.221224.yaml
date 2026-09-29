@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -7
   response: 7E805621224FFBA
+- expected_values:
+    VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -6.8
+  response: 7E805621224FFBC

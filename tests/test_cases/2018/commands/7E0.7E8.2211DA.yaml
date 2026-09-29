@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_INT_MANIFOLD_P: 351.40625
   response: 7E8056211DA1192
 - expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P: 384.76562
+  response: 7E8056211DA133D
+- expected_values:
     VOLKSWAGEN_INT_MANIFOLD_P: 390.625
   response: 7E8056211DA1388
 - expected_values:

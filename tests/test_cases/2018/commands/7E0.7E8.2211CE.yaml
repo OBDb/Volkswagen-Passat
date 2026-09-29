@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211CE
 test_cases:
 - expected_values:
+    VOLKSWAGEN_LOW_FUEL_P_CMD: 450
+  response: 7E8056211CE1194
+- expected_values:
     VOLKSWAGEN_LOW_FUEL_P_CMD: 500
   response: 7E8056211CE1388
 - expected_values:
