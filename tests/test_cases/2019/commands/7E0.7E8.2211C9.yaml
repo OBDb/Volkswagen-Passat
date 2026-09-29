@@ -7,6 +7,12 @@ test_cases:
     VOLKSWAGEN_FUEL_PMP_ADPT: -3.1
   response: 7E8056211C9FFE1
 - expected_values:
+    VOLKSWAGEN_FUEL_PMP_ADPT: -3
+  response: 7E8056211C9FFE2
+- expected_values:
+    VOLKSWAGEN_FUEL_PMP_ADPT: -2.9
+  response: 7E8056211C9FFE3
+- expected_values:
     VOLKSWAGEN_FUEL_PMP_ADPT: -2.7
   response: 7E8056211C9FFE5
 - expected_values:

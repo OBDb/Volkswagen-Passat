@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 25
   response: 7E90562102A1900
 - expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 43
-  response: 7E90562102A2B00
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 49
-  response: 7E90562102A3100
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 51
-  response: 7E90562102A3300
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 67
-  response: 7E90562102A4300
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 75
-  response: 7E90562102A4B00
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 81
-  response: 7E90562102A5100
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 83
-  response: 7E90562102A5300
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 85
-  response: 7E90562102A5500
-- expected_values:
-    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 89
-  response: 7E90562102A5900
+    VOLKSWAGEN_CLU_CENTER_CENTRAL_T: 98
+  response: 7E90562102A6200

@@ -1,14 +1,11 @@
 command_id: 710.77A.222A1C|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_GEN_CURRENT: 36.5
-  response: 77A05622A1C0113
+    VOLKSWAGEN_GEN_CURRENT: 9
+  response: 77A05622A1C0000
 - expected_values:
-    VOLKSWAGEN_GEN_CURRENT: 57.1
-  response: 77A05622A1C01E1
-- expected_values:
-    VOLKSWAGEN_GEN_CURRENT: 60.2
-  response: 77A05622A1C0200
+    VOLKSWAGEN_GEN_CURRENT: 58.6
+  response: 77A05622A1C01F0
 - expected_values:
     VOLKSWAGEN_GEN_CURRENT: 88.3
   response: 77A05622A1C0319

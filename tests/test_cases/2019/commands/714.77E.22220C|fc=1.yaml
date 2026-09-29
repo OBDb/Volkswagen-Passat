@@ -4,20 +4,5 @@ test_cases:
     VOLKSWAGEN_OUTSIDE_T: 13.5
   response: 77E0462220C7F
 - expected_values:
-    VOLKSWAGEN_OUTSIDE_T: 14
-  response: 77E0462220C80
-- expected_values:
-    VOLKSWAGEN_OUTSIDE_T: 15
-  response: 77E0462220C82
-- expected_values:
-    VOLKSWAGEN_OUTSIDE_T: 15.5
-  response: 77E0462220C83
-- expected_values:
-    VOLKSWAGEN_OUTSIDE_T: 16
-  response: 77E0462220C84
-- expected_values:
-    VOLKSWAGEN_OUTSIDE_T: 16.5
-  response: 77E0462220C85
-- expected_values:
-    VOLKSWAGEN_OUTSIDE_T: 20.5
-  response: 77E0462220C8D
+    VOLKSWAGEN_OUTSIDE_T: 32
+  response: 77E0462220CA4
