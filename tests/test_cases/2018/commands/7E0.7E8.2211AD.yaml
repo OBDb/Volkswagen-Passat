@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_MAF_CMD: 11.7
   response: 7E8056211AD0075
 - expected_values:
+    VOLKSWAGEN_MAF_CMD: 16.2
+  response: 7E8056211AD00A2
+- expected_values:
     VOLKSWAGEN_MAF_CMD: 21.3
   response: 7E8056211AD00D5
 - expected_values:

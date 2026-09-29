@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_REL_LOAD: 22.80742
   response: 7E80562121603CD
 - expected_values:
+    VOLKSWAGEN_REL_LOAD: 30.75368
+  response: '7E8056212160520'
+- expected_values:
     VOLKSWAGEN_REL_LOAD: 38.98123
   response: 7E805621216067F
 - expected_values:

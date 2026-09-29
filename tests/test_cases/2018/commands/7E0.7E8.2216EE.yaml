@@ -11,4 +11,7 @@ test_cases:
   response: 7E8056216EE2EC3
 - expected_values:
     VOLKSWAGEN_BOOST_P_ACTUATOR_CMD: 100
+  response: 7E8056216EE2F1D
+- expected_values:
+    VOLKSWAGEN_BOOST_P_ACTUATOR_CMD: 100
   response: 7E8056216EE2F43

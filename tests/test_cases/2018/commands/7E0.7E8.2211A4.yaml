@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211A4
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 50.54001
+  response: 7E8056211A48162
+- expected_values:
     VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 54.019
   response: 7E8056211A48A4A
 - expected_values:

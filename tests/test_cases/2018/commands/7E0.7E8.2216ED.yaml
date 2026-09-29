@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_CHG_P_REGULATOR_HI: 517.8
   response: 7E8056216ED0A1D
 - expected_values:
+    VOLKSWAGEN_CHG_P_REGULATOR_HI: 525.2
+  response: 7E8056216ED0A42
+- expected_values:
     VOLKSWAGEN_CHG_P_REGULATOR_HI: 553.8
   response: 7E8056216ED0AD1
 - expected_values:

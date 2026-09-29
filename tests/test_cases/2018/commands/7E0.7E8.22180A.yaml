@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22180A
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FUEL_RATE_DIFF_INJ: 0.375
+  response: 7E80562180A0060
+- expected_values:
     VOLKSWAGEN_FUEL_RATE_DIFF_INJ: 0.72265
   response: 7E80562180A00B9
 - expected_values:

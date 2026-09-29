@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 136.88
+  response: 7E8056210650CF4
+- expected_values:
     VOLKSWAGEN_CYL_HEAD_T: 160.64
   response: 7E8056210650D78
 - expected_values:

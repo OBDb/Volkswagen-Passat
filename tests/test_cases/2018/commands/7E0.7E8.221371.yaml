@@ -13,5 +13,8 @@ test_cases:
     VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_SPEC: -12.488
   response: 7E805621371F9E7
 - expected_values:
+    VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_SPEC: -11.632
+  response: 7E805621371FA52
+- expected_values:
     VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_SPEC: -7.68
   response: 7E805621371FC40
