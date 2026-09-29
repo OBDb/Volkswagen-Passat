@@ -2,6 +2,10 @@ command_id: 7E0.7E8.2215C0
 test_cases:
 - expected_values:
     VOLKSWAGEN_IAT_INT_MANIFOLD_RAW: -39.75
+    VOLKSWAGEN_IAT_RAW: 17.4
+  response: 7E8056215C00B59
+- expected_values:
+    VOLKSWAGEN_IAT_INT_MANIFOLD_RAW: -39.75
     VOLKSWAGEN_IAT_RAW: 22.1
   response: 7E8056215C00B88
 - expected_values:

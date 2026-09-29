@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_OIL_LEVEL_AVG: 5.096
   response: 7E8056215B904FA
+- expected_values:
+    VOLKSWAGEN_OIL_LEVEL_AVG: 5.424
+  response: 7E8056215B9054C

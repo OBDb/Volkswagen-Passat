@@ -4,5 +4,8 @@ test_cases:
     VOLKSWAGEN_EXH_CAM_ADPT_BIAS: 0.61524
   response: 7E80562174A001C
 - expected_values:
+    VOLKSWAGEN_EXH_CAM_ADPT_BIAS: 0.72511
+  response: 7E80562174A0021
+- expected_values:
     VOLKSWAGEN_EXH_CAM_ADPT_BIAS: 0.92287
   response: 7E80562174A002A

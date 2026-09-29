@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_THROTTLE_REGULATOR: 2.36719
   response: 7E8056216C5012F
 - expected_values:
+    VOLKSWAGEN_THROTTLE_REGULATOR: 2.42969
+  response: 7E8056216C50137
+- expected_values:
     VOLKSWAGEN_THROTTLE_REGULATOR: 2.80469
   response: 7E8056216C50167
 - expected_values:
