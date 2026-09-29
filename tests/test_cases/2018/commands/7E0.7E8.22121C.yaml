@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22121C
 test_cases:
 - expected_values:
+    VOLKSWAGEN_AIR_FILLING: 16.28941
+  response: 7E80562121C02B7
+- expected_values:
     VOLKSWAGEN_AIR_FILLING: 16.78161
   response: 7E80562121C02CC
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_AIR_FILLING: 21.00045
   response: 7E80562121C0380
+- expected_values:
+    VOLKSWAGEN_AIR_FILLING: 21.91453
+  response: 7E80562121C03A7
 - expected_values:
     VOLKSWAGEN_AIR_FILLING: 23.85988
   response: 7E80562121C03FA

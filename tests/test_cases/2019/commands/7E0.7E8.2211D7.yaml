@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_HIGH_FUEL_P_CMD: 2.2745
   response: 7E8056211D711C5
 - expected_values:
+    VOLKSWAGEN_HIGH_FUEL_P_CMD: 3.4575
+  response: 7E8056211D71B03
+- expected_values:
     VOLKSWAGEN_HIGH_FUEL_P_CMD: 9.9825
   response: 7E8056211D74DFD
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_CMD: 9.992
-  response: 7E8056211D74E10
 - expected_values:
     VOLKSWAGEN_HIGH_FUEL_P_CMD: 10.8135
   response: 7E8056211D7547B
