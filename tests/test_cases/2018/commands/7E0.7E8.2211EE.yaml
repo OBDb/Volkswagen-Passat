@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 1009.84375
   response: 7E8056211EE327E
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 1010.9375
+  response: 7E8056211EE328C
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE_ACT: 1022.26562
+  response: 7E8056211EE331D

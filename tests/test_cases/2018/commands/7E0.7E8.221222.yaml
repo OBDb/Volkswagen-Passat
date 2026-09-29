@@ -1,11 +1,17 @@
 command_id: 7E0.7E8.221222
 test_cases:
 - expected_values:
+    VOLKSWAGEN_TQ_LOSS_ADPT_AC_COMP: -7.4
+  response: 7E805621222FFB6
+- expected_values:
     VOLKSWAGEN_TQ_LOSS_ADPT_AC_COMP: -6.8
   response: 7E805621222FFBC
 - expected_values:
     VOLKSWAGEN_TQ_LOSS_ADPT_AC_COMP: -6.7
   response: 7E805621222FFBD
+- expected_values:
+    VOLKSWAGEN_TQ_LOSS_ADPT_AC_COMP: -6
+  response: 7E805621222FFC4
 - expected_values:
     VOLKSWAGEN_TQ_LOSS_ADPT_AC_COMP: -5.9
   response: 7E805621222FFC5

@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PISTON_COOLING: 3
   response: 7E8056216F403BB
+- expected_values:
+    VOLKSWAGEN_PISTON_COOLING: 3
+  response: 7E8056216F403CC
