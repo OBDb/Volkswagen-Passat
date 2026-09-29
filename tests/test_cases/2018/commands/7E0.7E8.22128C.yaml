@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_AVG_INJ_TIME: 0.6952
   response: 7E80762128C000006CA
 - expected_values:
+    VOLKSWAGEN_AVG_INJ_TIME: 0.7916
+  response: 7E80762128C000007BB
+- expected_values:
     VOLKSWAGEN_AVG_INJ_TIME: 0.9436
   response: 7E80762128C00000937
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_AVG_INJ_TIME: 1.3132
   response: 7E80762128C00000CD3
+- expected_values:
+    VOLKSWAGEN_AVG_INJ_TIME: 1.596
+  response: 7E80762128C00000F96

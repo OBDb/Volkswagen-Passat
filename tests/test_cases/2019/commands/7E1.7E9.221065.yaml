@@ -1,17 +1,17 @@
 command_id: 7E1.7E9.221065
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 1259.72
+  response: 7E9076210650AF67018
+- expected_values:
     VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 57.98
   response: 7E907621065530B6E18
 - expected_values:
-    VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 565.74
-  response: 7E9076210657F6E7018
+    VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 94.1
+  response: '7E90762106561127118'
 - expected_values:
     VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 582.02
   response: 7E907621065AD716D18
-- expected_values:
-    VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 1192.16
-  response: 7E907621065D8E86D18
 - expected_values:
     VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 834.26
   response: 7E907621065F1A26D18

@@ -10,6 +10,12 @@ test_cases:
     VOLKSWAGEN_ECT_RADIATOR_OUTLET_V_1: 19.7
   response: 7E8056215CD0B70
 - expected_values:
+    VOLKSWAGEN_ECT_RADIATOR_OUTLET_V_1: 20.3
+  response: 7E8056215CD0B76
+- expected_values:
+    VOLKSWAGEN_ECT_RADIATOR_OUTLET_V_1: 20.8
+  response: 7E8056215CD0B7B
+- expected_values:
     VOLKSWAGEN_ECT_RADIATOR_OUTLET_V_1: 21.2
   response: 7E8056215CD0B7F
 - expected_values:

@@ -7,8 +7,14 @@ test_cases:
     VOLKSWAGEN_VLV_TIM_DIFF_ACT_SET: 0.79688
   response: 7E8056210EC0033
 - expected_values:
+    VOLKSWAGEN_VLV_TIM_DIFF_ACT_SET: -2.15625
+  response: 7E8056210ECFF76
+- expected_values:
     VOLKSWAGEN_VLV_TIM_DIFF_ACT_SET: -0.71875
   response: 7E8056210ECFFD2
+- expected_values:
+    VOLKSWAGEN_VLV_TIM_DIFF_ACT_SET: -0.59375
+  response: 7E8056210ECFFDA
 - expected_values:
     VOLKSWAGEN_VLV_TIM_DIFF_ACT_SET: -0.35938
   response: 7E8056210ECFFE9
