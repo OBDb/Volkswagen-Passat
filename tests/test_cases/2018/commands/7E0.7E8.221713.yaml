@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TOT_MASS_GASOLINE: 0.02133
   response: '7E8056217130001'
+- expected_values:
+    VOLKSWAGEN_TOT_MASS_GASOLINE: 0.064
+  response: '7E8056217130003'

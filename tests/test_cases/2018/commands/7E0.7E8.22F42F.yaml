@@ -16,5 +16,11 @@ test_cases:
     VOLKSWAGEN_FLI_INPUT: 21.17647
   response: 7E80462F42F36
 - expected_values:
+    VOLKSWAGEN_FLI_INPUT: 92.54902
+  response: 7E80462F42FEC
+- expected_values:
+    VOLKSWAGEN_FLI_INPUT: 94.11765
+  response: 7E80462F42FF0
+- expected_values:
     VOLKSWAGEN_FLI_INPUT: 95.68627
   response: 7E80462F42FF4

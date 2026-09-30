@@ -23,6 +23,9 @@ test_cases:
   response: 7E8056213F48587
 - expected_values:
     VOLKSWAGEN_IGA_CYL_KNK_2: 1.875
+  response: 7E8056213F48595
+- expected_values:
+    VOLKSWAGEN_IGA_CYL_KNK_2: 1.875
   response: 7E8056213F485D0
 - expected_values:
     VOLKSWAGEN_IGA_CYL_KNK_2: 1.875

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F407
 test_cases:
 - expected_values:
+    VOLKSWAGEN_LONG_TERM_FUEL_TRIM_1: -4.6875
+  response: 7E80462F4077A
+- expected_values:
     VOLKSWAGEN_LONG_TERM_FUEL_TRIM_1: -2.34375
   response: 7E80462F4077D
 - expected_values:
