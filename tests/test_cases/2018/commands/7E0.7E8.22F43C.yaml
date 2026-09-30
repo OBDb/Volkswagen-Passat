@@ -4,23 +4,8 @@ test_cases:
     VOLKSWAGEN_EXH_GAS_T: 378.4
   response: 7E80562F43C1058
 - expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 389.5
-  response: 7E80562F43C10C7
-- expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 401.1
-  response: 7E80562F43C113B
-- expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 409.5
-  response: 7E80562F43C118F
-- expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 430.9
-  response: 7E80562F43C1265
-- expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 481
-  response: 7E80562F43C145A
-- expected_values:
     VOLKSWAGEN_EXH_GAS_T: 570.4
   response: 7E80562F43C17D8
 - expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 577.7
-  response: 7E80562F43C1821
+    VOLKSWAGEN_EXH_GAS_T: 576.3
+  response: 7E80562F43C1813

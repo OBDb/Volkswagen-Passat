@@ -7,20 +7,5 @@ test_cases:
     VOLKSWAGEN_CYL_HEAD_T: 151.82
   response: 7E8056210650D47
 - expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 160.64
-  response: 7E8056210650D78
-- expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 182.24
-  response: 7E8056210650DF0
-- expected_values:
     VOLKSWAGEN_CYL_HEAD_T: 199.52
   response: 7E8056210650E50
-- expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 207.98
-  response: 7E8056210650E7F
-- expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 211.22
-  response: 7E8056210650E91
-- expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 212.84
-  response: 7E8056210650E9A

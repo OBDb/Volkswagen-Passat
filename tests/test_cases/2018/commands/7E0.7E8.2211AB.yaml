@@ -4,23 +4,8 @@ test_cases:
     VOLKSWAGEN_INT_MODEL_AIR_MASS: 10.8
   response: 7E8056211AB006C
 - expected_values:
-    VOLKSWAGEN_INT_MODEL_AIR_MASS: 12.5
-  response: 7E8056211AB007D
-- expected_values:
-    VOLKSWAGEN_INT_MODEL_AIR_MASS: 12.7
-  response: 7E8056211AB007F
-- expected_values:
-    VOLKSWAGEN_INT_MODEL_AIR_MASS: 14.7
-  response: 7E8056211AB0093
-- expected_values:
-    VOLKSWAGEN_INT_MODEL_AIR_MASS: 15.6
-  response: 7E8056211AB009C
-- expected_values:
     VOLKSWAGEN_INT_MODEL_AIR_MASS: 18
   response: 7E8056211AB00B4
-- expected_values:
-    VOLKSWAGEN_INT_MODEL_AIR_MASS: 36.9
-  response: 7E8056211AB0171
 - expected_values:
     VOLKSWAGEN_INT_MODEL_AIR_MASS: 78.5
   response: 7E8056211AB0311

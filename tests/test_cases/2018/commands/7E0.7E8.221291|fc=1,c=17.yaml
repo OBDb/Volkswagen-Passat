@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_COOLANT_T_AT_ENGINE_START: 32
   response: 7E8056212910BEB
+- expected_values:
+    VOLKSWAGEN_COOLANT_T_AT_ENGINE_START: 37.7
+  response: 7E8056212910C24

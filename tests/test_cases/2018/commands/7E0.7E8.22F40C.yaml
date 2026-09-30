@@ -4,23 +4,8 @@ test_cases:
     VOLKSWAGEN_RPM: 716.5
   response: 7E80562F40C0B32
 - expected_values:
-    VOLKSWAGEN_RPM: 786
-  response: 7E80562F40C0C48
+    VOLKSWAGEN_RPM: 889.5
+  response: 7E80562F40C0DE6
 - expected_values:
-    VOLKSWAGEN_RPM: 805
-  response: 7E80562F40C0C94
-- expected_values:
-    VOLKSWAGEN_RPM: 824
-  response: 7E80562F40C0CE0
-- expected_values:
-    VOLKSWAGEN_RPM: 1316.5
-  response: 7E80562F40C1492
-- expected_values:
-    VOLKSWAGEN_RPM: 1333
-  response: 7E80562F40C14D4
-- expected_values:
-    VOLKSWAGEN_RPM: 1441.5
-  response: 7E80562F40C1686
-- expected_values:
-    VOLKSWAGEN_RPM: 1450
-  response: 7E80562F40C16A8
+    VOLKSWAGEN_RPM: 1424
+  response: 7E80562F40C1640

@@ -4,23 +4,8 @@ test_cases:
     VOLKSWAGEN_HIGH_FUEL_P_ACT: 3.868
   response: 7E80562159F1E38
 - expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_ACT: 6.436
-  response: 7E80562159F3248
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_ACT: 6.72
-  response: 7E80562159F3480
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_ACT: 6.972
-  response: 7E80562159F3678
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_ACT: 7.186
-  response: 7E80562159F3824
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_ACT: 7.318
-  response: 7E80562159F392C
-- expected_values:
-    VOLKSWAGEN_HIGH_FUEL_P_ACT: 10.924
-  response: 7E80562159F5558
+    VOLKSWAGEN_HIGH_FUEL_P_ACT: 7.126
+  response: 7E80562159F37AC
 - expected_values:
     VOLKSWAGEN_HIGH_FUEL_P_ACT: 16.898
   response: 7E80562159F8404

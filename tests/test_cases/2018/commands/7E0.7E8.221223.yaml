@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TQ_LOSS_ADPT_AC_COMP_7E0: -4.7
   response: 7E805621223FFD1
+- expected_values:
+    VOLKSWAGEN_TQ_LOSS_ADPT_AC_COMP_7E0: -3.3
+  response: 7E805621223FFDF

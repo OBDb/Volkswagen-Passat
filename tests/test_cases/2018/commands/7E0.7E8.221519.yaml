@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.221519
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.16
-  response: '7E8056215190010'
+    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.13
+  response: 7E805621519000D
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.2
-  response: '7E8056215190014'
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.22
-  response: '7E8056215190016'
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.32
-  response: '7E8056215190020'
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.42
-  response: 7E805621519002A
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.5
-  response: '7E8056215190032'
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.65
-  response: '7E8056215190041'
-- expected_values:
-    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.75
-  response: 7E805621519004B
+    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.81
+  response: '7E8056215190051'

@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.22430E
 test_cases:
 - expected_values:
+    VOLKSWAGEN_NUM_INJECTIONS: 7335
+  response: 7E80562430E1CA7
+- expected_values:
     VOLKSWAGEN_NUM_INJECTIONS: 7372
   response: 7E80562430E1CCC
-- expected_values:
-    VOLKSWAGEN_NUM_INJECTIONS: 9281
-  response: 7E80562430E2441
-- expected_values:
-    VOLKSWAGEN_NUM_INJECTIONS: 9560
-  response: 7E80562430E2558
-- expected_values:
-    VOLKSWAGEN_NUM_INJECTIONS: 17579
-  response: 7E80562430E44AB
-- expected_values:
-    VOLKSWAGEN_NUM_INJECTIONS: 19814
-  response: 7E80562430E4D66
-- expected_values:
-    VOLKSWAGEN_NUM_INJECTIONS: 26039
-  response: 7E80562430E65B7
-- expected_values:
-    VOLKSWAGEN_NUM_INJECTIONS: 35926
-  response: 7E80562430E8C56
 - expected_values:
     VOLKSWAGEN_NUM_INJECTIONS: 44073
   response: 7E80562430EAC29

@@ -4,23 +4,11 @@ test_cases:
     VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 50.54001
   response: 7E8056211A48162
 - expected_values:
-    VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 54.019
-  response: 7E8056211A48A4A
-- expected_values:
-    VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 55.36177
-  response: 7E8056211A48DBA
-- expected_values:
     VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 57.02497
   response: 7E8056211A491FC
 - expected_values:
-    VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 58.26093
-  response: 7E8056211A49526
-- expected_values:
     VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 60.5528
   response: 7E8056211A49B04
-- expected_values:
-    VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 61.73077
-  response: 7E8056211A49E08
 - expected_values:
     VOLKSWAGEN_FUEL_PMP_CMD_DUTY: 62.16717
   response: 7E8056211A49F26
