@@ -4,23 +4,5 @@ test_cases:
     VOLKSWAGEN_REQ_TQ_AMOUNT: 5.1
   response: 7E8056210BE0033
 - expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 5.2
-  response: 7E8056210BE0034
-- expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 5.3
-  response: 7E8056210BE0035
-- expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 7.4
-  response: 7E8056210BE004A
-- expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 7.6
-  response: 7E8056210BE004C
-- expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 11.9
-  response: 7E8056210BE0077
-- expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 12.2
-  response: 7E8056210BE007A
-- expected_values:
     VOLKSWAGEN_REQ_TQ_AMOUNT: 12.7
   response: 7E8056210BE007F

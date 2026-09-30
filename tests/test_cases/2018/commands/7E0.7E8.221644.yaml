@@ -4,6 +4,12 @@ test_cases:
     VOLKSWAGEN_LATERAL_ACCEL: 0
   response: '7E8056216440000'
 - expected_values:
+    VOLKSWAGEN_LATERAL_ACCEL: 0.01
+  response: '7E8056216440001'
+- expected_values:
+    VOLKSWAGEN_LATERAL_ACCEL: 0.02
+  response: '7E8056216440002'
+- expected_values:
     VOLKSWAGEN_LATERAL_ACCEL: 0.03
   response: '7E8056216440003'
 - expected_values:

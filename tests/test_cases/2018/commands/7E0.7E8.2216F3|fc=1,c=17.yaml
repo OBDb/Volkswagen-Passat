@@ -4,11 +4,11 @@ test_cases:
     VOLKSWAGEN_CRANKSHAFT_VSS: 798
   response: 7E8056216F3063C
 - expected_values:
-    VOLKSWAGEN_CRANKSHAFT_VSS: 1416
-  response: 7E8056216F30B10
-- expected_values:
     VOLKSWAGEN_CRANKSHAFT_VSS: 1526.5
   response: 7E8056216F30BED
+- expected_values:
+    VOLKSWAGEN_CRANKSHAFT_VSS: 1538.5
+  response: 7E8056216F30C05
 - expected_values:
     VOLKSWAGEN_CRANKSHAFT_VSS: 2154
   response: 7E8056216F310D4

@@ -4,23 +4,5 @@ test_cases:
     VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.0265
   response: 7E8056211D2FFCB
 - expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.022
-  response: 7E8056211D2FFD4
-- expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.01
-  response: 7E8056211D2FFEC
-- expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.0075
-  response: 7E8056211D2FFF1
-- expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.007
-  response: 7E8056211D2FFF2
-- expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.0065
-  response: 7E8056211D2FFF3
-- expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.004
-  response: 7E8056211D2FFF8
-- expected_values:
     VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.0025
   response: 7E8056211D2FFFB

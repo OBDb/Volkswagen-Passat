@@ -4,23 +4,11 @@ test_cases:
     VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 1.376
   response: 7E80562136E00AC
 - expected_values:
-    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 1.6
-  response: 7E80562136E00C8
-- expected_values:
     VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 2
   response: 7E80562136E00FA
 - expected_values:
     VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 2.168
   response: 7E80562136E010F
 - expected_values:
-    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 2.432
-  response: 7E80562136E0130
-- expected_values:
-    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 2.912
-  response: 7E80562136E016C
-- expected_values:
-    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: -15.792
-  response: 7E80562136EF84A
-- expected_values:
-    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: -9.08
-  response: 7E80562136EFB91
+    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: -0.6
+  response: 7E80562136EFFB5

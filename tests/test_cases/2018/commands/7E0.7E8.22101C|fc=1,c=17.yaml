@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_GENERATOR_LOAD_SIG: 38.65
   response: 7E80562101C0F19
+- expected_values:
+    VOLKSWAGEN_GENERATOR_LOAD_SIG: 41.87
+  response: 7E80562101C105B
