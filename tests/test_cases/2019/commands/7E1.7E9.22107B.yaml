@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.22107B
 test_cases:
 - expected_values:
+    VOLKSWAGEN_ANALYSIS_CLU_2_T_1: 1275.14
+  response: 7E90762107B0DF9A20C
+- expected_values:
+    VOLKSWAGEN_ANALYSIS_CLU_2_T_1: 302.48
+  response: 7E90762107B143BA30C
+- expected_values:
     VOLKSWAGEN_ANALYSIS_CLU_2_T_1: 1229.2
   response: 7E90762107B14F0A10C
-- expected_values:
-    VOLKSWAGEN_ANALYSIS_CLU_2_T_1: 190.66
-  response: 7E90762107B3D25A20C
-- expected_values:
-    VOLKSWAGEN_ANALYSIS_CLU_2_T_1: 1268.32
-  response: 7E90762107BB8F7A10C
 - expected_values:
     VOLKSWAGEN_ANALYSIS_CLU_2_T_1: 4.52
   response: 7E90762107BE200A20C

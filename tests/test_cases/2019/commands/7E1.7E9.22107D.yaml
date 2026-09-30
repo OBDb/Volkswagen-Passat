@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.22107D
 test_cases:
 - expected_values:
+    VOLKSWAGEN_ANALYSIS_CLU_2_T_3: 893.06
+  response: 7E90762107D6DAE0100
+- expected_values:
     VOLKSWAGEN_ANALYSIS_CLU_2_T_3: 890.24
   response: 7E90762107DE0AD0100
