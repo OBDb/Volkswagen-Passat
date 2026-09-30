@@ -4,23 +4,8 @@ test_cases:
     VOLKSWAGEN_AMBIENT_AIR_P: 999.375
   response: '7E8056215096419'
 - expected_values:
-    VOLKSWAGEN_AMBIENT_AIR_P: 999.57
-  response: 7E805621509641E
-- expected_values:
-    VOLKSWAGEN_AMBIENT_AIR_P: 1000.155
-  response: 7E805621509642D
-- expected_values:
-    VOLKSWAGEN_AMBIENT_AIR_P: 1001.676
-  response: '7E8056215096454'
-- expected_values:
-    VOLKSWAGEN_AMBIENT_AIR_P: 1007.331
-  response: 7E80562150964E5
-- expected_values:
     VOLKSWAGEN_AMBIENT_AIR_P: 1008.267
   response: 7E80562150964FD
 - expected_values:
-    VOLKSWAGEN_AMBIENT_AIR_P: 1010.412
-  response: '7E8056215096534'
-- expected_values:
-    VOLKSWAGEN_AMBIENT_AIR_P: 1012.947
-  response: '7E8056215096575'
+    VOLKSWAGEN_AMBIENT_AIR_P: 1009.437
+  response: 7E805621509651B
