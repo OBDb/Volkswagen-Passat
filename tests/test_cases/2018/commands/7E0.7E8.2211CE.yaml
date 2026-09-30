@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_LOW_FUEL_P_CMD: 500
   response: 7E8056211CE1388
 - expected_values:
+    VOLKSWAGEN_LOW_FUEL_P_CMD: 550
+  response: 7E8056211CE157C
+- expected_values:
     VOLKSWAGEN_LOW_FUEL_P_CMD: 567.1
   response: 7E8056211CE1627
 - expected_values:
@@ -18,6 +21,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_LOW_FUEL_P_CMD: 614
   response: 7E8056211CE17FC
+- expected_values:
+    VOLKSWAGEN_LOW_FUEL_P_CMD: 638
+  response: 7E8056211CE18EC
 - expected_values:
     VOLKSWAGEN_LOW_FUEL_P_CMD: 640
   response: 7E8056211CE1900

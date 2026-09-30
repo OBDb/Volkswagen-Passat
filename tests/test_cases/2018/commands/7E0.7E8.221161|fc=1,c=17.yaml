@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ENGINE_RPM_AT_IDLE_REQUIRED: 820
   response: '7E8056211610668'
+- expected_values:
+    VOLKSWAGEN_ENGINE_RPM_AT_IDLE_REQUIRED: 880
+  response: 7E80562116106E0

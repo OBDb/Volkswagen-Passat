@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_AMBIENT_AIR_P: 1008.267
   response: 7E80562150964FD
+- expected_values:
+    VOLKSWAGEN_AMBIENT_AIR_P: 1010.412
+  response: '7E8056215096534'
+- expected_values:
+    VOLKSWAGEN_AMBIENT_AIR_P: 1012.947
+  response: '7E8056215096575'

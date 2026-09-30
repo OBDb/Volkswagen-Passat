@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TANK_FILL_LEVEL: 537.6
   response: 7E8056251D81500
+- expected_values:
+    VOLKSWAGEN_TANK_FILL_LEVEL: 1715.2
+  response: 7E8056251D84300
