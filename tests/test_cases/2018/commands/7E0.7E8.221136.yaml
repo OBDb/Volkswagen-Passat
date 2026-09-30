@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221136
 test_cases:
 - expected_values:
-    VOLKSWAGEN_HEIGHT_CORR: 0.98809
+    PASSAT_HEIGHT_CORR: 0.98809
   response: 7E8056211363F3D
 - expected_values:
-    VOLKSWAGEN_HEIGHT_CORR: 0.9989
+    PASSAT_HEIGHT_CORR: 0.9989
   response: 7E8056211363FEE
 - expected_values:
-    VOLKSWAGEN_HEIGHT_CORR: 1.00146
-  response: '7E8056211364018'
+    PASSAT_HEIGHT_CORR: 1.0003
+  response: '7E8056211364005'

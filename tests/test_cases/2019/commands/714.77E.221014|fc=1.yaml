@@ -1,18 +1,14 @@
 command_id: 714.77E.221014|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT: 18
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 18
+    PASSAT_DASH_AMBIENT_AIR_T: 18
   response: '77E 04 62 10 14 88 '
 - expected_values:
-    VOLKSWAGEN_AAT: 30
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 30
+    PASSAT_DASH_AMBIENT_AIR_T: 30
   response: '77E 04 62 10 14 A0 '
 - expected_values:
-    VOLKSWAGEN_AAT: -1
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: -1
+    PASSAT_DASH_AMBIENT_AIR_T: -1
   response: '77E0462101462'
 - expected_values:
-    VOLKSWAGEN_AAT: 42
-    VOLKSWAGEN_DASH_AMBIENT_AIR_T: 42
+    PASSAT_DASH_AMBIENT_AIR_T: 42
   response: 77E04621014B8

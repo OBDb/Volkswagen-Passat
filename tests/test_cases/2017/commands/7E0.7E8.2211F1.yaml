@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211F1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 0
+    PASSAT_PQ35_TRANS_IN_SPD: 0
   response: 7E8056211F10000
 - expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 2046
+    PASSAT_PQ35_TRANS_IN_SPD: 2046
   response: 7E8056211F10FFC
 - expected_values:
-    VOLKSWAGEN_PQ35_TRANS_IN_SPD: 2201
+    PASSAT_PQ35_TRANS_IN_SPD: 2201
   response: 7E8056211F11132

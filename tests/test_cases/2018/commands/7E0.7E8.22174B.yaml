@@ -1,14 +1,20 @@
 command_id: 7E0.7E8.22174B
 test_cases:
 - expected_values:
-    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -0.54932
+    PASSAT_INT_CAM_ADPT_BIAS: -0.54932
   response: 7E80562174BFFE7
 - expected_values:
-    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -0.50538
+    PASSAT_INT_CAM_ADPT_BIAS: -0.50538
   response: 7E80562174BFFE9
 - expected_values:
-    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -0.43946
+    PASSAT_INT_CAM_ADPT_BIAS: -0.43946
   response: 7E80562174BFFEC
 - expected_values:
-    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -0.37354
+    PASSAT_INT_CAM_ADPT_BIAS: -0.41749
+  response: 7E80562174BFFED
+- expected_values:
+    PASSAT_INT_CAM_ADPT_BIAS: -0.37354
   response: 7E80562174BFFEF
+- expected_values:
+    PASSAT_INT_CAM_ADPT_BIAS: -0.32959
+  response: 7E80562174BFFF1

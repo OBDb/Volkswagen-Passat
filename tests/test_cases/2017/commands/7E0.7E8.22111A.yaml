@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22111A
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_FLOW: 0
+    PASSAT_PQ35_FUEL_FLOW: 0
   response: 7E80562111A0000
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_FLOW: 10.23
+    PASSAT_PQ35_FUEL_FLOW: 10.23
   response: 7E80562111A03FF
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_FLOW: 22.36
+    PASSAT_PQ35_FUEL_FLOW: 22.36
   response: 7E80562111A08BC

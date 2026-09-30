@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22105E|din=03
+test_cases:
+- expected_values:
+    PASSAT_PQ35_BAT_V_2: 10.72
+  response: 7E80562105E0218
+- expected_values:
+    PASSAT_PQ35_BAT_V_2: 11.88
+  response: 7E80562105E0252
+- expected_values:
+    PASSAT_PQ35_BAT_V_2: 15
+  response: 7E80562105E02EE

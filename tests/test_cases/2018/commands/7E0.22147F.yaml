@@ -1,5 +1,0 @@
-command_id: 7E0.22147F
-test_cases:
-- expected_values:
-    VOLKSWAGEN_MOTOR_TQ: 0
-  response: 7E80562147F0000

@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22516C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CHAIN_ELONGATION_INLET: 617
+    PASSAT_CHAIN_ELONGATION_INLET: 617
   response: 7E80762516C00026902

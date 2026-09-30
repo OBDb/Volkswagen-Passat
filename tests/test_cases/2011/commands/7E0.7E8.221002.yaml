@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221002
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 3.3
+    PASSAT_AC_COMP_T: 3.3
   response: '7E8056210020021'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 3.6
+    PASSAT_AC_COMP_T: 3.6
   response: '7E8056210020024'
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 5.9
+    PASSAT_AC_COMP_T: 5.9
   response: 7E805621002003B
 - expected_values:
-    VOLKSWAGEN_AC_COMP_T: 6.2
+    PASSAT_AC_COMP_T: 6.2
   response: 7E805621002003E

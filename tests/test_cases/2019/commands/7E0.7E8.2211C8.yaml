@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211C8
 test_cases:
 - expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_ACT: 221.7
+    PASSAT_LOW_FUEL_P_ACT: 221.7
   response: 7E8056211C808A9
 - expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_ACT: 614.4
+    PASSAT_LOW_FUEL_P_ACT: 614.4
   response: 7E8056211C81800
 - expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_ACT: 6553.5
+    PASSAT_LOW_FUEL_P_ACT: 6553.5
   response: 7E8056211C8FFFF

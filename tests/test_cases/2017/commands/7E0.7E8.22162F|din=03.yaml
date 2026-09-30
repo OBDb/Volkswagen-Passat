@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22162F|din=03
+test_cases:
+- expected_values:
+    PASSAT_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 5
+  response: 7E80562162F0005
+- expected_values:
+    PASSAT_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: -4
+  response: 7E80562162FFFFC

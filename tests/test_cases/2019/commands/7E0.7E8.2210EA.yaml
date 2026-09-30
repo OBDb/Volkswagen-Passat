@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2210EA
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: 0
+    PASSAT_OPEN_CAM_SHFT_ANG: 0
   response: 7E8056210EA0000
 - expected_values:
-    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: -81.9
+    PASSAT_OPEN_CAM_SHFT_ANG: -81.9
   response: 7E8056210EAFCCD
 - expected_values:
-    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: -51.4
+    PASSAT_OPEN_CAM_SHFT_ANG: -51.4
   response: 7E8056210EAFDFE
 - expected_values:
-    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: -51.1
+    PASSAT_OPEN_CAM_SHFT_ANG: -51.1
   response: 7E8056210EAFE01

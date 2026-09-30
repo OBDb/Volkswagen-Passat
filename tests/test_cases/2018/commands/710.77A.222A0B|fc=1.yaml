@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0B|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 5
+    PASSAT_BAT_T: 5
   response: 77A04622A0B2D
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 39
+    PASSAT_BAT_T: 39
   response: 77A04622A0B4F

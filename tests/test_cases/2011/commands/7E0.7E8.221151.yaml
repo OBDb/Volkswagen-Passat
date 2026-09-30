@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221151
+test_cases:
+- expected_values:
+    PASSAT_MISFIRES__CYL__4: 12214
+  response: 7E8056211512FB6
+- expected_values:
+    PASSAT_MISFIRES__CYL__4: 12215
+  response: 7E8056211512FB7
+- expected_values:
+    PASSAT_MISFIRES__CYL__4: 12427
+  response: 7E805621151308B

@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22102C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_2_T: 59
+    PASSAT_PQ35_CLUTCH_2_T: 59
   response: 7E90562102C3B00
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_2_T: 105
+    PASSAT_PQ35_CLUTCH_2_T: 105
   response: 7E90562102C6900

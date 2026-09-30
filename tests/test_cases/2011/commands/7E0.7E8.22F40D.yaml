@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 0
+    PASSAT_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 5
+    PASSAT_VSS: 5
   response: 7E80462F40D05
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 11
+    PASSAT_VSS: 11
   response: 7E80462F40D0B
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 34
+    PASSAT_VSS: 34
   response: 7E80462F40D22

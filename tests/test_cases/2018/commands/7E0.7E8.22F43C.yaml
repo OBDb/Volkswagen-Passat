@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 378.4
+    PASSAT_EXH_GAS_T: 378.4
   response: 7E80562F43C1058
 - expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 570.4
-  response: 7E80562F43C17D8
+    PASSAT_EXH_GAS_T: 445.5
+  response: 7E80562F43C12F7
 - expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 576.3
-  response: 7E80562F43C1813
+    PASSAT_EXH_GAS_T: 472.3
+  response: 7E80562F43C1403
 - expected_values:
-    VOLKSWAGEN_EXH_GAS_T: 611.7
-  response: 7E80562F43C1975
+    PASSAT_EXH_GAS_T: 601.9
+  response: 7E80562F43C1913

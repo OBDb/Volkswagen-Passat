@@ -1,29 +1,11 @@
 command_id: 7E0.7E8.2211CE
 test_cases:
 - expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 450
+    PASSAT_LOW_FUEL_P_CMD: 450
   response: 7E8056211CE1194
 - expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 478.5
-  response: 7E8056211CE12B1
-- expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 500
-  response: 7E8056211CE1388
-- expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 550
-  response: 7E8056211CE157C
-- expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 567.1
-  response: 7E8056211CE1627
-- expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 594
-  response: 7E8056211CE1734
-- expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 614
+    PASSAT_LOW_FUEL_P_CMD: 614
   response: 7E8056211CE17FC
 - expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 638
-  response: 7E8056211CE18EC
-- expected_values:
-    VOLKSWAGEN_LOW_FUEL_P_CMD: 640
+    PASSAT_LOW_FUEL_P_CMD: 640
   response: 7E8056211CE1900

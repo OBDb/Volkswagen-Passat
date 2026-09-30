@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211A6
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 0
+    PASSAT_PQ35_LIM_ACCEL_PED: 0
   response: 7E8056211A60000
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 358.3
+    PASSAT_PQ35_LIM_ACCEL_PED: 358.3
   response: 7E8056211A60DFF
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_ACCEL_PED: 406.5
+    PASSAT_PQ35_LIM_ACCEL_PED: 406.5
   response: 7E8056211A60FE1

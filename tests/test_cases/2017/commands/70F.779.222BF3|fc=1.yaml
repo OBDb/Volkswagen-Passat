@@ -1,8 +1,8 @@
 command_id: 70F.779.222BF3|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 0
+    PASSAT_PQ35_HAL_DUTY: 0
   response: 77905622BF30000
 - expected_values:
-    VOLKSWAGEN_PQ35_HAL_DUTY: 20.86537
+    PASSAT_PQ35_HAL_DUTY: 20.86537
   response: 77905622BF33500

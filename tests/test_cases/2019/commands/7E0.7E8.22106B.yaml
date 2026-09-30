@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22106B
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_TRQ: 65.5
+    PASSAT_PQ35_LIM_TRQ: 65.5
   response: 7E80562106B028F
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_TRQ: 128
+    PASSAT_PQ35_LIM_TRQ: 128
   response: 7E80562106B0500
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_TRQ: 153.5
+    PASSAT_PQ35_LIM_TRQ: 153.5
   response: 7E80562106B05FF
 - expected_values:
-    VOLKSWAGEN_PQ35_LIM_TRQ: 1000
+    PASSAT_PQ35_LIM_TRQ: 1000
   response: 7E80562106B2710

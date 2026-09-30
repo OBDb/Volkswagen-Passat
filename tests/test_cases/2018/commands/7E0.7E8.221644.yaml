@@ -1,20 +1,26 @@
 command_id: 7E0.7E8.221644
 test_cases:
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: 0
+    PASSAT_LATERAL_ACCEL: 0
   response: '7E8056216440000'
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: 0.01
+    PASSAT_LATERAL_ACCEL: 0.01
   response: '7E8056216440001'
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: 0.02
+    PASSAT_LATERAL_ACCEL: 0.02
   response: '7E8056216440002'
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: 0.03
+    PASSAT_LATERAL_ACCEL: 0.03
   response: '7E8056216440003'
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: -0.02
+    PASSAT_LATERAL_ACCEL: 0.04
+  response: '7E8056216440004'
+- expected_values:
+    PASSAT_LATERAL_ACCEL: -0.03
+  response: 7E805621644FFFD
+- expected_values:
+    PASSAT_LATERAL_ACCEL: -0.02
   response: 7E805621644FFFE
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: -0.01
+    PASSAT_LATERAL_ACCEL: -0.01
   response: 7E805621644FFFF

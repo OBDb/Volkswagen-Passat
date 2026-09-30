@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22028D|f=-2021
+test_cases:
+- expected_values:
+    PASSAT_ENG_CTRL_MODULE_T: 24
+  response: 7E80562028D00F0
+- expected_values:
+    PASSAT_ENG_CTRL_MODULE_T: 26
+  response: 7E80562028D0104
+- expected_values:
+    PASSAT_ENG_CTRL_MODULE_T: 51
+  response: 7E80562028D01FE
+- expected_values:
+    PASSAT_ENG_CTRL_MODULE_T: 53
+  response: 7E80562028D0212

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    PASSAT_PQ35_OIL_T_2: 13.8
+  response: 7E8056211BE0B35
+- expected_values:
+    PASSAT_PQ35_OIL_T_2: 34
+  response: 7E8056211BE0BFF
+- expected_values:
+    PASSAT_PQ35_OIL_T_2: 59.7
+  response: 7E8056211BE0D00
+- expected_values:
+    PASSAT_PQ35_OIL_T_2: 86.6
+  response: 7E8056211BE0E0D

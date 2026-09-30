@@ -1,23 +1,11 @@
 command_id: 7E0.7E8.221059
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 0
+    PASSAT_ACCEL_PEDAL_TQ_LIM: 0
   response: '7E8056210590000'
 - expected_values:
-    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 30.4
-  response: '7E8056210590130'
-- expected_values:
-    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 42.8
-  response: 7E80562105901AC
-- expected_values:
-    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 75
-  response: 7E80562105902EE
-- expected_values:
-    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 75.7
+    PASSAT_ACCEL_PEDAL_TQ_LIM: 75.7
   response: 7E80562105902F5
 - expected_values:
-    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 89.8
-  response: '7E8056210590382'
-- expected_values:
-    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 91
-  response: 7E805621059038E
+    PASSAT_ACCEL_PEDAL_TQ_LIM: 194.9
+  response: 7E805621059079D

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22123C|din=03
+test_cases:
+- expected_values:
+    PASSAT_PQ35_OIL_DYN_LAST: 25.376
+  response: 7E80562123C18C8
+- expected_values:
+    PASSAT_PQ35_OIL_DYN_LAST: 26.648
+  response: 7E80562123C1A06
+- expected_values:
+    PASSAT_PQ35_OIL_DYN_LAST: 28.668
+  response: 7E80562123C1BFF
+- expected_values:
+    PASSAT_PQ35_OIL_DYN_LAST: 28.704
+  response: 7E80562123C1C08

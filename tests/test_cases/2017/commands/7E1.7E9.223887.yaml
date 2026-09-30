@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.223887
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 209355008
+  response: 7E907623887000AC97C
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 427609804.8
+  response: 7E9076238870014E0FE
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 8185958.4
+  response: 7E9076238870014E104
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 144297702.4
+  response: '7E90762388700150256'
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 355892
+  response: 7E907623887084E3600
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 144159.9
+  response: 7E9076238873FFF1500
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 115916.7
+  response: 7E907623887FFAF1100

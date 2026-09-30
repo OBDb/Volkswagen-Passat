@@ -1,8 +1,8 @@
 command_id: 746.7B0.22261F|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_RECIRC_FLAP_CMD_STEPS: 33
+    PASSAT_MQB_RECIRC_FLAP_TRG: 33
   response: 7B00562261F0021
 - expected_values:
-    VOLKSWAGEN_RECIRC_FLAP_CMD_STEPS: 215
+    PASSAT_MQB_RECIRC_FLAP_TRG: 215
   response: 7B00562261F00D7

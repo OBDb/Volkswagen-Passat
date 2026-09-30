@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_RPM: 716.5
+    PASSAT_RPM: 716.5
   response: 7E80562F40C0B32
 - expected_values:
-    VOLKSWAGEN_RPM: 889.5
-  response: 7E80562F40C0DE6
+    PASSAT_RPM: 1086
+  response: 7E80562F40C10F8
 - expected_values:
-    VOLKSWAGEN_RPM: 1893
-  response: 7E80562F40C1D94
+    PASSAT_RPM: 1733
+  response: 7E80562F40C1B14
+- expected_values:
+    PASSAT_RPM: 1970.5
+  response: 7E80562F40C1ECA

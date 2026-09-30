@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22028D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ECU_T: 8
+    PASSAT_MQB_TCM_ECU_T: 8
   response: 7E90562028D0800
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ECU_T: 90
+    PASSAT_MQB_TCM_ECU_T: 90
   response: 7E90562028D5A00

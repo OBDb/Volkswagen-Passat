@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211CD
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TCO_1_SYS: -40
+    PASSAT_TCO_1_SYS: -40
   response: 7E8056211CD0000
 - expected_values:
-    VOLKSWAGEN_TCO_1_SYS: -17
+    PASSAT_TCO_1_SYS: -17
   response: 7E8056211CD17FD
 - expected_values:
-    VOLKSWAGEN_TCO_1_SYS: 14
+    PASSAT_TCO_1_SYS: 14
   response: 7E8056211CD3666

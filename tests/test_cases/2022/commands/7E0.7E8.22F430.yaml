@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F430
 test_cases:
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 39
+    PASSAT_WARM_UPS: 39
   response: 7E80462F43027
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 108
+    PASSAT_WARM_UPS: 108
   response: 7E80462F4306C

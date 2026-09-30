@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221024
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 25.2
+    PASSAT_MQB_AIR_MASS_1: 25.2
   response: 7E80562102400FC
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 32.4
+    PASSAT_MQB_AIR_MASS_1: 32.4
   response: '7E8056210240144'
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 102.5
+    PASSAT_MQB_AIR_MASS_1: 102.5
   response: '7E8056210240401'
 - expected_values:
-    VOLKSWAGEN_MQB_AIR_MASS_1: 398.5
+    PASSAT_MQB_AIR_MASS_1: 398.5
   response: 7E8056210240F91

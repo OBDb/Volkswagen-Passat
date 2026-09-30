@@ -1,17 +1,11 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_746: -48.5
-    VOLKSWAGEN_AAT_FROMCABIN: 1.5
-    VOLKSWAGEN_AAT_V2: 1.5
+    PASSAT_AAT: 1.5
   response: 7B00462260903
 - expected_values:
-    VOLKSWAGEN_AAT_746: -48
-    VOLKSWAGEN_AAT_FROMCABIN: 2
-    VOLKSWAGEN_AAT_V2: 2
+    PASSAT_AAT: 2
   response: 7B00462260904
 - expected_values:
-    VOLKSWAGEN_AAT_746: -47.5
-    VOLKSWAGEN_AAT_FROMCABIN: 2.5
-    VOLKSWAGEN_AAT_V2: 2.5
+    PASSAT_AAT: 2.5
   response: 7B00462260905

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.222062
 test_cases:
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 0.381
+    PASSAT_APP_POS2: 0.381
   response: 7E805622062017D
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 0.508
+    PASSAT_APP_POS2: 0.508
   response: 7E80562206201FC
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 0.513
+    PASSAT_APP_POS2: 0.513
   response: '7E8056220620201'
 - expected_values:
-    VOLKSWAGEN_APP_POS2: 1.055
+    PASSAT_APP_POS2: 1.055
   response: 7E805622062041F

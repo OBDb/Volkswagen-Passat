@@ -1,5 +1,5 @@
 command_id: 7E1.7E9.221068
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ANALYSIS_CLU_1_T_3: 804.96
+    PASSAT_ANALYSIS_CLU_1_T_3: 804.96
   response: 7E907621068389D0100

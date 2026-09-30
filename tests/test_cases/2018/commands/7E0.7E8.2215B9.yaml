@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2215B9
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL_AVG: 1.62
+    PASSAT_OIL_LEVEL_AVG: 1.62
   response: 7E8056215B90195
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL_AVG: 5.096
+    PASSAT_OIL_LEVEL_AVG: 5.096
   response: 7E8056215B904FA
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL_AVG: 5.328
-  response: 7E8056215B90534
+    PASSAT_OIL_LEVEL_AVG: 5.136
+  response: 7E8056215B90504

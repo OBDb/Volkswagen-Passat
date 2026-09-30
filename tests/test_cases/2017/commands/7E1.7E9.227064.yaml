@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.227064
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 0
+    PASSAT_MQB_TCM_ENG_TORQUE: 0
   response: '7E9056270640000'
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 826
+    PASSAT_MQB_TCM_ENG_TORQUE: 826
   response: 7E905627064033A
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 1021
+    PASSAT_MQB_TCM_ENG_TORQUE: 1021
   response: 7E90562706403FD

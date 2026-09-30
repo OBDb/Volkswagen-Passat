@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2215BD
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OIL_P_SENS_PISTON: 0
+    PASSAT_OIL_P_SENS_PISTON: 0
   response: 7E8046215BD00
 - expected_values:
-    VOLKSWAGEN_OIL_P_SENS_PISTON: 1
+    PASSAT_OIL_P_SENS_PISTON: 1
   response: 7E8046215BD01
