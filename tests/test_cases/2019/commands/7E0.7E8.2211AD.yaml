@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211AD
 test_cases:
 - expected_values:
-    PASSAT_MAF_CMD: 344.5
+    VOLKSWAGEN_MAF_CMD: 344.5
   response: 7E8056211AD0D75
 - expected_values:
-    PASSAT_MAF_CMD: 793.7
+    VOLKSWAGEN_MAF_CMD: 793.7
   response: 7E8056211AD1F01
 - expected_values:
-    PASSAT_MAF_CMD: 869.9
+    VOLKSWAGEN_MAF_CMD: 869.9
   response: 7E8056211AD21FB
 - expected_values:
-    PASSAT_MAF_CMD: 1278
+    VOLKSWAGEN_MAF_CMD: 1278
   response: 7E8056211AD31EC

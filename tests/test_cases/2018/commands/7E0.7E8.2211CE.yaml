@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211CE
 test_cases:
 - expected_values:
-    PASSAT_LOW_FUEL_P_CMD: 450
+    VOLKSWAGEN_LOW_FUEL_P_CMD: 450
   response: 7E8056211CE1194
 - expected_values:
-    PASSAT_LOW_FUEL_P_CMD: 614
+    VOLKSWAGEN_LOW_FUEL_P_CMD: 614
   response: 7E8056211CE17FC
 - expected_values:
-    PASSAT_LOW_FUEL_P_CMD: 640
+    VOLKSWAGEN_LOW_FUEL_P_CMD: 640
   response: 7E8056211CE1900

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221216
 test_cases:
 - expected_values:
-    PASSAT_REL_LOAD: 11.74359
+    VOLKSWAGEN_REL_LOAD: 11.74359
   response: 7E80562121601F5
 - expected_values:
-    PASSAT_REL_LOAD: 12.16552
+    VOLKSWAGEN_REL_LOAD: 12.16552
   response: '7E8056212160207'
 - expected_values:
-    PASSAT_REL_LOAD: 29.90983
+    VOLKSWAGEN_REL_LOAD: 29.90983
   response: 7E80562121604FC
 - expected_values:
-    PASSAT_REL_LOAD: 58.01476
+    VOLKSWAGEN_REL_LOAD: 58.01476
   response: 7E80562121609AB

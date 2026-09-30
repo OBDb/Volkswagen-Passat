@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221124|fc=1,c=17
 test_cases:
 - expected_values:
-    PASSAT_CAMSHAFT_VSS: 404
+    VOLKSWAGEN_CAMSHAFT_VSS: 404
   response: '7E8056211240650'
 - expected_values:
-    PASSAT_CAMSHAFT_VSS: 574.25
+    VOLKSWAGEN_CAMSHAFT_VSS: 574.25
   response: 7E80562112408F9
 - expected_values:
-    PASSAT_CAMSHAFT_VSS: 705.25
+    VOLKSWAGEN_CAMSHAFT_VSS: 705.25
   response: 7E8056211240B05
 - expected_values:
-    PASSAT_CAMSHAFT_VSS: 1109.25
+    VOLKSWAGEN_CAMSHAFT_VSS: 1109.25
   response: '7E8056211241155'

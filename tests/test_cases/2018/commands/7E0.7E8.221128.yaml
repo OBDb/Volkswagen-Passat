@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221128
 test_cases:
 - expected_values:
-    PASSAT_CAM_ADPT_EXH_BANK_1: 0
+    VOLKSWAGEN_CAM_ADPT_EXH_BANK_1: 0
   response: '7E8056211280000'
 - expected_values:
-    PASSAT_CAM_ADPT_EXH_BANK_1: -1.06
+    VOLKSWAGEN_CAM_ADPT_EXH_BANK_1: -1.06
   response: 7E805621128FFCB
 - expected_values:
-    PASSAT_CAM_ADPT_EXH_BANK_1: -1.04
+    VOLKSWAGEN_CAM_ADPT_EXH_BANK_1: -1.04
   response: 7E805621128FFCC
 - expected_values:
-    PASSAT_CAM_ADPT_EXH_BANK_1: -0.96
+    VOLKSWAGEN_CAM_ADPT_EXH_BANK_1: -0.96
   response: 7E805621128FFD0
 - expected_values:
-    PASSAT_CAM_ADPT_EXH_BANK_1: -0.72
+    VOLKSWAGEN_CAM_ADPT_EXH_BANK_1: -0.72
   response: 7E805621128FFDC

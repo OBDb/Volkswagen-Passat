@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221509
 test_cases:
 - expected_values:
-    PASSAT_AMBIENT_AIR_P: 999.375
+    VOLKSWAGEN_AMBIENT_AIR_P: 999.375
   response: '7E8056215096419'
 - expected_values:
-    PASSAT_AMBIENT_AIR_P: 1008.267
+    VOLKSWAGEN_AMBIENT_AIR_P: 1008.267
   response: 7E80562150964FD
 - expected_values:
-    PASSAT_AMBIENT_AIR_P: 1008.657
+    VOLKSWAGEN_AMBIENT_AIR_P: 1008.657
   response: '7E8056215096507'

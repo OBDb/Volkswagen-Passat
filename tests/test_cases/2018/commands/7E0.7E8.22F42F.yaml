@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    PASSAT_FLI_INPUT: 12.54902
+    VOLKSWAGEN_FLI_INPUT: 12.54902
   response: 7E80462F42F20
 - expected_values:
-    PASSAT_FLI_INPUT: 14.11765
+    VOLKSWAGEN_FLI_INPUT: 14.11765
   response: 7E80462F42F24
 - expected_values:
-    PASSAT_FLI_INPUT: 18.43137
+    VOLKSWAGEN_FLI_INPUT: 18.43137
   response: 7E80462F42F2F
 - expected_values:
-    PASSAT_FLI_INPUT: 20
+    VOLKSWAGEN_FLI_INPUT: 20
   response: 7E80462F42F33
 - expected_values:
-    PASSAT_FLI_INPUT: 21.17647
+    VOLKSWAGEN_FLI_INPUT: 21.17647
   response: 7E80462F42F36
 - expected_values:
-    PASSAT_FLI_INPUT: 92.54902
+    VOLKSWAGEN_FLI_INPUT: 92.54902
   response: 7E80462F42FEC
 - expected_values:
-    PASSAT_FLI_INPUT: 94.11765
+    VOLKSWAGEN_FLI_INPUT: 94.11765
   response: 7E80462F42FF0
 - expected_values:
-    PASSAT_FLI_INPUT: 95.68627
+    VOLKSWAGEN_FLI_INPUT: 95.68627
   response: 7E80462F42FF4
