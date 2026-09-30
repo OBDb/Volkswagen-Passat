@@ -7,5 +7,8 @@ test_cases:
     VOLKSWAGEN_FUEL_RATE_DIFF_INJ: 1.0078
   response: 7E80562180A0102
 - expected_values:
+    VOLKSWAGEN_FUEL_RATE_DIFF_INJ: 2.95699
+  response: 7E80562180A02F5
+- expected_values:
     VOLKSWAGEN_FUEL_RATE_DIFF_INJ: -0.06641
   response: 7E80562180AFFEF
