@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 57.98
   response: 7E907621065530B6E18
 - expected_values:
+    VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 462.54
+  response: 7E907621065575A7318
+- expected_values:
     VOLKSWAGEN_CLU_1_T_TIME_RANGE_0: 1278.22
   response: 7E907621065A7F97218
 - expected_values:

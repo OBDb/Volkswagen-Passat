@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_INTEGRATED_MASS_AIR_SINCE: 18021.5586
   response: 7E805621743C5FD
+- expected_values:
+    VOLKSWAGEN_INTEGRATED_MASS_AIR_SINCE: 19459.7988
+  response: 7E805621743D5CA

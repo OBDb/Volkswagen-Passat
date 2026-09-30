@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_ANALYSIS_CLU_2_T_2: 1229.72
   response: 7E90762107C2EF01B00
 - expected_values:
+    VOLKSWAGEN_ANALYSIS_CLU_2_T_2: 1286.18
+  response: 7E90762107C35FB1B00
+- expected_values:
     VOLKSWAGEN_ANALYSIS_CLU_2_T_2: 1271.64
   response: 7E90762107C5EF81B00
 - expected_values:
