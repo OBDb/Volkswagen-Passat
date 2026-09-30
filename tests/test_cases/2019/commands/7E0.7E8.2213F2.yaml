@@ -2,10 +2,10 @@ command_id: 7E0.7E8.2213F2
 test_cases:
 - expected_values:
     VOLKSWAGEN_IGA_CYL_KNK_0: -48
-  response: 7E8076213F20003AA97
-- expected_values:
-    VOLKSWAGEN_IGA_CYL_KNK_0: -48
   response: 7E8076213F20003AAA6
 - expected_values:
     VOLKSWAGEN_IGA_CYL_KNK_0: -48
-  response: 7E8076213F20003AAFB
+  response: 7E8076213F20003AAFF
+- expected_values:
+    VOLKSWAGEN_IGA_CYL_KNK_0: -48
+  response: 7E8076213F20003AB00
