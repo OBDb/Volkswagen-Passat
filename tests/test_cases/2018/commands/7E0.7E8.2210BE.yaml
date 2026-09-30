@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210BE
 test_cases:
 - expected_values:
-    VOLKSWAGEN_REQ_TQ_AMOUNT: 5.1
-  response: 7E8056210BE0033
+    VOLKSWAGEN_REQ_TQ_AMOUNT: 4.1
+  response: 7E8056210BE0029
 - expected_values:
     VOLKSWAGEN_REQ_TQ_AMOUNT: 12.7
   response: 7E8056210BE007F

@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -82903
   response: 7E807621340FFF3599A
 - expected_values:
+    VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -75694
+  response: 7E807621340FFF47334
+- expected_values:
     VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -26542
   response: 7E807621340FFFBF334
 - expected_values:
@@ -18,6 +21,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -11796.4
   response: 7E807621340FFFE3334
+- expected_values:
+    VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -6881.2
+  response: 7E807621340FFFEF334
 - expected_values:
     VOLKSWAGEN_TQ_INCREASE_REQ_ESP: -3276.8
   response: 7E807621340FFFF8000

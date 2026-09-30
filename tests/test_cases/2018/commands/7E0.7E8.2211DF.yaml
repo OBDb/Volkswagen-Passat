@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_POWERTRAIN_OVERALL: 1
   response: 7E8056211DF0064
 - expected_values:
+    VOLKSWAGEN_POWERTRAIN_OVERALL: 2.1
+  response: 7E8056211DF00D2
+- expected_values:
     VOLKSWAGEN_POWERTRAIN_OVERALL: 2.7
   response: 7E8056211DF010E
 - expected_values:

@@ -4,8 +4,11 @@ test_cases:
     VOLKSWAGEN_NUM_INJECTIONS: 7335
   response: 7E80562430E1CA7
 - expected_values:
-    VOLKSWAGEN_NUM_INJECTIONS: 7372
-  response: 7E80562430E1CCC
-- expected_values:
     VOLKSWAGEN_NUM_INJECTIONS: 44073
   response: 7E80562430EAC29
+- expected_values:
+    VOLKSWAGEN_NUM_INJECTIONS: 53491
+  response: 7E80562430ED0F3
+- expected_values:
+    VOLKSWAGEN_NUM_INJECTIONS: 65134
+  response: 7E80562430EFE6E

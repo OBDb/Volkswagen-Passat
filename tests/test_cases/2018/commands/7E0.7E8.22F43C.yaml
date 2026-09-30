@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_EXH_GAS_T: 576.3
   response: 7E80562F43C1813
+- expected_values:
+    VOLKSWAGEN_EXH_GAS_T: 611.7
+  response: 7E80562F43C1975
