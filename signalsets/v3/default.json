@@ -63,7 +63,7 @@
   ]},
 { "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A07"}, "freq": 5, "dbgfilter": { "to": 2014, "years": [2021], "from": 2023 },
   "signals": [
-    {"id": "PASSAT_BAT_V_2A07", "path": "Battery", "fmt": { "len": 16, "max": 69.535, "min": 4, "div": 1000, "add": 4, "unit": "volts" }, "name": "Battery voltage"}
+    {"id": "PASSAT_BAT_V_2A07", "path": "Battery", "fmt": { "len": 16, "max": 69.535, "min": 4, "div": 1000, "add": 4, "unit": "volts" }, "name": "Battery voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
 { "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A09"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2020, 2021], "from": 2023 },
   "signals": [
@@ -211,7 +211,7 @@
   ]},
 { "hdr": "714", "rax": "77E", "din": "03", "cmd": {"22": "2203"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
-    {"id": "PASSAT_ODO_DASH", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, dashboard"}
+    {"id": "PASSAT_ODO_DASH", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, dashboard", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2206"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016], "from": 2019 },
   "signals": [
@@ -235,7 +235,7 @@
   ]},
 { "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "22B8"}, "freq": 30, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
-    {"id": "PASSAT_ODO_MILEAGE_HR", "path": "Trips", "fmt": { "len": 32, "max": 4294967, "div": 1000, "unit": "kilometers" }, "name": "Odometer, mileage, HR"}
+    {"id": "PASSAT_ODO_MILEAGE_HR", "path": "Trips", "fmt": { "len": 32, "max": 4294967, "div": 1000, "unit": "kilometers" }, "name": "Odometer, mileage, HR", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2603"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2020, 2021], "from": 2023 },
   "signals": [
@@ -881,7 +881,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2014], "from": 2021 },
   "signals": [
-    {"id": "PASSAT_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Oil temperature variant"}
+    {"id": "PASSAT_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Oil temperature variant", "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BF"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2020 },
   "signals": [
@@ -1601,7 +1601,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "179C"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2020 },
   "signals": [
-    {"id": "PASSAT_PQ35_ENGINE_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Oil temp 2"}
+    {"id": "PASSAT_PQ35_ENGINE_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Oil temp 2", "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1800"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
@@ -1905,7 +1905,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "PASSAT_RPM", "path": "Movement", "fmt": { "len": 16, "max": 7000, "div": 4, "unit": "rpm" }, "name": "Engine RPM"}
+    {"id": "PASSAT_RPM", "path": "Movement", "fmt": { "len": 16, "max": 7000, "div": 4, "unit": "rpm" }, "name": "Engine RPM", "suggestedMetric": "engineSpeed"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2014, 2021], "from": 2023 },
   "signals": [
@@ -2507,7 +2507,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2104"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2021], "from": 2023 },
   "signals": [
-    {"id": "PASSAT_ATF_T", "path": "Fluids", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Automatic transmission fluid temperature"}
+    {"id": "PASSAT_ATF_T", "path": "Fluids", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Automatic transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "210F"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2016, 2019], "from": 2021 },
   "signals": [
@@ -2761,7 +2761,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "pri": "17", "fcm1": true, "cmd": {"22": "7050"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
-    {"id": "PASSAT_SELECTED_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 253, "min": -2, "add": -2, "unit": "celsius" }, "name": "Selected gear"}
+    {"id": "PASSAT_SELECTED_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 253, "min": -2, "add": -2, "unit": "scalar" }, "name": "Selected gear"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "pri": "17", "fcm1": true, "cmd": {"22": "7051"}, "freq": 3600, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
