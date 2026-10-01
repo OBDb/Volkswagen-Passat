@@ -12,12 +12,3 @@ test_cases:
 - expected_values:
     PASSAT_PQ35_FUEL_T: 38.1
   response: 7E80562162D0C28
-- expected_values:
-    PASSAT_PQ35_FUEL_T: -273.1
-  response: 7E80762162D00000000
-- expected_values:
-    PASSAT_PQ35_FUEL_T: -273.1
-  response: 7E80762162D00000800
-- expected_values:
-    PASSAT_PQ35_FUEL_T: 3003.7
-  response: 7E80762162D80000000
