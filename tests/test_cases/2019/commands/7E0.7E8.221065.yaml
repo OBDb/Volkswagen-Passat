@@ -7,11 +7,11 @@ test_cases:
     PASSAT_CYL_HEAD_T: 426.68
   response: 7E805621065133E
 - expected_values:
-    PASSAT_CYL_HEAD_T: 692.72
-  response: '7E8056210651904'
+    PASSAT_CYL_HEAD_T: 459.62
+  response: 7E80562106513F5
 - expected_values:
-    PASSAT_CYL_HEAD_T: 736.64
-  response: 7E80562106519F8
+    PASSAT_CYL_HEAD_T: 462.86
+  response: '7E8056210651407'
 - expected_values:
-    PASSAT_CYL_HEAD_T: 2234.24
-  response: 7E8056210653A78
+    PASSAT_CYL_HEAD_T: 557.36
+  response: '7E8056210651614'

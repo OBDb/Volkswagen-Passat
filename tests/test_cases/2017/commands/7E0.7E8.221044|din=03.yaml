@@ -4,8 +4,11 @@ test_cases:
     PASSAT_DPF_SFC_T: 49.5
   response: 7E8056210440C9A
 - expected_values:
+    PASSAT_DPF_SFC_T: 161.9
+  response: 7E80562104410FE
+- expected_values:
     PASSAT_DPF_SFC_T: 317.6
   response: '7E8056210441713'
 - expected_values:
-    PASSAT_DPF_SFC_T: 3003.6
-  response: 7E8056210447FFF
+    PASSAT_DPF_SFC_T: 349.1
+  response: 7E805621044184E

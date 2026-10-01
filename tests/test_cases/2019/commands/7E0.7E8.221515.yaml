@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221515
 test_cases:
 - expected_values:
-    PASSAT_CAT_T_CALC: 365
+    PASSAT_CAT_T_CALC: -50
   response: '7E8056215150053'
 - expected_values:
-    PASSAT_CAT_T_CALC: 8905
+    PASSAT_CAT_T_CALC: -20
   response: 7E80562151506FF
 - expected_values:
-    PASSAT_CAT_T_CALC: 72920
+    PASSAT_CAT_T_CALC: 235
   response: '7E8056215153902'
 - expected_values:
-    PASSAT_CAT_T_CALC: 103300
+    PASSAT_CAT_T_CALC: 350
   response: 7E80562151550BE
