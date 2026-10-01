@@ -4,11 +4,11 @@ test_cases:
     PASSAT_HIGH_FUEL_P_CMD: 1.8565
   response: 7E8056211D70E81
 - expected_values:
+    PASSAT_HIGH_FUEL_P_CMD: 2.1745
+  response: 7E8056211D710FD
+- expected_values:
     PASSAT_HIGH_FUEL_P_CMD: 2.2745
   response: 7E8056211D711C5
-- expected_values:
-    PASSAT_HIGH_FUEL_P_CMD: 9.9825
-  response: 7E8056211D74DFD
 - expected_values:
     PASSAT_HIGH_FUEL_P_CMD: 9.9845
   response: 7E8056211D74E01
