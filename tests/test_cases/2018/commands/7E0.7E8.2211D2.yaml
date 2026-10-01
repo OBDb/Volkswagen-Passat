@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211D2
 test_cases:
 - expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.0545
+    PASSAT_HIGH_P_CTRL_ADPT: -0.0545
   response: 7E8056211D2FF93
 - expected_values:
-    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.0025
+    PASSAT_HIGH_P_CTRL_ADPT: -0.0025
   response: 7E8056211D2FFFB

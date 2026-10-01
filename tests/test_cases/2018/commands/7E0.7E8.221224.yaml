@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.221224
 test_cases:
 - expected_values:
-    VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -7.5
+    PASSAT_TQ_LOSS_ADPT_GEAR: -7.5
   response: 7E805621224FFB5
 - expected_values:
-    VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -7.3
+    PASSAT_TQ_LOSS_ADPT_GEAR: -7.3
   response: 7E805621224FFB7
 - expected_values:
-    VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -7.2
+    PASSAT_TQ_LOSS_ADPT_GEAR: -7.2
   response: 7E805621224FFB8
 - expected_values:
-    VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -7
+    PASSAT_TQ_LOSS_ADPT_GEAR: -7
   response: 7E805621224FFBA
 - expected_values:
-    VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -6.9
+    PASSAT_TQ_LOSS_ADPT_GEAR: -6.9
   response: 7E805621224FFBB
 - expected_values:
-    VOLKSWAGEN_TQ_LOSS_ADPT_GEAR: -6.8
+    PASSAT_TQ_LOSS_ADPT_GEAR: -6.8
   response: 7E805621224FFBC
