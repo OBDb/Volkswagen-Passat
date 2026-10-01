@@ -1,0 +1,8 @@
+command_id: 7E5.7ED.221E3B|f=2015-,din=03
+test_cases:
+- expected_values:
+    PASSAT_BMS_CELL_V_SUM: 139.4
+  response: 7ED05621E3B0572
+- expected_values:
+    PASSAT_BMS_CELL_V_SUM: 152.7
+  response: 7ED05621E3B05F7

@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2210D1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.0316
+    PASSAT_PQ35_INJ_3_RAIL_P_1: 0.0316
   response: 7E8056210D10278
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.0328
+    PASSAT_PQ35_INJ_3_RAIL_P_1: 0.0328
   response: 7E8056210D10290
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.034
+    PASSAT_PQ35_INJ_3_RAIL_P_1: 0.034
   response: 7E8056210D102A8
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.0344
+    PASSAT_PQ35_INJ_3_RAIL_P_1: 0.0344
   response: 7E8056210D102B0
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_3_RAIL_P_1: 0.0348
+    PASSAT_PQ35_INJ_3_RAIL_P_1: 0.0348
   response: 7E8056210D102B8

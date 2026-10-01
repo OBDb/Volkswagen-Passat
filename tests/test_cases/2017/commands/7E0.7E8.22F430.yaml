@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.22F430
 test_cases:
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 2
+    PASSAT_WARM_UPS: 2
   response: 7E80462F43002
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 15
+    PASSAT_WARM_UPS: 15
   response: 7E80462F4300F
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 16
+    PASSAT_WARM_UPS: 16
   response: 7E80462F43010
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 17
+    PASSAT_WARM_UPS: 17
   response: 7E80462F43011
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 21
+    PASSAT_WARM_UPS: 21
   response: 7E80462F43015
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 164
+    PASSAT_WARM_UPS: 164
   response: 7E80462F430A4
 - expected_values:
-    VOLKSWAGEN_WARM_UPS: 255
+    PASSAT_WARM_UPS: 255
   response: 7E80462F430FF

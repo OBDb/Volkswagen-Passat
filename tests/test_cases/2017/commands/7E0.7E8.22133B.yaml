@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22133B
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_SPD: 450.6
+    PASSAT_PQ35_CAMS_SPD: 450.6
   response: 7E80562133B05DE
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_SPD: 521.7
+    PASSAT_PQ35_CAMS_SPD: 521.7
   response: 7E80562133B06CB
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_SPD: 688.2
+    PASSAT_PQ35_CAMS_SPD: 688.2
   response: 7E80562133B08F6
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_SPD: 768
+    PASSAT_PQ35_CAMS_SPD: 768
   response: 7E80562133B0A00
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_SPD: 1769.1
+    PASSAT_PQ35_CAMS_SPD: 1769.1
   response: 7E80562133B1709

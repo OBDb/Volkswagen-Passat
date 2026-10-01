@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22295A
+test_cases:
+- expected_values:
+    PASSAT_ODO: 72158
+  response: 7E80662295A0119DE
+- expected_values:
+    PASSAT_ODO: 72191
+  response: 7E80662295A0119FF
+- expected_values:
+    PASSAT_ODO: 72194
+  response: 7E80662295A011A02
+- expected_values:
+    PASSAT_ODO: 139455
+  response: 7E80662295A0220BF
+- expected_values:
+    PASSAT_ODO: 141247
+  response: 7E80662295A0227BF

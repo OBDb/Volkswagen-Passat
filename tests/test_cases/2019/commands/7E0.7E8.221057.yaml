@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221057
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 1.844
+    PASSAT_PQ35_CHG_P: 1.844
   response: '7E8056210570734'
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 3.839
+    PASSAT_PQ35_CHG_P: 3.839
   response: 7E8056210570EFF
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 5.12
+    PASSAT_PQ35_CHG_P: 5.12
   response: '7E8056210571400'
 - expected_values:
-    VOLKSWAGEN_PQ35_CHG_P: 14.383
+    PASSAT_PQ35_CHG_P: 14.383
   response: 7E805621057382F

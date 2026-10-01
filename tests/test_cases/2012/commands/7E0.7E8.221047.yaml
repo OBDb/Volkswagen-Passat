@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221047
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_ENG_TRQ: 0.6
+    PASSAT_PQ35_ENG_TRQ: 0.6
   response: '7E8056210470006'
 - expected_values:
-    VOLKSWAGEN_PQ35_ENG_TRQ: 45.6
+    PASSAT_PQ35_ENG_TRQ: 45.6
   response: 7E80562104701C8
 - expected_values:
-    VOLKSWAGEN_PQ35_ENG_TRQ: 185.7
+    PASSAT_PQ35_ENG_TRQ: 185.7
   response: '7E8056210470741'

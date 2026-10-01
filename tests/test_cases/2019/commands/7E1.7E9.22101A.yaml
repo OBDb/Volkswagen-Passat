@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.22101A
+test_cases:
+- expected_values:
+    PASSAT_PQ35_ODO_3: 10911234
+  response: '7E9 07 62 10 1A A6 7E 02 00 '
+- expected_values:
+    PASSAT_PQ35_ODO_3: 2306
+  response: 7E90762101A00090200
+- expected_values:
+    PASSAT_PQ35_ODO_3: 13571
+  response: 7E90762101A00350300
+- expected_values:
+    PASSAT_PQ35_ODO_3: 54273
+  response: 7E90762101A00D40100
+- expected_values:
+    PASSAT_PQ35_ODO_3: 5572354
+  response: 7E90762101A55070200
+- expected_values:
+    PASSAT_PQ35_ODO_3: 16714242
+  response: 7E90762101AFF0A0200

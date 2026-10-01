@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2211BC
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_OIL_LVL: 18
+    PASSAT_PQ35_OIL_LVL: 18
   response: 7E8056211BC1194
 - expected_values:
-    VOLKSWAGEN_PQ35_OIL_LVL: 46.12
+    PASSAT_PQ35_OIL_LVL: 46.12
   response: 7E8056211BC2D0A
 - expected_values:
-    VOLKSWAGEN_PQ35_OIL_LVL: 50.176
+    PASSAT_PQ35_OIL_LVL: 50.176
   response: 7E8056211BC3100
 - expected_values:
-    VOLKSWAGEN_PQ35_OIL_LVL: 54.268
+    PASSAT_PQ35_OIL_LVL: 54.268
   response: 7E8056211BC34FF
 - expected_values:
-    VOLKSWAGEN_PQ35_OIL_LVL: 74.896
+    PASSAT_PQ35_OIL_LVL: 74.896
   response: 7E8056211BC4924

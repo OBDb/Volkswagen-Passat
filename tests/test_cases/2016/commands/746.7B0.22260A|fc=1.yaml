@@ -1,6 +1,5 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -40
-    VOLKSWAGEN_OUTSIDE_T_SYSTEM: 10
+    PASSAT_OUTSIDE_T_SYSTEM: 10
   response: 7B00462260A14

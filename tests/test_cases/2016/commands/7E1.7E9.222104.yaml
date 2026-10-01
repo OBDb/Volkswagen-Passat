@@ -1,7 +1,5 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ATF_T: 1
-    VOLKSWAGEN_ATF_T_DUAL_CLU: 41
-    VOLKSWAGEN_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 41
+    PASSAT_ATF_T: 1
   response: '7E9056221042900'

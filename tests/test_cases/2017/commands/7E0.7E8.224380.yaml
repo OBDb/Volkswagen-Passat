@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.224380
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_2: 1.4
+    PASSAT_ENG_TRQ_REQ_2: 1.4
   response: 7E805624380000E
 - expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_2: 49.3
+    PASSAT_ENG_TRQ_REQ_2: 49.3
   response: 7E80562438001ED
 - expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_2: 51.2
+    PASSAT_ENG_TRQ_REQ_2: 51.2
   response: '7E8056243800200'
 - expected_values:
-    VOLKSWAGEN_ENG_TRQ_REQ_2: 6529.5
+    PASSAT_ENG_TRQ_REQ_2: 6529.5
   response: 7E805624380FF0F

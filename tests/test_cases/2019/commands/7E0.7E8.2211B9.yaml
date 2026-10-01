@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211B9
 test_cases:
 - expected_values:
-    VOLKSWAGEN_OIL_P_VLV_SWITCH: 8
+    PASSAT_OIL_P_VLV_SWITCH: 8
   response: 7E8046211B908
 - expected_values:
-    VOLKSWAGEN_OIL_P_VLV_SWITCH: 63
+    PASSAT_OIL_P_VLV_SWITCH: 63
   response: 7E8046211B93F

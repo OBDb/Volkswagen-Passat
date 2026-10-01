@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211BF
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_P_REG: 5.1
+    PASSAT_PQ35_FUEL_P_REG: 5.1
   response: 7E8056211BF01FE
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_P_REG: 10.23
+    PASSAT_PQ35_FUEL_P_REG: 10.23
   response: 7E8056211BF03FF
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_P_REG: 10.24
+    PASSAT_PQ35_FUEL_P_REG: 10.24
   response: 7E8056211BF0400
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_P_REG: 40.98
+    PASSAT_PQ35_FUEL_P_REG: 40.98
   response: 7E8056211BF1002

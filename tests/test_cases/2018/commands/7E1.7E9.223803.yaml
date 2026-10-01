@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.223803
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: -261.01
+    PASSAT_MQB_TCM_BRAKE_P: -261.01
   response: 7E9056238030B9A
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: 5.25
+    PASSAT_MQB_TCM_BRAKE_P: 5.25
   response: 7E9056238030D02
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: -10.11
+    PASSAT_MQB_TCM_BRAKE_P: -10.11
   response: 7E9056238030DFC
 - expected_values:
-    VOLKSWAGEN_MQB_TCM_BRAKE_P: -56.01
+    PASSAT_MQB_TCM_BRAKE_P: -56.01
   response: 7E9056238031FEA

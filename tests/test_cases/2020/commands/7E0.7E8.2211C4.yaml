@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211C4
+test_cases:
+- expected_values:
+    PASSAT_OIL_MAX: 18.208
+  response: 7E8056211C411C8
+- expected_values:
+    PASSAT_OIL_MAX: 25.616
+  response: 7E8056211C41904
+- expected_values:
+    PASSAT_OIL_MAX: 27.228
+  response: 7E8056211C41A97

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BA
+test_cases:
+- expected_values:
+    PASSAT_OIL_LVL: 0.99
+  response: 7E8056211BA09AB
+- expected_values:
+    PASSAT_OIL_LVL: 5.4268
+  response: 7E8056211BA34FF
+- expected_values:
+    PASSAT_OIL_LVL: 7.6804
+  response: 7E8056211BA4B01
+- expected_values:
+    PASSAT_OIL_LVL: 9.6068
+  response: 7E8056211BA5DD1

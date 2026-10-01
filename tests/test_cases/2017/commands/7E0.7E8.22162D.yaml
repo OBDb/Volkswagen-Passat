@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22162D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_T: 31.6
+    PASSAT_PQ35_FUEL_T: 31.6
   response: 7E80562162D0BE7
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_T: 33.5
+    PASSAT_PQ35_FUEL_T: 33.5
   response: 7E80562162D0BFA
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_T: 34.2
+    PASSAT_PQ35_FUEL_T: 34.2
   response: 7E80562162D0C01
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_T: 35.9
+    PASSAT_PQ35_FUEL_T: 35.9
   response: 7E80562162D0C12
