@@ -214,7 +214,7 @@
   "signals": [
     {"id": "PASSAT_DASH_AMBIENT_AIR_T", "path": "Engine", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "din": "03", "cmd": {"22": "2203"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2017 },
+{ "hdr": "714", "rax": "77E", "din": "03", "cmd": {"22": "2203"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018], "from": 2020 },
   "signals": [
     {"id": "PASSAT_ODO_DASH", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, dashboard", "suggestedMetric": "odometer"}
   ]},
@@ -928,7 +928,7 @@
   "signals": [
     {"id": "PASSAT_LOW_FUEL_P_CMD", "path": "Fuel", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilopascal" }, "name": "Low fuel pressure, commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11CF"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CF"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "PASSAT_BRAKE_BOOSTER_P", "path": "Control", "fmt": { "len": 16, "max": 2559, "mul": 19531, "div": 500000, "unit": "unknown" }, "name": "Brake booster pressure"}
   ]},
@@ -1420,7 +1420,7 @@
   "signals": [
     {"id": "PASSAT_VEHICLE_LATERAL_ACCELERATION_RAW_VALUE", "path": "Movement", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "mul": 100, "div": 10000, "sign": true, "unit": "gravity" }, "name": "Vehicle lateral acceleration, raw value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "15D4"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "15D4"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "PASSAT_LAMBDA_OUTPUT", "path": "Engine", "fmt": { "len": 16, "max": 1.99, "mul": 199997, "div": 6553500000, "unit": "scalar" }, "name": "Lambda output value"}
   ]},
