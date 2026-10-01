@@ -4,6 +4,9 @@ test_cases:
     PASSAT_CAM_ADPT_EXH_BANK_1: 0
   response: '7E8056211280000'
 - expected_values:
+    PASSAT_CAM_ADPT_EXH_BANK_1: -1.2
+  response: 7E805621128FFC4
+- expected_values:
     PASSAT_CAM_ADPT_EXH_BANK_1: -1.06
   response: 7E805621128FFCB
 - expected_values:

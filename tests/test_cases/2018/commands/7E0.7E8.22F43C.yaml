@@ -4,11 +4,11 @@ test_cases:
     PASSAT_EXH_GAS_T: 378.4
   response: 7E80562F43C1058
 - expected_values:
-    PASSAT_EXH_GAS_T: 445.5
-  response: 7E80562F43C12F7
+    PASSAT_EXH_GAS_T: 471.7
+  response: 7E80562F43C13FD
 - expected_values:
     PASSAT_EXH_GAS_T: 472.3
   response: 7E80562F43C1403
 - expected_values:
-    PASSAT_EXH_GAS_T: 601.9
-  response: 7E80562F43C1913
+    PASSAT_EXH_GAS_T: 628.4
+  response: 7E80562F43C1A1C

@@ -7,5 +7,5 @@ test_cases:
     PASSAT_CAM_ADJ_EXH_BANK_1_SPEC: -12.424
   response: 7E805621371F9EF
 - expected_values:
-    PASSAT_CAM_ADJ_EXH_BANK_1_SPEC: -7.688
-  response: 7E805621371FC3F
+    PASSAT_CAM_ADJ_EXH_BANK_1_SPEC: -7.768
+  response: 7E805621371FC35

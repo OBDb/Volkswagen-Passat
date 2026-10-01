@@ -10,5 +10,5 @@ test_cases:
     PASSAT_CAM_ADJ_EXH_BANK_1_ACT: -8.216
   response: 7E80562136CFBFD
 - expected_values:
-    PASSAT_CAM_ADJ_EXH_BANK_1_ACT: -8.16
-  response: 7E80562136CFC04
+    PASSAT_CAM_ADJ_EXH_BANK_1_ACT: -3.536
+  response: 7E80562136CFE46

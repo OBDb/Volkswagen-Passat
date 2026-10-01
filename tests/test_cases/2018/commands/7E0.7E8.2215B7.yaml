@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2215B7
 test_cases:
 - expected_values:
-    PASSAT_ENG_OIL_SUMP_T: 68.3
-  response: 7E8056215B70B77
+    PASSAT_ENG_OIL_SUMP_T: 66.86
+  response: 7E8056215B70B6F
 - expected_values:
     PASSAT_ENG_OIL_SUMP_T: 92.96
   response: 7E8056215B70C00

@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     PASSAT_CAM_POS_DEV_BASE_POS: -0.13184
   response: 7E805621385FFFA
+- expected_values:
+    PASSAT_CAM_POS_DEV_BASE_POS: -0.08789
+  response: 7E805621385FFFC

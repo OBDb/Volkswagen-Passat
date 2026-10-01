@@ -13,6 +13,9 @@ test_cases:
     PASSAT_CAM_ADPT_INT_BANK_1: -0.36
   response: 7E805621125FFEE
 - expected_values:
+    PASSAT_CAM_ADPT_INT_BANK_1: -0.34
+  response: 7E805621125FFEF
+- expected_values:
     PASSAT_CAM_ADPT_INT_BANK_1: -0.32
   response: 7E805621125FFF0
 - expected_values:

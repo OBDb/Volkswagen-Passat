@@ -4,5 +4,11 @@ test_cases:
     PASSAT_EA888B_BOOST_P_CMD: 0
   response: 7E8046211A300
 - expected_values:
+    PASSAT_EA888B_BOOST_P_CMD: 90.19608
+  response: 7E8046211A3E6
+- expected_values:
+    PASSAT_EA888B_BOOST_P_CMD: 97.2549
+  response: 7E8046211A3F8
+- expected_values:
     PASSAT_EA888B_BOOST_P_CMD: 100
   response: 7E8046211A3FF
