@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VPWR: 13.04
+    PASSAT_VPWR: 13.04
   response: '7E8 05 62 F4 42 32 F0 '
 - expected_values:
-    VOLKSWAGEN_VPWR: 13.1
+    PASSAT_VPWR: 13.1
   response: '7E8 05 62 F4 42 33 2C '
 - expected_values:
-    VOLKSWAGEN_VPWR: 8.88
+    PASSAT_VPWR: 8.88
   response: 7E80562F44222B0
 - expected_values:
-    VOLKSWAGEN_VPWR: 11.52
+    PASSAT_VPWR: 11.52
   response: 7E80562F4422D00
 - expected_values:
-    VOLKSWAGEN_VPWR: 12.54
+    PASSAT_VPWR: 12.54
   response: 7E80562F44230FC
 - expected_values:
-    VOLKSWAGEN_VPWR: 14.86
+    PASSAT_VPWR: 14.86
   response: 7E80562F4423A0C

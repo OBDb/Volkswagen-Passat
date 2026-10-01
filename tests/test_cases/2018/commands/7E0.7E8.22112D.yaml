@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22112D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_SPARK_EFFICIENCY_DEV: 88.253
+    PASSAT_SPARK_EFF_DEV: 88.253
   response: 7E80462112D71

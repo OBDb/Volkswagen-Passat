@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221044|din=03
+test_cases:
+- expected_values:
+    PASSAT_DPF_SFC_T: 49.5
+  response: 7E8056210440C9A
+- expected_values:
+    PASSAT_DPF_SFC_T: 317.6
+  response: '7E8056210441713'
+- expected_values:
+    PASSAT_DPF_SFC_T: 3003.6
+  response: 7E8056210447FFF

@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.2211B8
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AIR_LEAKAGE: 1.8
+    PASSAT_AIR_LEAKAGE: 1.8
   response: 7E8056211B80012
 - expected_values:
-    VOLKSWAGEN_AIR_LEAKAGE: 2.9
+    PASSAT_AIR_LEAKAGE: 2.9
   response: 7E8056211B8001D
 - expected_values:
-    VOLKSWAGEN_AIR_LEAKAGE: 3
+    PASSAT_AIR_LEAKAGE: 3
   response: 7E8056211B8001E
 - expected_values:
-    VOLKSWAGEN_AIR_LEAKAGE: 3.1
+    PASSAT_AIR_LEAKAGE: 3.1
   response: 7E8056211B8001F
 - expected_values:
-    VOLKSWAGEN_AIR_LEAKAGE: 3.2
+    PASSAT_AIR_LEAKAGE: 3.2
   response: 7E8056211B80020
 - expected_values:
-    VOLKSWAGEN_AIR_LEAKAGE: 3.3
+    PASSAT_AIR_LEAKAGE: 3.3
   response: 7E8056211B80021
 - expected_values:
-    VOLKSWAGEN_AIR_LEAKAGE: 3.4
+    PASSAT_AIR_LEAKAGE: 3.4
   response: 7E8056211B80022

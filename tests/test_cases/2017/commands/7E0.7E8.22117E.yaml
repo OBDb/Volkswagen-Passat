@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22117E
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0.01
+    PASSAT_PQ35_TURB_ACT_1_B1: 0.01
   response: 7E80562117E0001
 - expected_values:
-    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 54.41
+    PASSAT_PQ35_TURB_ACT_1_B1: 54.41
   response: 7E80562117E1541
 - expected_values:
-    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 81.92
+    PASSAT_PQ35_TURB_ACT_1_B1: 81.92
   response: 7E80562117E2000
 - expected_values:
-    VOLKSWAGEN_PQ35_TURB_ACT_1_B1: 0
+    PASSAT_PQ35_TURB_ACT_1_B1: 0
   response: 7E80562117EFFFE

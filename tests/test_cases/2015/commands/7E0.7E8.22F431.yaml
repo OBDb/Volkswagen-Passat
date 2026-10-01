@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 300
+    PASSAT_CLR_DIST: 300
   response: 7E80562F431012C
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 767
+    PASSAT_CLR_DIST: 767
   response: 7E80562F43102FF
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 28672
+    PASSAT_CLR_DIST: 28672
   response: 7E80562F4317000
 - expected_values:
-    VOLKSWAGEN_CLR_DIST: 32256
+    PASSAT_CLR_DIST: 32256
   response: 7E80562F4317E00

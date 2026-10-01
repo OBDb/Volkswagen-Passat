@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221341
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_END: 0
+    PASSAT_PQ35_CAMS_END: 0
   response: '7E8056213410000'
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_END: 51
+    PASSAT_PQ35_CAMS_END: 51
   response: 7E80562134100FF
 - expected_values:
-    VOLKSWAGEN_PQ35_CAMS_END: -51.2
+    PASSAT_PQ35_CAMS_END: -51.2
   response: 7E805621341FF00

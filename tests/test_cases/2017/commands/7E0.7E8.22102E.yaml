@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22102E
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_2: 366.4
+    PASSAT_PQ35_ACCEL_PED_2: 366.4
   response: 7E80562102E0728
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_2: 508.2
+    PASSAT_PQ35_ACCEL_PED_2: 508.2
   response: 7E80562102E09ED
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_2: 718.2
+    PASSAT_PQ35_ACCEL_PED_2: 718.2
   response: 7E80562102E0E07
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_2: 1612.8
+    PASSAT_PQ35_ACCEL_PED_2: 1612.8
   response: 7E80562102E1F80

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221644
 test_cases:
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: 16.57
+    PASSAT_LATERAL_ACCEL: 16.57
   response: '7E8056216440679'
 - expected_values:
-    VOLKSWAGEN_LATERAL_ACCEL: 16.58
+    PASSAT_LATERAL_ACCEL: 16.58
   response: 7E805621644067A

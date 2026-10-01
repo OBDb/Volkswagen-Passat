@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.2238EC
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 0
+    PASSAT_PQ35_CLUTCH_1_CMD_P: 0
   response: 7E9056238EC0000
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 11.1
+    PASSAT_PQ35_CLUTCH_1_CMD_P: 11.1
   response: 7E9056238EC5604
 - expected_values:
-    VOLKSWAGEN_PQ35_CLUTCH_1_CMD_P: 2.44
+    PASSAT_PQ35_CLUTCH_1_CMD_P: 2.44
   response: 7E9056238ECF400

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22105C|din=03
+test_cases:
+- expected_values:
+    PASSAT_PQ35_GEN_LOAD: 32.61
+  response: 7E80562105C0CBD
+- expected_values:
+    PASSAT_PQ35_GEN_LOAD: 47.28
+  response: 7E80562105C1278
+- expected_values:
+    PASSAT_PQ35_GEN_LOAD: 47.68
+  response: 7E80562105C12A0

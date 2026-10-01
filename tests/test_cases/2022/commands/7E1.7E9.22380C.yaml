@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.22380C
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MQB_INPUT_SHAFT_1: 0
+    PASSAT_MQB_INPUT_SHAFT_1: 0
   response: 7E90562380C0000
 - expected_values:
-    VOLKSWAGEN_MQB_INPUT_SHAFT_1: 1841
+    PASSAT_MQB_INPUT_SHAFT_1: 1841
   response: 7E90562380C3107
 - expected_values:
-    VOLKSWAGEN_MQB_INPUT_SHAFT_1: 1534
+    PASSAT_MQB_INPUT_SHAFT_1: 1534
   response: 7E90562380CFE05

@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221097|fc=1,c=17
 test_cases:
 - expected_values:
-    VOLKSWAGEN_GENERATOR_PERFORMANCE: 0
+    PASSAT_GENERATOR_PERFORMANCE: 0
   response: '7E8056210970000'

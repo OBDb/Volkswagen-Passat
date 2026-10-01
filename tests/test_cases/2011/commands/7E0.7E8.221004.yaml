@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221004
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_V4: 0
+    PASSAT_AAT_7E0_7E0: 0
   response: '7E8056210040000'
 - expected_values:
-    VOLKSWAGEN_AAT_V4: 0.26562
+    PASSAT_AAT_7E0_7E0: 0.26562
   response: '7E8056210040022'
 - expected_values:
-    VOLKSWAGEN_AAT_V4: -1.21094
+    PASSAT_AAT_7E0_7E0: -1.21094
   response: 7E805621004FF65
 - expected_values:
-    VOLKSWAGEN_AAT_V4: -0.24219
+    PASSAT_AAT_7E0_7E0: -0.24219
   response: 7E805621004FFE1

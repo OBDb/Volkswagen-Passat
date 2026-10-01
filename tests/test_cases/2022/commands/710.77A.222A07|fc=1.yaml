@@ -1,18 +1,14 @@
 command_id: 710.77A.222A07|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BAT_V_2A07: 11.851
-    VOLKSWAGEN_SSB_V: 69.54
+    PASSAT_BAT_V_2A07: 11.851
   response: 77A05622A071EAB
 - expected_values:
-    VOLKSWAGEN_BAT_V_2A07: 14.241
-    VOLKSWAGEN_SSB_V: 69.54
+    PASSAT_BAT_V_2A07: 14.241
   response: 77A05622A072801
 - expected_values:
-    VOLKSWAGEN_BAT_V_2A07: 14.75
-    VOLKSWAGEN_SSB_V: 69.54
+    PASSAT_BAT_V_2A07: 14.75
   response: 77A05622A0729FE
 - expected_values:
-    VOLKSWAGEN_BAT_V_2A07: 14.753
-    VOLKSWAGEN_SSB_V: 69.54
+    PASSAT_BAT_V_2A07: 14.753
   response: 77A05622A072A01

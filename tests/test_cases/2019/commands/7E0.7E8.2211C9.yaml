@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2211C9
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_PMP_ADPT: -3.8
+    PASSAT_FUEL_PMP_ADPT: -3.8
   response: 7E8056211C9FFDA
 - expected_values:
-    VOLKSWAGEN_FUEL_PMP_ADPT: -2
+    PASSAT_FUEL_PMP_ADPT: -2
   response: 7E8056211C9FFEC

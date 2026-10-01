@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211E0
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CMD_CRANK_TQ: 2.5
+    PASSAT_CMD_CRANK_TQ: 2.5
   response: 7E8056211E00019
 - expected_values:
-    VOLKSWAGEN_CMD_CRANK_TQ: 28
+    PASSAT_CMD_CRANK_TQ: 28
   response: 7E8056211E00118
 - expected_values:
-    VOLKSWAGEN_CMD_CRANK_TQ: 124.9
+    PASSAT_CMD_CRANK_TQ: 124.9
   response: 7E8056211E004E1
 - expected_values:
-    VOLKSWAGEN_CMD_CRANK_TQ: -20.2
+    PASSAT_CMD_CRANK_TQ: -20.2
   response: 7E8056211E0FF36

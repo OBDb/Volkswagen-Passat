@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.223887
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 0
+  response: '7E90762388700000000'
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 111462.5
+  response: '7E90762388701021100'
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 114591.3
+  response: 7E907623887397C1100
+- expected_values:
+    PASSAT_MQB_TCM_ODO_2: 112665.5
+  response: 7E907623887FF301100

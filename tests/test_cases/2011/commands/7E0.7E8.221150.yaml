@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MISFIRES_C3: 29702
+    PASSAT_MISFIRES_C3: 29702
   response: '7E8056211507406'
 - expected_values:
-    VOLKSWAGEN_MISFIRES_C3: 29703
+    PASSAT_MISFIRES_C3: 29703
   response: '7E8056211507407'

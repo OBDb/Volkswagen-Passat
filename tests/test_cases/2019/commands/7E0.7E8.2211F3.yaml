@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211F3
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: 0
+    PASSAT_PQ35_POST_INJ_2_START: 0
   response: 7E8056211F30000
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -41
+    PASSAT_PQ35_POST_INJ_2_START: -41
   response: 7E8056211F3F7FE
 - expected_values:
-    VOLKSWAGEN_PQ35_POST_INJ_2_START: -35.5
+    PASSAT_PQ35_POST_INJ_2_START: -35.5
   response: 7E8056211F3F911

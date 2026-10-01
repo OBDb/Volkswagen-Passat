@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221105
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: 0
+    PASSAT_PQ35_INJ_DEV_CYL_2: 0
   response: '7E8056211050000'
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: 0.02
+    PASSAT_PQ35_INJ_DEV_CYL_2: 0.02
   response: '7E8056211050002'
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: -0.12
+    PASSAT_PQ35_INJ_DEV_CYL_2: -0.12
   response: 7E805621105FFF4
 - expected_values:
-    VOLKSWAGEN_PQ35_INJ_DEV_CYL_2: -0.01
+    PASSAT_PQ35_INJ_DEV_CYL_2: -0.01
   response: 7E805621105FFFF

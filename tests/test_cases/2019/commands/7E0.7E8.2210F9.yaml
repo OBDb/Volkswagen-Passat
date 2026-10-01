@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2210F9
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_OUT_T: 9.4
+    PASSAT_PQ35_DPF_OUT_T: 9.4
   response: 7E8056210F90B09
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_OUT_T: 57.9
+    PASSAT_PQ35_DPF_OUT_T: 57.9
   response: 7E8056210F90CEE
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_OUT_T: 162
+    PASSAT_PQ35_DPF_OUT_T: 162
   response: 7E8056210F910FF
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_OUT_T: 162.1
+    PASSAT_PQ35_DPF_OUT_T: 162.1
   response: 7E8056210F91100
 - expected_values:
-    VOLKSWAGEN_PQ35_DPF_OUT_T: 630
+    PASSAT_PQ35_DPF_OUT_T: 630
   response: 7E8056210F92347

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_RUNTM: 111
+    PASSAT_RUNTM: 111
   response: 7E80562F41F006F
 - expected_values:
-    VOLKSWAGEN_RUNTM: 125
+    PASSAT_RUNTM: 125
   response: 7E80562F41F007D
 - expected_values:
-    VOLKSWAGEN_RUNTM: 1501
+    PASSAT_RUNTM: 1501
   response: 7E80562F41F05DD
 - expected_values:
-    VOLKSWAGEN_RUNTM: 2802
+    PASSAT_RUNTM: 2802
   response: 7E80562F41F0AF2

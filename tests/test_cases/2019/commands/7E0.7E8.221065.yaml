@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 336.5
+    PASSAT_CYL_HEAD_T: 336.5
   response: '7E8056210651149'
 - expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 426.68
+    PASSAT_CYL_HEAD_T: 426.68
   response: 7E805621065133E
 - expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 692.72
+    PASSAT_CYL_HEAD_T: 692.72
   response: '7E8056210651904'
 - expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 736.64
+    PASSAT_CYL_HEAD_T: 736.64
   response: 7E80562106519F8
 - expected_values:
-    VOLKSWAGEN_CYL_HEAD_T: 2234.24
+    PASSAT_CYL_HEAD_T: 2234.24
   response: 7E8056210653A78
