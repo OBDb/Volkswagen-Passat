@@ -10,5 +10,5 @@ test_cases:
     PASSAT_REL_LOAD: 29.90983
   response: 7E80562121604FC
 - expected_values:
-    PASSAT_REL_LOAD: 58.01476
-  response: 7E80562121609AB
+    PASSAT_REL_LOAD: 67.06272
+  response: 7E8056212160B2D

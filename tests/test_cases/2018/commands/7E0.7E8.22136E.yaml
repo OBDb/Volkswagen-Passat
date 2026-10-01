@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22136E
 test_cases:
 - expected_values:
-    PASSAT_CAM_ADJ_INT_BANK_1_ACT: 1.376
-  response: 7E80562136E00AC
+    PASSAT_CAM_ADJ_INT_BANK_1_ACT: 0.056
+  response: 7E80562136E0007
 - expected_values:
-    PASSAT_CAM_ADJ_INT_BANK_1_ACT: 2
-  response: 7E80562136E00FA
-- expected_values:
-    PASSAT_CAM_ADJ_INT_BANK_1_ACT: 2.168
-  response: 7E80562136E010F
+    PASSAT_CAM_ADJ_INT_BANK_1_ACT: -6.184
+  response: 7E80562136EFCFB
 - expected_values:
     PASSAT_CAM_ADJ_INT_BANK_1_ACT: -0.6
   response: 7E80562136EFFB5

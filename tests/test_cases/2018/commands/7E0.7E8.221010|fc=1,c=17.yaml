@@ -4,8 +4,8 @@ test_cases:
     PASSAT_ENGINE_TORQUE: 0
   response: '7E8056210100000'
 - expected_values:
-    PASSAT_ENGINE_TORQUE: 25.3
-  response: 7E80562101000FD
+    PASSAT_ENGINE_TORQUE: 127.8
+  response: 7E80562101004FE
 - expected_values:
     PASSAT_ENGINE_TORQUE: 189
   response: '7E8056210100762'

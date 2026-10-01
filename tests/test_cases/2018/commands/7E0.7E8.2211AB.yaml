@@ -4,8 +4,8 @@ test_cases:
     PASSAT_INT_MODEL_AIR_MASS: 10.8
   response: 7E8056211AB006C
 - expected_values:
-    PASSAT_INT_MODEL_AIR_MASS: 24.7
-  response: 7E8056211AB00F7
+    PASSAT_INT_MODEL_AIR_MASS: 25.3
+  response: 7E8056211AB00FD
 - expected_values:
     PASSAT_INT_MODEL_AIR_MASS: 78.5
   response: 7E8056211AB0311

@@ -16,6 +16,12 @@ test_cases:
     PASSAT_LATERAL_ACCEL: 0.04
   response: '7E8056216440004'
 - expected_values:
+    PASSAT_LATERAL_ACCEL: 0.05
+  response: '7E8056216440005'
+- expected_values:
+    PASSAT_LATERAL_ACCEL: -0.22
+  response: 7E805621644FFEA
+- expected_values:
     PASSAT_LATERAL_ACCEL: -0.03
   response: 7E805621644FFFD
 - expected_values:

@@ -4,8 +4,11 @@ test_cases:
     PASSAT_AVG_INJ_TIME: 0.632
   response: 7E80762128C0000062C
 - expected_values:
-    PASSAT_AVG_INJ_TIME: 0.8264
-  response: 7E80762128C00000812
+    PASSAT_AVG_INJ_TIME: 1.7428
+  response: 7E80762128C00001105
 - expected_values:
     PASSAT_AVG_INJ_TIME: 2.5596
   response: 7E80762128C000018FF
+- expected_values:
+    PASSAT_AVG_INJ_TIME: 2.6756
+  response: 7E80762128C00001A21

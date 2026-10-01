@@ -16,6 +16,9 @@ test_cases:
     PASSAT_TQ_LOSS_ADPT_AC_COMP_7E0: -4.7
   response: 7E805621223FFD1
 - expected_values:
+    PASSAT_TQ_LOSS_ADPT_AC_COMP_7E0: -3.9
+  response: 7E805621223FFD9
+- expected_values:
     PASSAT_TQ_LOSS_ADPT_AC_COMP_7E0: -3.4
   response: 7E805621223FFDE
 - expected_values:
