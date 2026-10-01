@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211CF
+test_cases:
+- expected_values:
+    PASSAT_BRAKE_BOOSTER_P: 1001.74499
+  response: 7E8056211CF642D
+- expected_values:
+    PASSAT_BRAKE_BOOSTER_P: 1009.83082
+  response: 7E8056211CF64FC
+- expected_values:
+    PASSAT_BRAKE_BOOSTER_P: 1010.76831
+  response: 7E8056211CF6514
