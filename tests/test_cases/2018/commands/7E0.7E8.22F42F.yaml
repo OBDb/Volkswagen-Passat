@@ -16,6 +16,12 @@ test_cases:
     PASSAT_FLI_INPUT: 21.17647
   response: 7E80462F42F36
 - expected_values:
+    PASSAT_FLI_INPUT: 89.80392
+  response: 7E80462F42FE5
+- expected_values:
+    PASSAT_FLI_INPUT: 91.37255
+  response: 7E80462F42FE9
+- expected_values:
     PASSAT_FLI_INPUT: 92.54902
   response: 7E80462F42FEC
 - expected_values:

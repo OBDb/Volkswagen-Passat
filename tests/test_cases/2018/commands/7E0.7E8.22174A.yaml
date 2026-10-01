@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     PASSAT_EXH_CAM_ADPT_BIAS: 0.92287
   response: 7E80562174A002A
+- expected_values:
+    PASSAT_EXH_CAM_ADPT_BIAS: 1.0547
+  response: 7E80562174A0030

@@ -4,8 +4,8 @@ test_cases:
     PASSAT_HIGH_FUEL_P_ACT: 3.868
   response: 7E80562159F1E38
 - expected_values:
-    PASSAT_HIGH_FUEL_P_ACT: 9.714
-  response: 7E80562159F4BE4
+    PASSAT_HIGH_FUEL_P_ACT: 12.67
+  response: 7E80562159F62FC
 - expected_values:
     PASSAT_HIGH_FUEL_P_ACT: 16.898
   response: 7E80562159F8404

@@ -4,8 +4,8 @@ test_cases:
     PASSAT_VLV_TIM_DIFF_ACT_SET: 0.28125
   response: 7E8056210EC0012
 - expected_values:
-    PASSAT_VLV_TIM_DIFF_ACT_SET: -2.15625
-  response: 7E8056210ECFF76
+    PASSAT_VLV_TIM_DIFF_ACT_SET: -3.09375
+  response: 7E8056210ECFF3A
 - expected_values:
     PASSAT_VLV_TIM_DIFF_ACT_SET: -0.04688
   response: 7E8056210ECFFFD

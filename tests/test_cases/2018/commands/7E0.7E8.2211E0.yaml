@@ -7,8 +7,8 @@ test_cases:
     PASSAT_CMD_CRANK_TQ: 28
   response: 7E8056211E00118
 - expected_values:
-    PASSAT_CMD_CRANK_TQ: 124.9
-  response: 7E8056211E004E1
+    PASSAT_CMD_CRANK_TQ: 102
+  response: 7E8056211E003FC
 - expected_values:
     PASSAT_CMD_CRANK_TQ: -20.2
   response: 7E8056211E0FF36

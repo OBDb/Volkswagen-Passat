@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221135
+test_cases:
+- expected_values:
+    PASSAT_COOLANT_T: null
+  response: 7E805621135FAAB

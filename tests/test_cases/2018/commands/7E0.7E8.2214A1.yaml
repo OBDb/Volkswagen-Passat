@@ -10,5 +10,8 @@ test_cases:
     PASSAT_RATED_DRIVE_TQ: 434
   response: 7E8076214A1000010F4
 - expected_values:
-    PASSAT_RATED_DRIVE_TQ: -64
-  response: 7E8076214A1FFFFFD80
+    PASSAT_RATED_DRIVE_TQ: -110
+  response: 7E8076214A1FFFFFBB4
+- expected_values:
+    PASSAT_RATED_DRIVE_TQ: -36
+  response: 7E8076214A1FFFFFE98

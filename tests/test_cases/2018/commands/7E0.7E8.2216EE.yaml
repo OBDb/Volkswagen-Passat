@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2216EE
 test_cases:
 - expected_values:
-    PASSAT_BOOST_P_ACTUATOR_CMD: 5.26114
-  response: 7E8056216EE01AF
+    PASSAT_BOOST_P_ACTUATOR_CMD: 4.54094
+  response: 7E8056216EE0174
 - expected_values:
     PASSAT_BOOST_P_ACTUATOR_CMD: 6.22548
   response: 7E8056216EE01FE

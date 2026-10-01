@@ -7,6 +7,9 @@ test_cases:
     PASSAT_COOLANT_T_AT_ENGINE_START: 17.2
   response: 7E8056212910B57
 - expected_values:
+    PASSAT_COOLANT_T_AT_ENGINE_START: 19.2
+  response: 7E8056212910B6B
+- expected_values:
     PASSAT_COOLANT_T_AT_ENGINE_START: 21.1
   response: 7E8056212910B7E
 - expected_values:
