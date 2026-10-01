@@ -1,8 +1,11 @@
 command_id: 710.77A.222A07|fc=1
 test_cases:
 - expected_values:
-    PASSAT_BAT_V_2A07: 4
-  response: 77A05622A070000
+    PASSAT_BAT_V_2A07: 11.928
+  response: 77A05622A071EF8
+- expected_values:
+    PASSAT_BAT_V_2A07: 12.448
+  response: 77A05622A072100
 - expected_values:
     PASSAT_BAT_V_2A07: 14.495
   response: 77A05622A0728FF
