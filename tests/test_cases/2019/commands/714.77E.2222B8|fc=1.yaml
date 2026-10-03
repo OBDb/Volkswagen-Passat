@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     PASSAT_ODO_MILEAGE_HR: 147082.496
   response: 77E076222B808C44D00
+- expected_values:
+    PASSAT_ODO_MILEAGE_HR: 147225.243
+  response: 77E076222B808C67A9B

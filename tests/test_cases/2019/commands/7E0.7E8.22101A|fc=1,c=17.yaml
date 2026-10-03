@@ -4,8 +4,8 @@ test_cases:
     PASSAT_A_C_COMPRESSOR_TORQUE: 0
   response: 7E80562101A0000
 - expected_values:
-    PASSAT_A_C_COMPRESSOR_TORQUE: 1.3
-  response: 7E80562101A000D
+    PASSAT_A_C_COMPRESSOR_TORQUE: 0.1
+  response: 7E80562101A0001
 - expected_values:
     PASSAT_A_C_COMPRESSOR_TORQUE: -26.5
   response: 7E80562101AFEF7
