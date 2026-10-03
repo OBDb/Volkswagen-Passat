@@ -4,5 +4,8 @@ test_cases:
     PASSAT_ODO_DASH: 147103
   response: 77E06622203023E9F
 - expected_values:
-    PASSAT_ODO_DASH: 147117
-  response: 77E06622203023EAD
+    PASSAT_ODO_DASH: 147199
+  response: 77E06622203023EFF
+- expected_values:
+    PASSAT_ODO_DASH: 147200
+  response: 77E06622203023F00

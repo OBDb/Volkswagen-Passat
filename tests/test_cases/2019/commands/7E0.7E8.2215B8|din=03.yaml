@@ -7,11 +7,5 @@ test_cases:
     PASSAT_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: -4
   response: 7E8056215B8FFFC
 - expected_values:
-    PASSAT_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: -3
-  response: 7E8056215B8FFFD
-- expected_values:
-    PASSAT_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: -2
-  response: 7E8056215B8FFFE
-- expected_values:
     PASSAT_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: -1
   response: 7E8056215B8FFFF

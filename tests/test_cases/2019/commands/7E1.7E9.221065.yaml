@@ -4,11 +4,11 @@ test_cases:
     PASSAT_CLU_1_T_TIME_RANGE_0: 1146.98
   response: 7E90762106505E07218
 - expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 569.56
+  response: 7E9076210653E6F7918
+- expected_values:
     PASSAT_CLU_1_T_TIME_RANGE_0: 57.98
   response: 7E907621065530B6E18
-- expected_values:
-    PASSAT_CLU_1_T_TIME_RANGE_0: 462.54
-  response: 7E907621065575A7318
 - expected_values:
     PASSAT_CLU_1_T_TIME_RANGE_0: 1278.22
   response: 7E907621065A7F97218
