@@ -7,5 +7,5 @@ test_cases:
     PASSAT_RPM: 767.5
   response: 7E80562F40C0BFE
 - expected_values:
-    PASSAT_RPM: 3757.5
-  response: 7E80562F40C3AB6
+    PASSAT_RPM: 4291
+  response: 7E80562F40C430C
