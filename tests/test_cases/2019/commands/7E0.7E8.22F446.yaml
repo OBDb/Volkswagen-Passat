@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F446
 test_cases:
 - expected_values:
-    PASSAT_AAT_7E0: 13
-  response: 7E80462F44635
+    PASSAT_AAT_7E0: 12
+  response: 7E80462F44634
 - expected_values:
     PASSAT_AAT_7E0: 33
   response: 7E80462F44649
