@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221AC0|f=2014-
+test_cases:
+- expected_values:
+    PASSAT_MQB_DPF_REGEN_TIME_COUNTER: 0
+  response: 7E805621AC00000
+- expected_values:
+    PASSAT_MQB_DPF_REGEN_TIME_COUNTER: 654.08
+  response: 7E805621AC003FE
+- expected_values:
+    PASSAT_MQB_DPF_REGEN_TIME_COUNTER: 3241.6
+  response: 7E805621AC013C9
