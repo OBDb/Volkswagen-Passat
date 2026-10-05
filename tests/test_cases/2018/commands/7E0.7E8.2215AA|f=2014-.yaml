@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215AA|f=2014-
+test_cases:
+- expected_values:
+    PASSAT_PQ35_SELECTED_GEAR: 0
+  response: 7E8056215AA0000
+- expected_values:
+    PASSAT_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA02FF
+- expected_values:
+    PASSAT_PQ35_SELECTED_GEAR: 13
+  response: 7E8056215AA0D05
