@@ -7,8 +7,8 @@ test_cases:
     PASSAT_PQ35_EXH_GAS_T_1: 238.8
   response: 7E8056210FB13FF
 - expected_values:
-    PASSAT_PQ35_EXH_GAS_T_1: 469.3
-  response: 7E8056210FB1D00
+    PASSAT_PQ35_EXH_GAS_T_1: 290.1
+  response: 7E8056210FB1600
 - expected_values:
     PASSAT_PQ35_EXH_GAS_T_1: 864.4
   response: 7E8056210FB2C6F
