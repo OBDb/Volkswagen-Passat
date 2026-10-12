@@ -226,7 +226,7 @@
   "signals": [
     {"id": "PASSAT_OUTSIDE_T", "path": "Engine", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Outside temperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2211"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2211"}, "freq": 1, "filter": { "to": 2010, "from": 2014 }, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
     {"id": "PASSAT_PQ35_CHG_AIR_P", "path": "Battery", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Charge air pressure"}
   ]},
@@ -314,15 +314,15 @@
   "signals": [
     {"id": "PASSAT_CLIMATE_FR_R_T_FLP_ACT_VALUE", "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 100, "div": 2, "unit": "percent" }, "name": "Front right temperature flap actual value"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "263D"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2020, 2021], "from": 2023 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "263D"}, "freq": 5, "filter": { "to": 2010, "from": 2014 }, "dbgfilter": { "to": 2015, "years": [2020, 2021], "from": 2023 },
   "signals": [
     {"id": "PASSAT_CLIMATE_RR_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "mul": 0.333, "unit": "celsius" }, "name": "Rear deflector temperature"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "26ED"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2020, 2021], "from": 2023 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "26ED"}, "freq": 5, "filter": { "to": 2010, "from": 2014 }, "dbgfilter": { "to": 2015, "years": [2020, 2021], "from": 2023 },
   "signals": [
     {"id": "PASSAT_CLIMATE_AIR_POLUTION_LVL", "path": "Engine", "fmt": { "len": 8, "max": 12.7, "min": -12.8, "div": 10, "sign": true, "unit": "scalar" }, "name": "Air pollution level"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "482B"}, "freq": 2, "dbgfilter": { "to": 2016, "years": [2019, 2020, 2021], "from": 2023 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "482B"}, "freq": 2, "filter": { "to": 2010, "from": 2014 }, "dbgfilter": { "to": 2016, "years": [2019, 2020, 2021], "from": 2023 },
   "signals": [
     {"id": "PASSAT_CLIMATE_A_C_CLCH", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "A/C clutch"}
   ]},
