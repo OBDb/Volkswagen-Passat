@@ -1,4 +1,4 @@
-command_id: 746.7B0.22482B|fc=1
+command_id: 746.7B0.22482B|fc=1,f=2014-;-2010
 test_cases:
 - expected_values:
     PASSAT_CLIMATE_A_C_CLCH: 0
