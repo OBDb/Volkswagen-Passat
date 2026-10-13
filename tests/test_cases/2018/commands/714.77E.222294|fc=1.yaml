@@ -1,0 +1,17 @@
+command_id: 714.77E.222294|fc=1
+test_cases:
+- expected_values:
+    PASSAT_DTE: 415
+  response: 77E05622294019F
+- expected_values:
+    PASSAT_DTE: 416
+  response: 77E0562229401A0
+- expected_values:
+    PASSAT_DTE: 417
+  response: 77E0562229401A1
+- expected_values:
+    PASSAT_DTE: 418
+  response: 77E0562229401A2
+- expected_values:
+    PASSAT_DTE: 419
+  response: 77E0562229401A3
