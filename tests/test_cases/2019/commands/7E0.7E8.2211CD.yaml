@@ -1,11 +1,17 @@
 command_id: 7E0.7E8.2211CD
 test_cases:
 - expected_values:
-    PASSAT_TCO_1_SYS: -40
+    PASSAT_TCO_1_SYS: null
   response: 7E8056211CD0000
 - expected_values:
-    PASSAT_TCO_1_SYS: -17
+    PASSAT_TCO_1_SYS: 20.69141
+  response: 7E8056211CD14B1
+- expected_values:
+    PASSAT_TCO_1_SYS: 23.98828
   response: 7E8056211CD17FD
 - expected_values:
-    PASSAT_TCO_1_SYS: 14
+    PASSAT_TCO_1_SYS: 27
+  response: 7E8056211CD1B00
+- expected_values:
+    PASSAT_TCO_1_SYS: 54.39844
   response: 7E8056211CD3666

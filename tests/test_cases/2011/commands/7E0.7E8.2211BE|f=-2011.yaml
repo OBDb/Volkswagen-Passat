@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211BE|f=-2011
 test_cases:
 - expected_values:
-    PASSAT_PQ46_OIL_T_2: -3.7
+    PASSAT_PQ46_OIL_T_2: -37
   response: 7E8056211BEFFDB
 - expected_values:
-    PASSAT_PQ46_OIL_T_2: -3.4
+    PASSAT_PQ46_OIL_T_2: -34
   response: 7E8056211BEFFDE
 - expected_values:
-    PASSAT_PQ46_OIL_T_2: -3.2
+    PASSAT_PQ46_OIL_T_2: -32
   response: 7E8056211BEFFE0
