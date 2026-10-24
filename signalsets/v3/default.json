@@ -1,6 +1,7 @@
 { "ecu": [
     { "hdr": "710", "type": "gateway" },
     { "hdr": "714", "type": "cluster" },
+    { "hdr": "746", "type": "hvac" },
     { "hdr": "7E0", "type": "engine" },
     { "hdr": "7E1", "type": "transmission" },
     { "hdr": "7E5", "type": "battery" }
