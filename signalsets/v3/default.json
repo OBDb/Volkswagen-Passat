@@ -893,7 +893,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "filter": { "to": 2011 }, "dbgfilter": { "to": 2010 },
   "signals": [
-    {"id": "PASSAT_PQ46_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -40, "div": 10, "sign": true, "unit": "celsius" }, "name": "Oil temperature variant", "suggestedMetric": "engineOilTemperature"}
+    {"id": "PASSAT_PQ46_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Oil temperature variant, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "filter": { "from": 2012 }, "dbgfilter": { "years": [2014], "from": 2021 },
   "signals": [
@@ -929,7 +929,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CD"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
-    {"id": "PASSAT_TCO_1_SYS", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "TCO_1_SYS"}
+    {"id": "PASSAT_TCO_1_SYS", "path": "Engine", "fmt": { "len": 16, "max": 255.996, "div": 256, "nullmin": 0, "unit": "celsius" }, "name": "TCO_1_SYS"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CE"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
@@ -1221,7 +1221,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13F2"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
-    {"id": "PASSAT_IGA_CYL_KNK_0", "path": "Engine", "fmt": { "len": 8, "max": 47.625, "min": -48, "mul": 3, "div": 8, "add": -48, "unit": "degrees" }, "name": "IGA_CYL_KNK, 0"}
+    {"id": "PASSAT_IGA_CYL_KNK_0", "path": "Engine", "fmt": { "len": 32, "max": 4294967295, "unit": "scalar" }, "name": "IGA_CYL_KNK, 0, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13F3"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
