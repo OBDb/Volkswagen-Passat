@@ -1,11 +1,11 @@
-command_id: 7E0.7E8.2211BE|f=-2011
+command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    PASSAT_PQ46_OIL_T_2: -37
+    PASSAT_PQ35_OIL_T_2: null
   response: 7E8056211BEFFDB
 - expected_values:
-    PASSAT_PQ46_OIL_T_2: -34
+    PASSAT_PQ35_OIL_T_2: null
   response: 7E8056211BEFFDE
 - expected_values:
-    PASSAT_PQ46_OIL_T_2: -32
+    PASSAT_PQ35_OIL_T_2: null
   response: 7E8056211BEFFE0
