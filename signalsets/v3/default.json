@@ -891,13 +891,9 @@
   "signals": [
     {"id": "PASSAT_OIL_LEVEL_WARN", "path": "Fluids", "fmt": { "len": 16, "max": 26.2, "div": 2500, "unit": "centimeters" }, "name": "Oil level warning threshold"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "filter": { "to": 2011 }, "dbgfilter": { "to": 2010 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2014], "from": 2021 },
   "signals": [
-    {"id": "PASSAT_PQ46_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Oil temperature variant, raw"}
-  ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "filter": { "from": 2012 }, "dbgfilter": { "years": [2014], "from": 2021 },
-  "signals": [
-    {"id": "PASSAT_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -273.1, "div": 10, "add": -273.1, "nullmax": 300, "unit": "celsius" }, "name": "Oil temperature variant", "suggestedMetric": "engineOilTemperature"}
+    {"id": "PASSAT_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -60, "nullmax": 200, "unit": "celsius" }, "name": "Oil temperature variant", "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BF"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2020 },
   "signals": [
