@@ -10,3 +10,13 @@ test_cases:
     CACT_22: -40
     CACT_22_SUP: 0
   response: '7E80741770352550000'
+- expected_values:
+    CACT_11: 60
+    CACT_11_SUP: 1
+    CACT_12: 43
+    CACT_12_SUP: 1
+    CACT_21: -40
+    CACT_21_SUP: 0
+    CACT_22: -40
+    CACT_22_SUP: 0
+  response: '7E80741770364530000'
