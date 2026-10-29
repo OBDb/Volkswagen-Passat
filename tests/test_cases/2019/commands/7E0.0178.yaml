@@ -13,6 +13,18 @@ test_cases:
     7E8100B41780F067A06
     7E821A405FB05DE5555
 - expected_values:
+    EGT11: 132.8
+    EGT11_SUP: 1
+    EGT12: 100.3
+    EGT12_SUP: 1
+    EGT13: 66
+    EGT13_SUP: 1
+    EGT14: 53.1
+    EGT14_SUP: 1
+  response: |-
+    7E8100B41780F06C005
+    7E8217B042403A35555
+- expected_values:
     EGT11: 133.5
     EGT11_SUP: 1
     EGT12: 135.3
@@ -49,6 +61,18 @@ test_cases:
     7E8100B41780F06FC06
     7E821F6065C06A85555
 - expected_values:
+    EGT11: 140.8
+    EGT11_SUP: 1
+    EGT12: 139.6
+    EGT12_SUP: 1
+    EGT13: 129.2
+    EGT13_SUP: 1
+    EGT14: 116.9
+    EGT14_SUP: 1
+  response: |-
+    7E8100B41780F071007
+    7E82104069C06215555
+- expected_values:
     EGT11: 149.5
     EGT11_SUP: 1
     EGT12: 137.6
@@ -61,17 +85,17 @@ test_cases:
     7E8100B41780F076706
     7E821F006F207B75555
 - expected_values:
-    EGT11: 152.5
+    EGT11: 153.2
     EGT11_SUP: 1
-    EGT12: 140.2
+    EGT12: 172.8
     EGT12_SUP: 1
-    EGT13: 138.5
+    EGT13: 224
     EGT13_SUP: 1
-    EGT14: 144.3
+    EGT14: 242.7
     EGT14_SUP: 1
   response: |-
-    7E8100B41780F078507
-    7E8210A06F907335555
+    7E8100B41780F078C08
+    7E821500A500B0B5555
 - expected_values:
     EGT11: 154.2
     EGT11_SUP: 1
@@ -85,29 +109,41 @@ test_cases:
     7E8100B41780F079607
     7E82124070A07C05555
 - expected_values:
-    EGT11: 157.8
+    EGT11: 160.8
     EGT11_SUP: 1
-    EGT12: 147.7
+    EGT12: 148.7
     EGT12_SUP: 1
-    EGT13: 145.6
+    EGT13: 149.6
     EGT13_SUP: 1
-    EGT14: 166.8
+    EGT14: 137.6
     EGT14_SUP: 1
   response: |-
-    7E8100B41780F07BA07
-    7E82155074008145555
+    7E8100B41780F07D807
+    7E8215F076806F05555
 - expected_values:
     EGT11: 164.5
     EGT11_SUP: 1
-    EGT12: 160.1
+    EGT12: 152.2
     EGT12_SUP: 1
-    EGT13: 176.2
+    EGT13: 152.3
     EGT13_SUP: 1
-    EGT14: 173.1
+    EGT14: 142.7
     EGT14_SUP: 1
   response: |-
     7E8100B41780F07FD07
-    7E821D1087208535555
+    7E82182078307235555
+- expected_values:
+    EGT11: 164.8
+    EGT11_SUP: 1
+    EGT12: 152.2
+    EGT12_SUP: 1
+    EGT13: 151.5
+    EGT13_SUP: 1
+    EGT14: 140.5
+    EGT14_SUP: 1
+  response: |-
+    7E8100B41780F080007
+    7E82182077B070D5555
 - expected_values:
     EGT11: 190.1
     EGT11_SUP: 1
@@ -121,30 +157,6 @@ test_cases:
     7E8100B41780F08FD09
     7E8217809700E405555
 - expected_values:
-    EGT11: 190.5
-    EGT11_SUP: 1
-    EGT12: 174.8
-    EGT12_SUP: 1
-    EGT13: 160.6
-    EGT13_SUP: 1
-    EGT14: 143.3
-    EGT14_SUP: 1
-  response: |-
-    7E8100B41780F090108
-    7E8216407D607295555
-- expected_values:
-    EGT11: 203.8
-    EGT11_SUP: 1
-    EGT12: 159.9
-    EGT12_SUP: 1
-    EGT13: 110.1
-    EGT13_SUP: 1
-    EGT14: 116.9
-    EGT14_SUP: 1
-  response: |-
-    7E8100B41780F098607
-    7E821CF05DD06215555
-- expected_values:
     EGT11: 364.4
     EGT11_SUP: 1
     EGT12: 356.2
@@ -156,6 +168,18 @@ test_cases:
   response: |-
     7E8100B41780F0FCC0F
     7E8217A11180CCA5555
+- expected_values:
+    EGT11: 378
+    EGT11_SUP: 1
+    EGT12: 320.3
+    EGT12_SUP: 1
+    EGT13: 358.7
+    EGT13_SUP: 1
+    EGT14: 285.3
+    EGT14_SUP: 1
+  response: |-
+    7E8100B41780F10540E
+    7E821130F930CB55555
 - expected_values:
     EGT11: 783.5
     EGT11_SUP: 1
