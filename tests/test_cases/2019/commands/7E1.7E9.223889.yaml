@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     PASSAT_MQB_TCM_DRIVING_TIME_SPORTY: 4
   response: '7E90462388904'
+- expected_values:
+    PASSAT_MQB_TCM_DRIVING_TIME_SPORTY: 5
+  response: '7E90462388905'

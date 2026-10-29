@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     PASSAT_BAT_INTERNAL_RES_RAW: 5
   response: 77A04622A2519
+- expected_values:
+    PASSAT_BAT_INTERNAL_RES_RAW: 5.2
+  response: 77A04622A251A

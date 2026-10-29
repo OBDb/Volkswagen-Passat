@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.223888
 test_cases:
 - expected_values:
+    PASSAT_MQB_TCM_DRIVING_TIME_ECOLOGICAL: 94
+  response: 7E9046238885E
+- expected_values:
     PASSAT_MQB_TCM_DRIVING_TIME_ECOLOGICAL: 95
   response: 7E9046238885F
 - expected_values:

@@ -13,5 +13,8 @@ test_cases:
     PASSAT_ANALYSIS_CLU_1_T_1: 671.8
   response: 7E9076210663683D710
 - expected_values:
+    PASSAT_ANALYSIS_CLU_1_T_1: 857.54
+  response: 7E9076210667DA70911
+- expected_values:
     PASSAT_ANALYSIS_CLU_1_T_1: 409.32
   response: 7E907621066F24FD210

@@ -7,8 +7,8 @@ test_cases:
     PASSAT_CHG_P_REGULATOR_LO: 4
   response: 7E8056216EC0014
 - expected_values:
-    PASSAT_CHG_P_REGULATOR_LO: 48
-  response: 7E8056216EC00F0
+    PASSAT_CHG_P_REGULATOR_LO: 48.6
+  response: 7E8056216EC00F3
 - expected_values:
     PASSAT_CHG_P_REGULATOR_LO: 266
   response: 7E8056216EC0532
