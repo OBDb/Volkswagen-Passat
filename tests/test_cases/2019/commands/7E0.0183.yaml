@@ -15,3 +15,17 @@ test_cases:
   response: |-
     7E8100B418303004DFF
     7E821FF000000005555
+- expected_values:
+    NOX11_NA: 0
+    NOX11_SUP: 1
+    NOX12_NA: 0
+    NOX12_SUP: 1
+    NOX21: 0
+    NOX21_NA: 0
+    NOX21_SUP: 0
+    NOX22: 0
+    NOX22_NA: 0
+    NOX22_SUP: 0
+  response: |-
+    7E8100B418303FFFFFF
+    7E821FF000000005555
