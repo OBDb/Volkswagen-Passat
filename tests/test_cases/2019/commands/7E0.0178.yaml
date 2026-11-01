@@ -1,6 +1,18 @@
 command_id: 7E0.0178
 test_cases:
 - expected_values:
+    EGT11: 102.9
+    EGT11_SUP: 1
+    EGT12: 60.4
+    EGT12_SUP: 1
+    EGT13: 22.7
+    EGT13_SUP: 1
+    EGT14: 6.5
+    EGT14_SUP: 1
+  response: |-
+    7E8100B41780F059503
+    7E821EC027301D15555
+- expected_values:
     EGT11: 122.2
     EGT11_SUP: 1
     EGT12: 139.6
@@ -12,18 +24,6 @@ test_cases:
   response: |-
     7E8100B41780F065607
     7E82104097709E15555
-- expected_values:
-    EGT11: 132.8
-    EGT11_SUP: 1
-    EGT12: 100.3
-    EGT12_SUP: 1
-    EGT13: 66
-    EGT13_SUP: 1
-    EGT14: 53.1
-    EGT14_SUP: 1
-  response: |-
-    7E8100B41780F06C005
-    7E8217B042403A35555
 - expected_values:
     EGT11: 133.5
     EGT11_SUP: 1
