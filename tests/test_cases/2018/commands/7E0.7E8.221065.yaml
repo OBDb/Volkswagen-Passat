@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PASSAT_CYL_HEAD_T: 199.52
   response: 7E8056210650E50
+- expected_values:
+    PASSAT_CYL_HEAD_T: null
+  response: 7E8056210651EF3

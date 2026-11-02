@@ -1,0 +1,11 @@
+command_id: 712.77C.221805|fc=1
+test_cases:
+- expected_values:
+    PASSAT_STEER_WHL_TQ_SENS_1: -0.2037
+  response: 77C07621805FFC40000
+- expected_values:
+    PASSAT_STEER_WHL_TQ_SENS_1: -0.1993
+  response: 77C07621805FFC50000
+- expected_values:
+    PASSAT_STEER_WHL_TQ_SENS_1: -0.19491
+  response: 77C07621805FFC60000

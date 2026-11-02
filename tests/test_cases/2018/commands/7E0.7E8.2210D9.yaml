@@ -4,5 +4,5 @@ test_cases:
     PASSAT_PQ35_INJ_2_RAIL_P_2: 0.0008
   response: 7E8056210D90010
 - expected_values:
-    PASSAT_PQ35_INJ_2_RAIL_P_2: 0.0052
-  response: 7E8056210D90068
+    PASSAT_PQ35_INJ_2_RAIL_P_2: -0.006
+  response: 7E8056210D9FF88

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211CD
+test_cases:
+- expected_values:
+    PASSAT_TCO_1_SYS: 26.42578
+  response: 7E8056211CD1A6D
+- expected_values:
+    PASSAT_TCO_1_SYS: 54.39844
+  response: 7E8056211CD3666

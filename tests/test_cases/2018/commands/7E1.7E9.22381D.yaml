@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22381D
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_EOP_ACTUAL: 1.22
+  response: 7E90562381D7A00
+- expected_values:
+    PASSAT_MQB_TCM_EOP_ACTUAL: 1.23
+  response: 7E90562381D7B00
+- expected_values:
+    PASSAT_MQB_TCM_EOP_ACTUAL: 1.25
+  response: 7E90562381D7D00

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2216ED
 test_cases:
 - expected_values:
+    PASSAT_CHG_P_REGULATOR_HI: 28
+  response: 7E8056216ED008C
+- expected_values:
     PASSAT_CHG_P_REGULATOR_HI: 463
   response: 7E8056216ED090B
 - expected_values:

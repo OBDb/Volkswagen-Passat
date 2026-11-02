@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PASSAT_BOOST_P_ACTUATOR_CMD: 100
   response: 7E8056216EE2F02
+- expected_values:
+    PASSAT_BOOST_P_ACTUATOR_CMD: 100
+  response: 7E8056216EE61A7

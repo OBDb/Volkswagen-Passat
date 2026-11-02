@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.223852
+test_cases:
+- expected_values:
+    PASSAT_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E90562385280FC
+- expected_values:
+    PASSAT_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E90562385281FC
+- expected_values:
+    PASSAT_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E90562385282FC
+- expected_values:
+    PASSAT_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E90562385284FC
+- expected_values:
+    PASSAT_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0
+  response: 7E90562385286FC

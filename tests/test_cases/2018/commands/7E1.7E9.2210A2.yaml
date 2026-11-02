@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2210A2
+test_cases:
+- expected_values:
+    PASSAT_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G7: -10.84
+  response: 7E9056210A2C4FB
+- expected_values:
+    PASSAT_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G7: -10.79
+  response: 7E9056210A2C9FB

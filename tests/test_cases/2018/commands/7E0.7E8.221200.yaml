@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PASSAT_EA888B_BOOST_P_CTRL_1: 0
   response: '7E80462120000'
+- expected_values:
+    PASSAT_EA888B_BOOST_P_CTRL_1: 0
+  response: '7E8056212000000'

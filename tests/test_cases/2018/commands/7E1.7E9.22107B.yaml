@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22107B
+test_cases:
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_1: 616.86
+  response: 7E90762107B7B78B70A

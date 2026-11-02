@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.22028D
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_ECU_T: 35
+  response: 7E90562028D2300
+- expected_values:
+    PASSAT_MQB_TCM_ECU_T: 41
+  response: 7E90562028D2900
+- expected_values:
+    PASSAT_MQB_TCM_ECU_T: 45
+  response: 7E90562028D2D00
+- expected_values:
+    PASSAT_MQB_TCM_ECU_T: 48
+  response: 7E90562028D3000
+- expected_values:
+    PASSAT_MQB_TCM_ECU_T: 49
+  response: 7E90562028D3100
+- expected_values:
+    PASSAT_MQB_TCM_ECU_T: 50
+  response: 7E90562028D3200
+- expected_values:
+    PASSAT_MQB_TCM_ECU_T: 52
+  response: 7E90562028D3400

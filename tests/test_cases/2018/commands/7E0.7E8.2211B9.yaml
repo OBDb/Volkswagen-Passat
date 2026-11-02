@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     PASSAT_OIL_P_VLV_SWITCH: 1
   response: 7E8046211B901
+- expected_values:
+    PASSAT_OIL_P_VLV_SWITCH: 56
+  response: 7E8046211B938

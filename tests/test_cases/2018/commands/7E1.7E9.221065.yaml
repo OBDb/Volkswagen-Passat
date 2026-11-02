@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.221065
+test_cases:
+- expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 788.5
+  response: 7E907621065019A6F18
+- expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 615.06
+  response: 7E90762106521786F18
+- expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 743.08
+  response: 7E90762106522916F18
+- expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 861.7
+  response: 7E9076210654DA86F18
+- expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 931.12
+  response: 7E907621065DCB56F18
+- expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 972.44
+  response: 7E907621065EEBD6F18
+- expected_values:
+    PASSAT_CLU_1_T_TIME_RANGE_0: 1028.96
+  response: 7E907621065F8C86F18
