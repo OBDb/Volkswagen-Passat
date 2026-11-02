@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.22102B
+test_cases:
+- expected_values:
+    PASSAT_PQ35_CLUTCH_1_T: 37
+  response: 7E90562102B2500
+- expected_values:
+    PASSAT_PQ35_CLUTCH_1_T: 43
+  response: 7E90562102B2B00
+- expected_values:
+    PASSAT_PQ35_CLUTCH_1_T: 46
+  response: 7E90562102B2E00
+- expected_values:
+    PASSAT_PQ35_CLUTCH_1_T: 50
+  response: 7E90562102B3200
+- expected_values:
+    PASSAT_PQ35_CLUTCH_1_T: 52
+  response: 7E90562102B3400

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     PASSAT_PQ35_INJ_3_RAIL_P_2: 0.056
   response: 7E8056210D20460
+- expected_values:
+    PASSAT_PQ35_INJ_3_RAIL_P_2: -0.0096
+  response: 7E8056210D2FF40

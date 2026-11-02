@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22383D
+test_cases:
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 81.3
+  response: 7E90562383D2D03
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 85
+  response: 7E90562383D5203
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 88.6
+  response: 7E90562383D7603
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 92.3
+  response: 7E90562383D9B03

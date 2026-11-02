@@ -1,0 +1,23 @@
+command_id: 710.77A.222A1C|fc=1
+test_cases:
+- expected_values:
+    PASSAT_GEN_CURRENT: 23.8
+  response: 77A05622A1C0094
+- expected_values:
+    PASSAT_GEN_CURRENT: 24
+  response: 77A05622A1C0096
+- expected_values:
+    PASSAT_GEN_CURRENT: 24.1
+  response: 77A05622A1C0097
+- expected_values:
+    PASSAT_GEN_CURRENT: 29.7
+  response: 77A05622A1C00CF
+- expected_values:
+    PASSAT_GEN_CURRENT: 30
+  response: 77A05622A1C00D2
+- expected_values:
+    PASSAT_GEN_CURRENT: 30.4
+  response: 77A05622A1C00D6
+- expected_values:
+    PASSAT_GEN_CURRENT: 31.7
+  response: 77A05622A1C00E3

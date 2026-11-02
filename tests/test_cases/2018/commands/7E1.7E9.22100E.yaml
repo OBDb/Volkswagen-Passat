@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22100E
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE_LIMITATION: 128
+  response: 7E90562100E000A
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE_LIMITATION: 129
+  response: 7E90562100E140A
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE_LIMITATION: 127
+  response: 7E90562100EEC09

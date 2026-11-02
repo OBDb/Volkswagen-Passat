@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.22102A
+test_cases:
+- expected_values:
+    PASSAT_CLU_CENTER_CENTRAL_T: 37
+  response: 7E90562102A2500
+- expected_values:
+    PASSAT_CLU_CENTER_CENTRAL_T: 43
+  response: 7E90562102A2B00
+- expected_values:
+    PASSAT_CLU_CENTER_CENTRAL_T: 46
+  response: 7E90562102A2E00
+- expected_values:
+    PASSAT_CLU_CENTER_CENTRAL_T: 50
+  response: 7E90562102A3200
+- expected_values:
+    PASSAT_CLU_CENTER_CENTRAL_T: 52
+  response: 7E90562102A3400

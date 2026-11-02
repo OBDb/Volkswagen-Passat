@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2211D0
+test_cases:
+- expected_values:
+    PASSAT_TCO_1_ST: -25
+  response: 7E8056211D00F46
+- expected_values:
+    PASSAT_TCO_1_ST: -25
+  response: 7E8056211D00F48
+- expected_values:
+    PASSAT_TCO_1_ST: -25
+  response: 7E8056211D00F50
+- expected_values:
+    PASSAT_TCO_1_ST: -25
+  response: 7E8056211D00F53
+- expected_values:
+    PASSAT_TCO_1_ST: -25
+  response: 7E8056211D00F55
+- expected_values:
+    PASSAT_TCO_1_ST: -25
+  response: 7E8056211D00F57
+- expected_values:
+    PASSAT_TCO_1_ST: -25
+  response: 7E8056211D00F59

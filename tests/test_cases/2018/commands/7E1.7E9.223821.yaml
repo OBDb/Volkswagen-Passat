@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.223821
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_TRANSMISSION_PART_1_P_ACTUAL: 1.22
+  response: 7E9056238217A00
+- expected_values:
+    PASSAT_MQB_TCM_TRANSMISSION_PART_1_P_ACTUAL: 1.23
+  response: 7E9056238217B00
+- expected_values:
+    PASSAT_MQB_TCM_TRANSMISSION_PART_1_P_ACTUAL: 1.25
+  response: 7E9056238217D00

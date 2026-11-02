@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22382A
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 420.1
+  response: 7E90562382A6910
+- expected_values:
+    PASSAT_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 420.9
+  response: 7E90562382A7110
+- expected_values:
+    PASSAT_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 421.4
+  response: 7E90562382A7610
+- expected_values:
+    PASSAT_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 423.1
+  response: 7E90562382A8710

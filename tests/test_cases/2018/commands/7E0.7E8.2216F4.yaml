@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     PASSAT_PISTON_COOLING: 1
   response: 7E8046216F401
+- expected_values:
+    PASSAT_PISTON_COOLING: 0
+  response: 7E8056216F40000

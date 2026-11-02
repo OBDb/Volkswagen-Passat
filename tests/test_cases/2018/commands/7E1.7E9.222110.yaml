@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222110
+test_cases:
+- expected_values:
+    PASSAT_ENG_SPEC_TQ_DURING: 48210
+  response: 7E905622110BC52
+- expected_values:
+    PASSAT_ENG_SPEC_TQ_DURING: 58450
+  response: 7E905622110E452

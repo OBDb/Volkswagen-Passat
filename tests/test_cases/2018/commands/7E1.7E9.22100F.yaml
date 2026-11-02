@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100F
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE_LOSS: 39
+  response: 7E90562100F0C03
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE_LOSS: 37
+  response: 7E90562100FE402

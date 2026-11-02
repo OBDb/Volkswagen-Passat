@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.223835
+test_cases:
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 104
+  response: '7E9056238351004'
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 105
+  response: 7E9056238351A04
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 93
+  response: 7E905623835A203
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 98
+  response: 7E905623835D403
+- expected_values:
+    PASSAT_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 100
+  response: 7E905623835E803

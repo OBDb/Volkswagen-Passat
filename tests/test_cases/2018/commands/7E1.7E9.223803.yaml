@@ -1,11 +1,8 @@
 command_id: 7E1.7E9.223803
 test_cases:
 - expected_values:
-    PASSAT_MQB_TCM_BRAKE_P: -261.01
-  response: 7E9056238030B9A
-- expected_values:
-    PASSAT_MQB_TCM_BRAKE_P: 5.25
-  response: 7E9056238030D02
+    PASSAT_MQB_TCM_BRAKE_P: 0
+  response: '7E9056238030000'
 - expected_values:
     PASSAT_MQB_TCM_BRAKE_P: -10.11
   response: 7E9056238030DFC

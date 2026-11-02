@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22100B
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_DRIVER_DEMAND_TORQUE: 1497.55
+  response: 7E90562100B74FF
+- expected_values:
+    PASSAT_MQB_TCM_DRIVER_DEMAND_TORQUE: -1523.25
+  response: 7E90562100B88FF
+- expected_values:
+    PASSAT_MQB_TCM_DRIVER_DEMAND_TORQUE: -1267.25
+  response: 7E90562100B9CFF

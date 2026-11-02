@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22100C
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE: 31
+  response: 7E90562100C6C02
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE: 32
+  response: 7E90562100C8002
+- expected_values:
+    PASSAT_MQB_TCM_ENGINE_TORQUE: 33
+  response: 7E90562100C9402

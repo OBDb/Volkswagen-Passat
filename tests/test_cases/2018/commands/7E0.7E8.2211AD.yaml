@@ -10,5 +10,5 @@ test_cases:
     PASSAT_MAF_CMD: 54.9
   response: 7E8056211AD0225
 - expected_values:
-    PASSAT_MAF_CMD: 107.9
-  response: 7E8056211AD0437
+    PASSAT_MAF_CMD: 732.6
+  response: 7E8056211AD1C9E

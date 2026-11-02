@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.221010
+test_cases:
+- expected_values:
+    PASSAT_MQB_TCM_CONVERTER_LOSS_TORQUE: 448
+  response: '7E9056210102300'
+- expected_values:
+    PASSAT_MQB_TCM_CONVERTER_LOSS_TORQUE: 460.8
+  response: '7E9056210102400'
+- expected_values:
+    PASSAT_MQB_TCM_CONVERTER_LOSS_TORQUE: 486.4
+  response: '7E9056210102600'
+- expected_values:
+    PASSAT_MQB_TCM_CONVERTER_LOSS_TORQUE: 499.2
+  response: '7E9056210102700'
+- expected_values:
+    PASSAT_MQB_TCM_CONVERTER_LOSS_TORQUE: 550.4
+  response: 7E9056210102B00

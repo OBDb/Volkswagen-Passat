@@ -4,5 +4,8 @@ test_cases:
     PASSAT_MQB_RECIRC_FLAP_THR: 36
   response: 7B0056226210024
 - expected_values:
+    PASSAT_MQB_RECIRC_FLAP_THR: 39
+  response: 7B0056226210027
+- expected_values:
     PASSAT_MQB_RECIRC_FLAP_THR: 40
   response: 7B0056226210028

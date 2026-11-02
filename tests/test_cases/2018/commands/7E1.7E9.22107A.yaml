@@ -1,0 +1,23 @@
+command_id: 7E1.7E9.22107A
+test_cases:
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_0: 901.28
+  response: 7E90762107A08B06A1B
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_0: 1224.96
+  response: 7E90762107A40EF6A1B
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_0: 1046.28
+  response: 7E90762107A5ACC6A1B
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_0: 1164.1
+  response: 7E90762107A5DE36A1B
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_0: 1276.96
+  response: 7E90762107A68F96A1B
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_0: 1089.78
+  response: 7E90762107AD9D46A1B
+- expected_values:
+    PASSAT_ANALYSIS_CLU_2_T_0: 14.98
+  response: 7E90762107AED026B1B
