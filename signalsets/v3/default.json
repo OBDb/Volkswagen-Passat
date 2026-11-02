@@ -221,7 +221,7 @@
   "signals": [
     {"id": "PASSAT_ODO_DASH", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, dashboard", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2206"}, "freq": 30, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016], "from": 2019 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2206"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016], "from": 2019 },
   "signals": [
     {"id": "PASSAT_PQ35_FUEL_LVL", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -1795,7 +1795,7 @@
   "signals": [
     {"id": "PASSAT_PQ35_CALCULATED_OIL_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Calculated oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2206"}, "freq": 30, "filter": { "from": 2014 }, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2206"}, "freq": 1, "filter": { "from": 2014 }, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2023 },
   "signals": [
     {"id": "PASSAT_PQ35_FUEL_LEVEL_7E0_2206", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -1931,7 +1931,7 @@
   "signals": [
     {"id": "PASSAT_MIL_DIST", "path": "DTCs", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance traveled while mil was activated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 30, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "PASSAT_FLI_INPUT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Fuel level input %", "suggestedMetric": "fuelTankLevel"}
   ]},
