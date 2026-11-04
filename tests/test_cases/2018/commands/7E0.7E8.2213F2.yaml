@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     PASSAT_IGA_CYL_KNK_0: 291077
   response: 7E8076213F200047105
+- expected_values:
+    PASSAT_IGA_CYL_KNK_0: 291122
+  response: 7E8076213F200047132

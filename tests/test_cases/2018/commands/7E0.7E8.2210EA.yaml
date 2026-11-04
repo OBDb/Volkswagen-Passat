@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2210EA
 test_cases:
 - expected_values:
+    PASSAT_OPEN_CAM_SHFT_ANG: -47.2
+  response: 7E8056210EAFE28
+- expected_values:
     PASSAT_OPEN_CAM_SHFT_ANG: -44.9
   response: 7E8056210EAFE3F
 - expected_values:

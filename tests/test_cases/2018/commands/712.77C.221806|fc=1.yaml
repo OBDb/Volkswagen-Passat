@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PASSAT_STEER_WHL_TQ_SENS_2: -0.16854
   response: 77C07621806FFCC0000
+- expected_values:
+    PASSAT_STEER_WHL_TQ_SENS_2: -0.1114
+  response: 77C07621806FFD90000

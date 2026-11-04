@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22101A|fc=1,c=17
 test_cases:
 - expected_values:
+    PASSAT_A_C_COMPRESSOR_TORQUE: 5
+  response: 7E80562101A0032
+- expected_values:
     PASSAT_A_C_COMPRESSOR_TORQUE: 8.1
   response: 7E80562101A0051
 - expected_values:
