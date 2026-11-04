@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     PASSAT_GEN_CURRENT: 31.7
   response: 77A05622A1C00E3
+- expected_values:
+    PASSAT_GEN_CURRENT: 44.9
+  response: 77A05622A1C0167

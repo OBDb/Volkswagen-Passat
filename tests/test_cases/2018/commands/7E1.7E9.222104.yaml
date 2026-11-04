@@ -10,5 +10,5 @@ test_cases:
     PASSAT_ATF_T: -25
   response: 7E9056221040F00
 - expected_values:
-    PASSAT_ATF_T: -24
-  response: '7E9056221041000'
+    PASSAT_ATF_T: 10
+  response: '7E9056221043200'

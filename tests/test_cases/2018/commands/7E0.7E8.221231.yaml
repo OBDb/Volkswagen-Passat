@@ -4,5 +4,8 @@ test_cases:
     PASSAT_MIN_OIL_LEVEL: 0.248
   response: 7E805621231003E
 - expected_values:
+    PASSAT_MIN_OIL_LEVEL: 0.252
+  response: 7E805621231003F
+- expected_values:
     PASSAT_MIN_OIL_LEVEL: 32
   response: 7E8056212311F40

@@ -7,5 +7,5 @@ test_cases:
     PASSAT_KNOCK_RETARD_2: 4.5
   response: 7E8056210E6067C
 - expected_values:
-    PASSAT_KNOCK_RETARD_2: 4.5
-  response: 7E8056210E60688
+    PASSAT_KNOCK_RETARD_2: 6
+  response: 7E8056210E60893

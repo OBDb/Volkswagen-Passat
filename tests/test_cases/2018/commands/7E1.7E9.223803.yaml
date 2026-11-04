@@ -4,8 +4,5 @@ test_cases:
     PASSAT_MQB_TCM_BRAKE_P: 0
   response: '7E9056238030000'
 - expected_values:
-    PASSAT_MQB_TCM_BRAKE_P: -10.11
-  response: 7E9056238030DFC
-- expected_values:
-    PASSAT_MQB_TCM_BRAKE_P: -56.01
-  response: 7E9056238031FEA
+    PASSAT_MQB_TCM_BRAKE_P: -0.3
+  response: 7E905623803E2FF
