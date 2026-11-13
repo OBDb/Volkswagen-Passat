@@ -145,6 +145,18 @@ test_cases:
     7E8100B41780F0B910B
     7E8216C100C0EA45555
 - expected_values:
+    EGT11: 267.1
+    EGT11_SUP: 1
+    EGT12: 260.3
+    EGT12_SUP: 1
+    EGT13: 300.3
+    EGT13_SUP: 1
+    EGT14: 315.7
+    EGT14_SUP: 1
+  response: |-
+    7E8100B41780F0BFF0B
+    7E821BB0D4B0DE55555
+- expected_values:
     EGT11: 403
     EGT11_SUP: 1
     EGT12: 332.7
@@ -168,18 +180,6 @@ test_cases:
   response: |-
     7E8100B41780F13F30F
     7E821F70FF910235555
-- expected_values:
-    EGT11: 753.5
-    EGT11_SUP: 1
-    EGT12: 536.9
-    EGT12_SUP: 1
-    EGT13: 396
-    EGT13_SUP: 1
-    EGT14: 413.6
-    EGT14_SUP: 1
-  response: |-
-    7E8100B41780F1EFF16
-    7E82189110811B85555
 - expected_values:
     EGT11: 845.8
     EGT11_SUP: 1
