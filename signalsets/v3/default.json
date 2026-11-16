@@ -1273,7 +1273,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "pri": "17", "fcm1": true, "cmd": {"22": "149E"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
-    {"id": "PASSAT_INTAKE_AIR_T_IN_INTAKE_MANIFOLD", "path": "Engine", "fmt": { "len": 8, "max": 143.25, "min": -48, "mul": 0.75, "add": -48, "unit": "celsius" }, "name": "Intake air temperature in intake manifold"}
+    {"id": "PASSAT_INTAKE_AIR_T_IN_INTAKE_MANIFOLD", "path": "Engine", "fmt": { "len": 8, "max": 143.25, "min": -48, "mul": 0.75, "add": -48, "unit": "celsius" }, "name": "Intake air temperature in intake manifold", "suggestedMetric": "intakeAirTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14A1"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
@@ -1293,7 +1293,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CB"}, "freq": 1, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2016], "from": 2019 },
   "signals": [
-    {"id": "PASSAT_GEAR_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
+    {"id": "PASSAT_GEAR_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear", "suggestedMetric": "gear"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CC"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2020 },
   "signals": [
@@ -1451,9 +1451,9 @@
   "signals": [
     {"id": "PASSAT_MQB_DPF_AIR_P_SENSOR_RAW_VALUE", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Diesel particulate filter air pressure sensor, raw"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1633"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1633"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
-    {"id": "PASSAT_LONGITUDINAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 32.767, "min": -32.768, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Longitudinal acceleration"}
+    {"id": "PASSAT_LONGITUDINAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 32.767, "min": -32.768, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Longitudinal acceleration", "suggestedMetric": "longitudinalAcceleration"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "163B"}, "freq": 1, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2020 },
   "signals": [
@@ -1945,7 +1945,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F433"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
   "signals": [
-    {"id": "PASSAT_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "PASSAT_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F43C"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
