@@ -1,0 +1,11 @@
+command_id: 7E0.0143
+test_cases:
+- expected_values:
+    LOAD_ABS: 12.54902
+  response: '7E80441430020'
+- expected_values:
+    LOAD_ABS: 82.7451
+  response: 7E804414300D3
+- expected_values:
+    LOAD_ABS: 108.23529
+  response: '7E80441430114'
