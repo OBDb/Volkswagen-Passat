@@ -13,5 +13,8 @@ test_cases:
     PASSAT_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    PASSAT_VSS: 255
+    PASSAT_VSS: 231
+  response: 7E80462F40DE7
+- expected_values:
+    PASSAT_VSS: null
   response: 7E80462F40DFF
