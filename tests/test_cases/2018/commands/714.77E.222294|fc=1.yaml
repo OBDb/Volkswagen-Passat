@@ -4,5 +4,5 @@ test_cases:
     PASSAT_DTE: 395
   response: 77E05622294018B
 - expected_values:
-    PASSAT_DTE: 419
-  response: 77E0562229401A3
+    PASSAT_DTE: 494
+  response: 77E0562229401EE
