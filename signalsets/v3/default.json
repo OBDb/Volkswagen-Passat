@@ -431,7 +431,7 @@
   "signals": [
     {"id": "PASSAT_MQB_INT_MAN_P", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Intake manifold pressure calculated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "1044"}, "freq": 300, "dbgfilter": { "to": 2011, "years": [2013, 2014], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "1044"}, "freq": 300, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015], "from": 2020 },
   "signals": [
     {"id": "PASSAT_DPF_SFC_T", "path": "Engine", "fmt": { "len": 16, "max": 1200, "min": -273.1, "div": 10, "add": -273.1, "nullmax": 1200, "unit": "celsius" }, "name": "Diesel particulate filter surface temperature"}
   ]},
@@ -463,7 +463,7 @@
   "signals": [
     {"id": "PASSAT_BRAKE_PEDAL_POS", "path": "Control", "fmt": { "len": 16, "max": 100, "mul": 12207, "div": 1000000, "unit": "percent" }, "name": "Brake pedal position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "105E"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2016], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "105E"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2020 },
   "signals": [
     {"id": "PASSAT_PQ35_BAT_V_2", "path": "Battery", "fmt": { "len": 16, "max": 1310.7, "div": 50, "nullmin": 0, "unit": "volts" }, "name": "Battery voltage variant"}
   ]},
@@ -675,7 +675,7 @@
   "signals": [
     {"id": "PASSAT_PQ35_POST_INJ_3_START", "path": "Engine", "fmt": { "len": 16, "max": 655.34, "min": -655.36, "div": 50, "sign": true, "unit": "degrees" }, "name": "Post-injection 3 start position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 1, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2016], "from": 2019 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 1, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2014, 2016, 2017], "from": 2019 },
   "signals": [
     {"id": "PASSAT_COOLANT_T", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -273.1, "div": 10, "add": -273.1, "nullmax": 300, "unit": "celsius" }, "name": "Coolant temperature at radiator outlet"}
   ]},
@@ -891,7 +891,7 @@
   "signals": [
     {"id": "PASSAT_OIL_LEVEL_WARN", "path": "Fluids", "fmt": { "len": 16, "max": 26.2, "div": 2500, "unit": "centimeters" }, "name": "Oil level warning threshold"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2014], "from": 2021 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2014], "from": 2021 },
   "signals": [
     {"id": "PASSAT_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -60, "nullmax": 200, "unit": "celsius" }, "name": "Oil temperature variant", "suggestedMetric": "engineOilTemperature"}
   ]},
@@ -1435,7 +1435,7 @@
   "signals": [
     {"id": "PASSAT_REQ_BRAKE_TQ", "path": "Control", "fmt": { "len": 32, "max": 214748364, "min": -214748364, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Requested brake torque, auxiliary system"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1626"}, "freq": 5, "dbgfilter": { "to": 2011, "years": [2013, 2014, 2015, 2016], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1626"}, "freq": 5, "dbgfilter": { "to": 2011, "from": 2013 },
   "signals": [
     {"id": "PASSAT_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -273.1, "div": 10, "add": -273.1, "nullmax": 300, "unit": "celsius" }, "name": "Radiator output coolant temp: actual"}
   ]},
@@ -1611,7 +1611,7 @@
   "signals": [
     {"id": "PASSAT_MQB_CHARGE_AIR_T_TUBROCHARGER_OUTLET_CALCULATED", "path": "Battery", "fmt": { "len": 16, "max": 3003.6, "min": -273.1, "mul": 1000, "div": 10000, "add": -273.1, "sign": true, "nullmin": -273.1, "unit": "celsius" }, "name": "Charge air temp at the turbocharger outlet, calculated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "179C"}, "freq": 5, "filter": { "from": 2014 }, "dbgfilter": { "to": 2016, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "179C"}, "freq": 5, "filter": { "from": 2014 },
   "signals": [
     {"id": "PASSAT_PQ35_ENGINE_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -273.1, "unit": "celsius" }, "name": "Oil temp 2"}
   ]},
