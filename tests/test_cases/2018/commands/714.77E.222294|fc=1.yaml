@@ -1,8 +1,8 @@
 command_id: 714.77E.222294|fc=1
 test_cases:
 - expected_values:
-    PASSAT_DTE: 167
-  response: 77E0562229400A7
+    PASSAT_DTE: 159
+  response: 77E05622294009F
 - expected_values:
     PASSAT_DTE: 255
   response: 77E0562229400FF
