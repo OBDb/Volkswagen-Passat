@@ -87,15 +87,15 @@ test_cases:
 - expected_values:
     EGT11: 164.8
     EGT11_SUP: 1
-    EGT12: 152.2
+    EGT12: 148.7
     EGT12_SUP: 1
-    EGT13: 151.5
+    EGT13: 147.9
     EGT13_SUP: 1
-    EGT14: 140.5
+    EGT14: 166.5
     EGT14_SUP: 1
   response: |-
     7E8100B41780F080007
-    7E82182077B070D5555
+    7E8215F075708115555
 - expected_values:
     EGT11: 180.8
     EGT11_SUP: 1
