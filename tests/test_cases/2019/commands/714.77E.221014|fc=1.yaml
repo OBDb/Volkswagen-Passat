@@ -7,8 +7,8 @@ test_cases:
     PASSAT_DASH_AMBIENT_AIR_T: 30
   response: '77E 04 62 10 14 A0 '
 - expected_values:
-    PASSAT_DASH_AMBIENT_AIR_T: -1
-  response: '77E0462101462'
+    PASSAT_DASH_AMBIENT_AIR_T: -2
+  response: '77E0462101460'
 - expected_values:
     PASSAT_DASH_AMBIENT_AIR_T: 42
   response: 77E04621014B8
