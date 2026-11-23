@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     PASSAT_DTE: 256
   response: '77E056222940100'
+- expected_values:
+    PASSAT_DTE: 793
+  response: '77E056222940319'
