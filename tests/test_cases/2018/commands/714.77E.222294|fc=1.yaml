@@ -10,5 +10,5 @@ test_cases:
     PASSAT_DTE: 256
   response: '77E056222940100'
 - expected_values:
-    PASSAT_DTE: 775
-  response: '77E056222940307'
+    PASSAT_DTE: 768
+  response: '77E056222940300'
