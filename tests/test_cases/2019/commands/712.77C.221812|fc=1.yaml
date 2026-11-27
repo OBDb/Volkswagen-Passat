@@ -32,8 +32,8 @@ test_cases:
 - expected_values:
     PASSAT_STEER_WHEEL_ANGLE: 31.875
   response: |-
-    77C100862181200FFAF
-    77C219600AAAAAAAAAA
+    77C100862181200FF63
+    77C210300AAAAAAAAAA
 - expected_values:
     PASSAT_STEER_WHEEL_ANGLE: -32
   response: |-
